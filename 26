@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicr7igfwn7hkmsdcmqap6kzxhv773bxz5kpn7qe534yaufdaw7f3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #26",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

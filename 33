@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4lpgupeb4qextjnukbdh7pyn76ekxno6jtc5ykmnc2kihb5ss2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #33",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

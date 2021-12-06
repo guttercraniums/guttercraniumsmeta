@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2evlq6k6ryzvenvp5kf3dvdj6dil26g4umv7psuvf2nmjxalbmy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #30",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

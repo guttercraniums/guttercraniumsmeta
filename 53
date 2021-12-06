@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6rbzc3gge6km43ornufifvc2fspqak7zhhf36lo3c677weupugm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #53",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

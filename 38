@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicv64hdxzqyc4c44nlsk7k3fd7353cf4iha4tipk5xjvjjo6zhayi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #38",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

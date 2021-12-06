@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaaccydhrgegylnoepqmo3txu6pnyk3cw5zgxb45u6swlkwyaycj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #49",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

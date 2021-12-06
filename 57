@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxy4bqa6eeaua3sp4zjou7act44uw6hhe2admviaxvts3evyejqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #57",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

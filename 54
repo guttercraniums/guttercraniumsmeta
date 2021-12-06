@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib3eaf4irwdwy42rzpferyx55xsr6m77i3dj22dxfcg6errahnc5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #54",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

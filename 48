@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibx4ixkhcaryaa674s6iqhvzvqlhu64jo6hqsk74ri6dbj7pihl3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #48",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

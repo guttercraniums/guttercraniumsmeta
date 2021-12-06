@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidggprxx7qb6x4ov74a64cpu4dr5sqx25bp3uguaqb7iottan2jve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #22",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

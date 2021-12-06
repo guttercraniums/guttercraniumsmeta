@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiblr5r5u7hf45qqeuznaz4axknbbsvnos4cpnxqgmzgvjwlxx2goq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #23",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbhtnbymxue57alpr43k2l65z7p3qrlhwcqk4tdisjb62uxvyke4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #58",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

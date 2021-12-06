@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihx4twdewxchpia7lfpe5f3k3pfgbz4flbfx4sfb7qj5lgfczcs2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #47",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

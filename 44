@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiahdsmvo4z6s2fmn5i2vvwkqgyna7q3pgazksicfqfqmkqplplaje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #44",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

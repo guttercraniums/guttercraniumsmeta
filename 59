@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiew7p6qpvczpnesryq4o3dasq4onik22t26yljevfp4h47wiadvre",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #59",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
