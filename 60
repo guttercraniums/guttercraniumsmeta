@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifgweeutfc5d5bgkpzarjx7pxjpihpdzca65zngu2cqfiieigx2zy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #60",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
