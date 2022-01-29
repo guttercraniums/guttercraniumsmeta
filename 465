@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic5cp2ynouznfk2vufhthh67wn5zwzlqhv4n72yxjqj247puwdfre",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #465",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

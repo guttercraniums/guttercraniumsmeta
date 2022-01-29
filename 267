@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqpua44lxemycupgtmhpbislvm7ati5usyk6dy3t5nbz2qqm6jhi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #267",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

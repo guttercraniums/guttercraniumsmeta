@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigb7s3vczyjjelox3jhh73ydopovb6hkvbv733qzphmcib7wcfil4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #155",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

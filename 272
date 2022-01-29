@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiehztq4zjydeiupcubpobghkxx4jto7p3sy4qtxr6fck7f3effdam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

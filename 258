@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihewol7jshy2whhmwp5bijjnody5as2jinzcudnm3spev5i6qhkw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

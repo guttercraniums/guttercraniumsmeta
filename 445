@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiag2st6vgfc7lgwttljxj7rsicqm7ywmkkziu7abfvqrtuxaivwvy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #445",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

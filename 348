@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiehn5yh5wmpke7y7ileylh76wrg7udcb2yeefz4rmparnd6h7jm5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #348",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

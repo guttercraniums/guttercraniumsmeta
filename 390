@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie4trmexdfskyqc5u5bc5jtk3cxfcvnmlqia3iw42h37fgswmlsbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #390",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

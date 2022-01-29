@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2h2vd74z52hrngrecsqfijighew5nrp2cabekjj4uz2nvxvcuay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #360",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

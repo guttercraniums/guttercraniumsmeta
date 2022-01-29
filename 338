@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmzysmxf4e6mxbisz3s34bhfmv66yiebxmbq3bpnwvlp4vik3a5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #338",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

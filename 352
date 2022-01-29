@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqrrcxi2b2on5zo4jnclc72tv4qekmuwy2bitc3ysufh64twjd2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #352",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

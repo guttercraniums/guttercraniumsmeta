@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccwtelfjqxnzofjgifhrl2gk2aglzwm2f74cwah2seyze3ysnori",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #425",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

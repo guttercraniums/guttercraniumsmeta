@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidotoyr3sg45xhv57xacqd4ebz43qnpz374ubufwghvollshfzqge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #137",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

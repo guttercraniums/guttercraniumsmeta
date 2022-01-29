@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic45rjujbc4whvyot2c5pojylmigwyxzvsewsa6xllfm66zomyhxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #406",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

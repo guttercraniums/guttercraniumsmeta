@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihof3sywgtjygveuarzqpdrxzlnab53dwu4r2l6q32g52rw4js67q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

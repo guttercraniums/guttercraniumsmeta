@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhgo4mpmmbhfokofpbcu3fjhko6dj5lv33lmeqbrsxudot657a6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #378",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

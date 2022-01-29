@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsfdhwtyi34gpwckxmshub4h6g3mzxwenscuhawajpbvubjytjoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #319",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

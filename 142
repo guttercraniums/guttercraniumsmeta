@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvnvgdgspknp4jgdpqtiajp5qjnimavt46ijm3mazuif4p6hd4hu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #142",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

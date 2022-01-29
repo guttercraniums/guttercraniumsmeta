@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiejjwxxne2cpfrv4qv3dqxcbo7twpmau3m5pqyn4bu2paxjzy2g24",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #119",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

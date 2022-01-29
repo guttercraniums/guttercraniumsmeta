@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibg2ggjidjvpbqbppjwwasg63rkfsqbodb6zgh6mdtqgrzbydobcy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #418",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

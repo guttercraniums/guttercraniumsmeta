@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6y5hdsxnr5g4y5zx3hnr3n6csrxnvvbqvysgshfoirgkfouzdbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #85",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibv5fssigyjqeydunxjpfot2u6d6ckdszbuxcwvvuxk3atdlswkxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #422",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

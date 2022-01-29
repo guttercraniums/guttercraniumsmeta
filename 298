@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicwzq5mk2xgwu4kujcuuuqclvsywdn5zxeml3raeroav7ttvusivq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #298",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

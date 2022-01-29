@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia33cyrlz6zyzg7yckue7uzym77vqzyjvl3xbyyinfpnkujuhptpe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #479",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

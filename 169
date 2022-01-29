@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeials3vwkklgkokhsosgk6l2thvkzhwcvrqrsc4sz3xplmgqe4f3li",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #169",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

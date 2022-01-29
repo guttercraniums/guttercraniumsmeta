@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfif7pjhmawapsqdsuwdn5mi7sfgpx5v7ruc2ulrqs5thr2aiidu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #419",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

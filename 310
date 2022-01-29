@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3pdvxgzq7ajarpq6fsurdi7ke5fisv4bvekail7qast2p6ekdf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #310",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

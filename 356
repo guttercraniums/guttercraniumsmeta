@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjjudnvpijo6sanye5ih6pj2ol2gsip2q33m6h6dbx5xxly35tha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #356",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

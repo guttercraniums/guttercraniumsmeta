@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaowfnjfcwo4rnriqxmjfykvqze6dn7m3bricngmnjlnuxo45ceja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #490",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib5ticj76wdwe6tk3uogzkc2g2wsvt5svkwkiuo7vewqv2gwpz42a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #229",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

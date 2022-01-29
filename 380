@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajlpcmivv2bkbkuseim3t43vmsyt7wcl2ppsmu6jnsvcx5t4w63e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #380",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6fdgq3auyrtkyvntkciamielzp42c7ce6lf6ycl5nxzs3eyldka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #218",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

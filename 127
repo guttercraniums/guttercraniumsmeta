@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxhn7diq5fytt6an37pmihimsjmn3fjwle3ubhqfrpr3blhtsqta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #127",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

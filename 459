@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeies7xbm2urpovpasvxt6upamkbcuxqvhxrcim7lp24bjgaufqxwuy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #459",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

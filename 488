@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbse75uihw4ximiw6c4vjahg7j3qai25ngsktxa7plytgih6tcxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #488",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

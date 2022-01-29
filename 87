@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmljrm54nqoupyetbjyzp5jqvdtq4ue7dkrh2wpdgsiwo2tnrbje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #87",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

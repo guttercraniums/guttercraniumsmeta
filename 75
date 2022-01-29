@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidn2lvwox3xmpsbwfgepzmnkvfivnylisqngfqdfjbp2ijnhpmt2y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #75",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3m2etooztrf6iffevkdjfzuvaxwjm7tofkpjnmi7htaqn25ozhe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #342",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

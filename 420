@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3v3bk6rmzjuzxdziuew4uop6xesfakxuaue7gwa4igppua6ayne",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #420",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

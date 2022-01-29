@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigr64jate7lyxark7l2gi4rrtpj6sbisoodjgyztoa54tr6vnjiay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #282",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

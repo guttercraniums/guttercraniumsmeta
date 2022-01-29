@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrmvivqd4ew2g6vcqtlhh2eo47wo4436ijzo244dhrdk4sj2vijq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #466",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

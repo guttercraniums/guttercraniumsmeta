@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdc2ohuxbfv42o5cb3m4aarexa25a5uon52zrntlgfv527bnoehe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #361",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

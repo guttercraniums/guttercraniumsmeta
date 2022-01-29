@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib5wybd3exwqrw2izn3g2woras4frgfhpru75zixhx3x4epu3rpta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #452",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

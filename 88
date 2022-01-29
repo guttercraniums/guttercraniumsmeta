@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignpyvqlqlsfio5omsz5x4zzpm4xxxtb7e2wntxb5uexdb3hby5sq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #88",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

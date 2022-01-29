@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigihbtmsnivouezzpck2hu3375qjxelbhaqgudst7qeevkuu44vse",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #80",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

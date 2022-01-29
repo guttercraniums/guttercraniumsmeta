@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiey6j3qs7zmw36yxybrmon2yiepekx3sy6andwtlk35biv6zximia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #325",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeici6brow2gkgs6bfl47ulagrui6akivlpezhsy4ypf44vsa4umi2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #328",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

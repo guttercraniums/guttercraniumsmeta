@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigajxt3yal5qyo2wfxh46iokj4i6yukn4aflve662d5l6rfqt6klq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #105",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia5kduuttmyti5g7yunfoo2vxox6kwjmzz3cjqqoumpdsiamrgqma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #384",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

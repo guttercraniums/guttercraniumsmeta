@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaungfiygbxelqowqokdawacwwctdtjb7soqvrl3wu266luu2uvia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #207",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

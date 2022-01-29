@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7ki6cqqpst5n36zcr3xc37rmmesem3atieifahwv33niar64tca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

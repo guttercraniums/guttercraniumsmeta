@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickizzrejlvwzxd7axcuamrdvah4wcynrjkfyqucjg3qgmpdm6ubq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #224",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

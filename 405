@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavtkw3vkh5p53cy4uhznwlapd5vcwpjz4r6oghpdjw6mybmoj2ry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #405",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

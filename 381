@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihst5hd3hfzuz3ns6czqnslaaoqq6c3vuwcpimlsj236hdx7styki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #381",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

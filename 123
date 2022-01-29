@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2dgrtv53gjxou24u23lxiofc2gqumx4i4vrsctqf6hqwzurgu5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #123",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsszzq3qpki3bmo3hp3umxyyyxw2evsupgd5abs7imynsi3lynbi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #483",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

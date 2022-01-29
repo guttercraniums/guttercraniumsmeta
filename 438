@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdll4wmnbpa4k3yxumi63zvu2n5g7tvzd6dxqfwgos4ozvsay6ay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #438",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

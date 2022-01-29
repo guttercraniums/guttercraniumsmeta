@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiboazvwamnmgvw3siswclhuopwu3gjrwjaimei2om7afoheeysxby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #213",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

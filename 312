@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie7cca76ensawtdmt7w3v3jak6pngqd2xouxqlfnq4tgul7jqd3be",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #312",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

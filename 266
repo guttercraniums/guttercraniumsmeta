@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeian2fjvxlg4mzb2ibxmnh7ulqdixrjxa2jvlf3fwrtbkrgwbl3f4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #266",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

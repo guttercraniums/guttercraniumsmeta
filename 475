@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiawvdy37seliy5n23sz45kyw3wdnpnbm67zamer5lsrctnkqmcfcy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #475",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

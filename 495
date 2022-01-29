@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiba7iptnbyralwtgauteh4pcf2ibrbrclvzu5wmqxz6ut3ecn5nii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #495",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

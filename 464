@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxty2l3kwdsg2nj63jdtawjveuqb2jynkannsy62zs2nfey2d4sy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #464",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

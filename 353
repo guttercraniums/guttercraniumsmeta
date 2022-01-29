@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecgyc3btpf34qlmtd4p7lnie74dktbhongunje3amgnl6cpefray",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #353",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

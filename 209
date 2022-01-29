@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihn5wk5pfsqndqt2rda5g2xstxja22gzb3npnpskr53cduhcn2s5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #209",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

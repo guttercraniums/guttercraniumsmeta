@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadhwyfskgnhwordryq3gcbp2o3um6vv2zdrvz7b7szq237vroocm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #487",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

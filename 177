@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4cdybpo55jpxugdheokjgya6wnk36prvg2rcjt7qzcpd2ox3yfe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #177",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

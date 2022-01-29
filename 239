@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibt5x6lhtvrxsfmacktdedual3kcdx22sscquhv545zpp6tg5avbe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #239",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddkprzgs65loijrx5b2u2gqk73zyxrgnnrgy2xmzi2yruro6t4yi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #458",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

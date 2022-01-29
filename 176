@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaqa5dxagvfc5httocetcplpxwmn5ccdq4plvue23pswgptvkgmwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #176",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

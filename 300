@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvcuh5xapptrgzvbjw2fzhhdagbusprxt3abd35dtp4amixj442e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #300",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

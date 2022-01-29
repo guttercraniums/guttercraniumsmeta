@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwx57pirk6ty5jgchw52uiph6o77vdrpourn7gfp27d3bsqm4cbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #234",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

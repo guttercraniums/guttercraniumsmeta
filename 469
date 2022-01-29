@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidnqxuzmyd5a57t2i5ggbtb4bfjbdmnrfosbzv7qatbfbhf4iwx6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #469",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

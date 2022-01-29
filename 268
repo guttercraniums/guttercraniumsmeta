@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdqtwhpgkokaoxmnanx7qtewkwe57pzl5eyklfebscytiz3kaqsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #268",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

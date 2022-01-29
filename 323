@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif26akqmzus55wthuz4xr73udubaphvf57w3udughvu6ik5fagu3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #323",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

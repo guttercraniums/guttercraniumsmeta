@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpef3lxuyk4utmexgs6rt4mhnjjlyf4s7uh3bzfleysvggdpqq5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #444",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

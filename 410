@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkz5jxh6qhwq2a57shgkq35z5fgy7uei7frer4p4rm2ovsqvenw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #410",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

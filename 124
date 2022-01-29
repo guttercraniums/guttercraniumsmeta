@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih5d6zowf75jee5bpd2nf7g23ar5xnj3oqk4dt72wtv663ws4znla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #124",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

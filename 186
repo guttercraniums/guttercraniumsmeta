@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7wmhgaaufkvtah2bo7a5gg2sadpu7lt4pphhken2qfr56cclaau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #186",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

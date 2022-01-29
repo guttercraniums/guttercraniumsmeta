@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigx4ur7zf4fv3rvdpiys35hkpp254x2vsgfwxpz4oc5iu54y2acou",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #324",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

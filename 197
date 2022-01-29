@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjp52dkaqruswyrbbdoxj4kvxdpkqn6huaenr4wnib54fy2rax5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #197",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

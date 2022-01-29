@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdtpmxao2oczimzzdiijh57im7ouwucxn6dehtjer5rcieehdx4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #284",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

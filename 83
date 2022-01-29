@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbf4jacayddgkyfbwjsu57rbxpurtem5cnssojbqh6edfztfnzw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #83",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

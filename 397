@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvkjqmo35dou7dazstls3ta2rw3lhzzzac5m3m7ig67767w7toia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #397",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

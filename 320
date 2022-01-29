@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignyk7ll3qxrwpp2rsapcv7fdmlgu4rg5bnwpk5v2urv4cbqvv7ey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #320",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

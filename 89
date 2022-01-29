@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeige5xt4wlbqwazukkr227ycawrokzhalxplw7o4ugz66h6ou55g6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #89",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkil4ieuc5kvtwqcbpwqv75aq4zuagnrwvffiy4kuxeviqibvxxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #477",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

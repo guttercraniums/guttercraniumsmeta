@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2adjqdwprghn4f4se7a4it5zr6o4fu4ulkoprftwbdlqmd3lngu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #376",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

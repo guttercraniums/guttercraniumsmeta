@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7n7ejhrj4gowagdee347zd6k6c2a3jd5vkld6ttaosm46t6iuzi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #77",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

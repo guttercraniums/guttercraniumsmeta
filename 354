@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeien22ebquiu6jgeigbxx6tl56m22suk7f2upz2hdltd3jk27qrsbe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #354",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

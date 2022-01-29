@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigazs4sth3ohfy7gjbq4lcsjuv2gk4ul66ut2iyxmomtvkpljk3ua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #111",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

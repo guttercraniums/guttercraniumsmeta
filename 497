@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicym7fjtvq55t65eo6tnrf3a4i4kzx436e7m6idiu3fb6jvrmoiyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #497",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

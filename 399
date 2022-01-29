@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigv56lx4jcxq4ajsstdinzwj66hzefu43i7nln4wmnykyrvkeqtce",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #399",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

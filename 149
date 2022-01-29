@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhw6nnetw2krbnc5y5ae4xukmnsjasxvpndhx4li4ububberii7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #149",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

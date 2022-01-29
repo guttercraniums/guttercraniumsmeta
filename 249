@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7lzi5v37fp6yyskpriatoysdabndqvde5rbk7l7cdmylafsgm74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #249",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

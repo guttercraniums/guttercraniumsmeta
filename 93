@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqiimd7twttbgd4isgrb4x66ueiho4gcxaqyzxbjdyzhjz5hpzwq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #93",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

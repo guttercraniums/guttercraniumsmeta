@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeial5gv3sf7oztt3kbryofh2ynmrrfnxc5mcahj6ukn5xfuj32zaum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #157",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsiqres6dd5htccsvedccn6qkiddd3h5f7ektlq5fox3hqjqg2ki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #82",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

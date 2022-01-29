@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicb3edibq7pq33t7fjurtbgnv7gxivzraltgjgvzeugg537xcw5xu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #165",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzg4holu5zv3opyoxafiexlxjgszxnedhxvb6qpeh4vi2eclmh4q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #154",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

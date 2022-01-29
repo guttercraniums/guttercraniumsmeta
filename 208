@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfdwjbayad73pqktobmdxtcg2ruzwfc5pwrayp6z4hkdsuayjhxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #208",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie66v3eef6z27f2cr5s3c2lax6jqovpldyhy246wlo225iu5q7viq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #262",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

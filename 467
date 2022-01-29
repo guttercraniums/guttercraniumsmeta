@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjrnsqamxorspaboshv6h6wt25u2p3eewrpbnbnbldax73dvb6p4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #467",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

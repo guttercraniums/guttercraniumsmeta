@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihssblf5rcoimfxjisphion7rkcutpiw5edjlfzcfjgaota2x5o3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #198",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

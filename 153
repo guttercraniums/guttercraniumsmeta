@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifn4wmkferbe45dhmxfuwwj5igkt7py2lpz3bwdneutduuvrupsiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #153",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

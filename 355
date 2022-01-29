@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihikleocdt3iru3wsw3ho7iqhk4mvjpn4zxujcsjwyynm4atqqwiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #355",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

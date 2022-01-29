@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidubc4q6rr4f7efc2iqel3lo3fkygjup2h7vtddi7y6xzaj6trmlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

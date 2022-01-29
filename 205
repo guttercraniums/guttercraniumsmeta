@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaswauui7ir7nmksr3yhuptszlridj336dabhezuyxpx3zoo7tffq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #205",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Paragon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

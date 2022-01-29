@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigdxszf3sh3av5izxn344osj2dnzxl3pb7dbyxa4bxncezdvvphju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #453",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

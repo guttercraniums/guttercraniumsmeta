@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefkkchwbfqhgnwcv4cbyjzarjev7kkumupuuumu77se25fz2fao4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #74",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

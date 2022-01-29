@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcj3zpl5cqqyo237j7hajaio6jm63f4sb4ujcgg3om2g4avq6zgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #472",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

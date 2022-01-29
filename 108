@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyigi6xdab3sq4hdhccqqfu3xsyj4epvt4x42vqw62jip37g5lau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #108",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

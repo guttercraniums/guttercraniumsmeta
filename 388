@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifafhmzj66fwfvrag4f55rnqokazsxx3cmo6ytrhkxzrj6hefenxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #388",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

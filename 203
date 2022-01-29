@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifkdwu2vhmvklit4vp7bacswbxls43ir6piwq3uiprs6owhapvzdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #203",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

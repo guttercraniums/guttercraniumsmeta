@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhvlw6shfmvfemkdc5z7p4f7pfpq5hw4a7mydn4s3wlpzjom6fty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #484",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaiybxmzbayaokptdumcjyfagltpl3hxkskslpngggn2zwqp7sm5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #333",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

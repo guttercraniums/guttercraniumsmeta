@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkib5xvmr2adkdtbl2rekjmf3i42ova744wlsmn7qgljxmwo4pse",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #97",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

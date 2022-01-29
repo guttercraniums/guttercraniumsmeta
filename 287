@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemsgurud5ycimi44ewck3xmb6zfwfoxrj67sk45aw5ey4tnk74gy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #287",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

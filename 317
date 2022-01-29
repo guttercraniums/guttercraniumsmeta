@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjie5hzo3t5lh4ynwqqflyap5bf3jjabinqxglcgotqnkbf2fvzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
