@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiffn7ibifbuiiy6fzijiwunzyp3qv26voyn22yvemeaienvdw66my",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #538",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

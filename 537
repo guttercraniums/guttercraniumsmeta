@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif36xjafjnacy4s7t6moelddy4pgxj6d3azg53cr4avx3wcbwcr6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #537",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

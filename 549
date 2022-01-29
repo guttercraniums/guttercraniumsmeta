@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5dyxejjhnfg5o4567eqsiox5c4mvryg5ravkeic24sq6blj7szm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #549",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiakulf5cxri3ltqxtinzmjkwizw2ndgjdrfmlorxuscxl6ombs7re",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #543",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

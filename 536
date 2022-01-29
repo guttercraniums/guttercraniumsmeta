@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiawlaffe7zk75cmbjkvezinhj3dnv2uusqess5u5erblztx2ywqde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #536",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6rl74q5h32oorhflxpeb3uakjmon2iwkaiawlaefe3sharwrxw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #539",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

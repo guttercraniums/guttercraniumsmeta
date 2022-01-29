@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifk22x5kh4ty5gfdnrk2my7q746jcvrt5n7k5mcu4ydqyuturgkqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #553",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

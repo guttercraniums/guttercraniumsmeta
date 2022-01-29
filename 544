@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeievq3oo56sqsaw42t3joslp2enmmbqun4jo2fj6lmmahw53ewyf3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #544",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
