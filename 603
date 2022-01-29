@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7u4fro4x26ja6qmvwf6sbkpwpq6mmjhgz3hfxsc7i63hktbjx6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #603",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

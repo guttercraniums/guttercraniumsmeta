@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifxhhk4mywv4ztubmvinzctepy3pp6mhy3laoj36ihhgdqcbhchde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
