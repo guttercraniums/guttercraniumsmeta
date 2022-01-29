@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie7v45u6vkprceehxo66odor64krqahrqv2hte6eun54vblpqbqqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #589",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaapg3bebsavrfry3bnmdpb76lezyra35gh6ce7734ijyhkn5767i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #70",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}
