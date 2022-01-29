@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifysjn5kafbexqktk7akgml6qk2fi5pzz5im7gecetadpcbkuvn3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #597",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeielbuprod7bexqxcrq2pqagfwv2dtigkibt3ztmtrnzvfdlzm5xtq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #599",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
