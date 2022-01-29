@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtedxycraqgueapr7sl5z75nlwgmfmzzegmvcs2qz3jo5pt7quiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #624",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

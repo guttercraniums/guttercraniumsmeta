@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewiiqafk3hqoaz5qstjyjyi6giqahl3a57b4gdb2cs7lrlcm7ioe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #620",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

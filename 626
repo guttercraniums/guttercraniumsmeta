@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbapmeaponulwi2s3tijh7q4w5wjq6uncqb3onc23237nbij7o7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #626",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

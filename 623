@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie7qf7ruxe7vyuldzd7b26djpgyp4d2zkdz2yyd24cfhmjb2vdpme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #623",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

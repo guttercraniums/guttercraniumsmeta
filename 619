@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiczwnd7z3d2nskdfme53x4qktkdezgyyc2iymk2z2354qazixq3xy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #619",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

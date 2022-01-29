@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwfjogslcolxptmrxztl55evp37zncmeijfvtrxboduh5b3qpcf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #615",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}
