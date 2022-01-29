@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignv2bvj2jsm3nttb2kvhwk4yhxwyktc2ac47ufz4qs2hkxqlhn4y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #566",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

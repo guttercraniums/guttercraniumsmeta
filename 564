@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibcbgtjscyw7uqkmnz6iqfa3djvuxxy7cqct6bdgr4khkr4fesw2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #564",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
