@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie45ma5hbdgwfb3jgd5chfwwmanparwg3ftvglhuusludu453bova",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #507",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

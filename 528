@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6y4x7mzu5bmjdgcphd7rlljshep5ldkfkr6exqinif74qrrwqjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #528",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

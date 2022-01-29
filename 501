@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicugz2bpis2s3j7qmpjechneaymndcemm5svxutmluljwdcpqb6wy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #501",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifekaztxgkztbblgm5bgying6mecj4oigwmskrvb3qbtu46cvt3ma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #526",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

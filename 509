@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibx3irz4jwkvlzd4q7iajslpol7k4bl2pavteqvipizx7rm6knsaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #509",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

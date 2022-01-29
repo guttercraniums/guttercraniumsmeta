@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie66iax35a4cu4bweykkqs7bfui6s25a7aojlq7pocxsbvm62x2je",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #515",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

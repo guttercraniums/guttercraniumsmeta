@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafem73llha3mfo4mcljpx4cmwa7eer4yiwdziagshiokd7sk75cq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #508",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

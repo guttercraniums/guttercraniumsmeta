@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicatbugco4erm646ygvj7cfsr6aua7rddkmobeyzetkbd7vq7omca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #510",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

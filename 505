@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicz4ntng5ijppj3m2ppq546jxciajffwpk5hgyppjme4yln2p6uxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #505",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

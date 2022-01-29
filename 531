@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihv4vbcz5wg73yteaiakp54qqvmajsz5unnquzthkcumkovjqf6ei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #531",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

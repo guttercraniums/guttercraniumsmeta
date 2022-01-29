@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibf26uwp7nhhz3b3iicosf6ccnedgsuo6lthyyhtghlkm3uwg7vx4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #520",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

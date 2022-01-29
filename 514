@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibfzqe5pz5yibfxsu6f5ib2ch3xavg6ehoyziz4yh3f6sjkyxhywa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #514",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

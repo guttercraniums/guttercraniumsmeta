@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfboatnjhlwjmti3onkt6dhyf3hzrt7ogze6iuc646opw4qne5ha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #530",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

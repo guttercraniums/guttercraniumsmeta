@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaradmqql7owgytch5fu2olnjmnnk7pv3mzh3whblfk2znrlgcaxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #529",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

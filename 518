@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3jqa5iyygleld4bmode7vyccecwtk25bx7bca6hlfmb7s5xlstq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #518",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
