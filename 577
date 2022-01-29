@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieoktrwckm4dovpy2gdskovvijw2hhq3oiodefpvj7bsomuuhsode",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #577",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

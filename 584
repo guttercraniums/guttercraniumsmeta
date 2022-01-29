@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid66a4xbbsnznrbo6cmvfkzhzajihf4vj4shdcwz3esbbrv3fv4di",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #584",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

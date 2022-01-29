@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvz45mfhxtn6vzrl37gxpnygkii3zdeud3m46l7qtrumcslkjjmm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #571",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
