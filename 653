@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3iwsqung35blvne7knkrk5l3yr7m6wr5ziw4wt6fvnk6zrljcya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #653",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

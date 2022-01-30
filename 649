@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazunabwsq23taec7klnmo7fqafxncqxfmqjlawrzao6zerbl2of4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #649",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
