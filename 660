@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibr46ikfls2fve6t7rjudzx2pxkdoftjbe2yl7hqfgs3wobiwtfry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #660",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

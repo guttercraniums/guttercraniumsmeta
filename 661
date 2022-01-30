@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib5ywhoalnfkg42373cpggjwnafhxskwhhwfnrto76efe6ar2ntfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #661",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbowmzc74xyzonrm7nlqudrzh5tmjdul5jg5f2ghvvdpzh6hzzje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #659",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
