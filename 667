@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdn3zdsugl2iwmyyvxcvenhtqd4oosfd6var6grrxiiwjtoipugm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #667",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

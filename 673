@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaxe4luiurxw5wyokikma3e6m5kqiknu2sf4ony72ff4zafhgmcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #673",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

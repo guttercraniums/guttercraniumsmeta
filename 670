@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialsnd4pthpcmbq5ttf67dn5rpp5okfls2nskq4ww3xh3d5xgawhm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #670",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

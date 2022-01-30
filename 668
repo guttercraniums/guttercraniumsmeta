@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfi5qw2anv3jb6owndqke6mym6vh26fxid5ubvh5slmwjoftfklu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

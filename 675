@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifc77ivecsmabaweymnckih3gqodbjwsp5jz3m4mxtyifaot6prqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #675",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialoglc2qwqjwf6ccxjjnnfdreyag3awhhnyjxcgh4zlexiqgobgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #679",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

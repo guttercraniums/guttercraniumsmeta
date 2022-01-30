@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyp6c63x3u53uctrq6pkyqgt5xurvuytqbymgtlrerovm45s3pkm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #683",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

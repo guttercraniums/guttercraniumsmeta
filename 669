@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigymuvyv6obdfwms2gsdz4x3n5qdsdmwbb6dhvq7nfcy6t26kzrky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #669",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

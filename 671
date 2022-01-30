@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjsew6zseathlynwh3gvvxffce65tx7hjnwxvdaqt4pdugr6gjem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

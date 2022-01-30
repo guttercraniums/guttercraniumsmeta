@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigularbm7lx6y2wpuwld6v72uptwaxxhvcmtoeboqobhvptfn2yom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #674",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}
