@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrph2kallkvx4tpxvd43e7vxxbad7tp3nd5dwseypr3qwmziijse",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #635",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
