@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhqu4l2qgxvkzw3kb3adozxepo7lomkud4qcbtl4ywzbijttswee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #647",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

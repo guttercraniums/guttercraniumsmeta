@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6durvvxkqoucfchk4ey55mdlyqpshwpigrkeqwoprkq5bd34pii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #645",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
