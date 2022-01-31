@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihsaswpfuinivc2wnmejdvnn6omr5vbcbdb63e2um2gu4aui4jsby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #687",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
