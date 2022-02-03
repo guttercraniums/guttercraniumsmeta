@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigocarapp27qi545745rlfkvfklpzvumv5cwxfhtwh7k5obcqse4m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #699",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

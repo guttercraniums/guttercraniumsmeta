@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidbcdwuagagf344ty6qmx3oh6kzeqnsq6qpxby4cslsyuiyih7awy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #697",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
