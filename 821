@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibaz7tsf5fly5dahl2a2ly6ulodkgytpliqpo7azpectryoeuv2ra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #821",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjydwansbhzvtstmd2qck5nmfhdw2kh6dtubwu73yfab427fsqim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #817",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

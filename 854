@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxgcnl3hzwmk2wkfw56lr4vqz3vqdetclxfpecbr5fln4ktupoxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #854",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

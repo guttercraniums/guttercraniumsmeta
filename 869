@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7p76vhtk6ejj67mkdnxmp4gh6dxwed63wkuea4jzkfyhyctpjyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #869",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

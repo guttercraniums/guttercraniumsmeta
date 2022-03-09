@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidsjiazchvitflrdfwsiwuvrlvovkssigfuzjzkj2g36io5mdii6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #820",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

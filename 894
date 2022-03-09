@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnrvfxhlkye4u7hz3aztestzx3f5vh4rtapjhe4ups7nlxepwdnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #894",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebcztonyalhcd524k4buumbgx7i2rqlqu3oxspkzjf5glu6kboam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #876",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

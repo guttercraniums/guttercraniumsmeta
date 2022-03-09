@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid45vb74o2obxw2fkbzpqc325stod4fp6jwgc5ade4cxccw3jteta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #826",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

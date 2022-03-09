@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif33hmxw2rlz7mgzjkricikvr6mnpiyvbbikmob7b7bfn3l75wqam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #844",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

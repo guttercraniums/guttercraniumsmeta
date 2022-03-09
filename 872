@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibakqgfnixy5vke2z2q7imhyjc4sgcfgm2om2c2shu72abgk46hva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #872",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

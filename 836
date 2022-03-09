@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtgmg6ywe6yzdiopg6d7gvle3tzq7co7awifcz64vftsdndqspv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #836",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

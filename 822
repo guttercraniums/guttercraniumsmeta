@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiczworm5533pov2d7hxvfqp7wkalb4pbm36zsduh2ozeeq4lc5hxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #822",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

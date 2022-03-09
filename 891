@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazepqw3lilbiujqivh7akajzneu5i5upe36pn3hd22u2ita2gm6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #891",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

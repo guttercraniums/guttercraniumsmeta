@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibuuvcmv6yk7an6epmgihwrscxqgicdpzmb4xg2va42dxchr37hrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #831",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

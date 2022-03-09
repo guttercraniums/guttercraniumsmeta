@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic5yprqtl7zkjdpx254tlaqqji4j33ayhqzcfjc4o3p6vnrpsgwsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #865",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2n2km2wykomgwruvk2dgc2yqqo43tcu7foni4ofm3n7smjko4aq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #853",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

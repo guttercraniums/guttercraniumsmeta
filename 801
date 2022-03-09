@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiec43g63swmharzshdr7j2a3jzhrqvszr43munuuky4bmpwl6xouu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #801",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

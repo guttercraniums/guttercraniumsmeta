@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7574utfd4gnzib3p7uamivs7irg66gngzlprkufttbaqm6iw7se",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #888",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

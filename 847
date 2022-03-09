@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaeicw77kdlb2st2s66pel47ik2uztvpx3ig6zwp4bt2h6uo45dgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #847",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

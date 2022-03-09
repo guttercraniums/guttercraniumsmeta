@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeievrbkakj6esycslgyvbg7gffabvhj7oc6vfekvlzrxneh4clmoue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #815",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

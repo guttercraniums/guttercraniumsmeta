@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicemhdjwqdvpb6pkcupprp26vfld5t6e4ehjvoqodb7brun7vxre4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #802",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwuw33hrd2zcgmlvjprbuktjqid7p5inzgch7bnvtjgojsaidu7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #827",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

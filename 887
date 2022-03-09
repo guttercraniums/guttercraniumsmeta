@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekyi37rhmpop2ger73hwyu3icd4g65asko7bh4pmz23m7dbag6di",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #887",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

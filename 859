@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbskhr3vibfxythwpk2ua3orelcjw2oktw2zldncjaao6uh6wqom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #859",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6lu3dfbwshgjmva5cj6uo2ki332c2lm5m6sivlx5dvsbv5zh5by",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #892",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

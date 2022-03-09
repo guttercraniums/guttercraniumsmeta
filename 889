@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglhhrt6zkaywmo4ut5i6yx7owu7fqxkniwtmi2qz36g6e7opgv74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #889",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

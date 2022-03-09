@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiauwgcg7zjtjjyclmzqino2ep73iqrvdc5wbffipu2edbaad6c3sa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #829",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
