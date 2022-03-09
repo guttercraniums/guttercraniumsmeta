@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicx2dpd3skjkpuhz5h4p2kosjecfaewxzoxloc3iknzs63mjmydjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #721",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

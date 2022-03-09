@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhkirq4lbt7qtqlnwzs5j7dng7wj3mteiydpcmyuovelpvu65hqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #743",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

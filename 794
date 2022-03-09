@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibmwd3ie4k7zjwcieplp6w7fs3crnldn3wbjanligw7mj5253uzoq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #794",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

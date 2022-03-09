@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicoex2wge4diretnc2fv2vzhd5kjq2horfj553fwivs3mzvfvesma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #728",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

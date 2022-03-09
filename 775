@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibezinqxev3kt2mnrl4gcrdf76temvpih3h4dhe4enntoijx33yum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #775",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih3q6rgpoa5g7r3sg5cadjgeeacbjq5jtrwony7sebqqxtlwqzy4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #772",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

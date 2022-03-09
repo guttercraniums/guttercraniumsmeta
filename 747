@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkqq4py5jjhdsilwaowqni626gktchfnbc3s2nklfzyqb5kittfe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #747",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

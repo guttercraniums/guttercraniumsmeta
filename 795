@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2cas56mi4fuc5fapz75bnqssld433jmpqorvfgwgmfgperu6j6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #795",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

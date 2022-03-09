@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6xpzlus4m65jfmvzkkifixsonib5chp3afbye6jzd5jbjb7v52e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #789",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeide4napouly6brzjekmyz77ygk5j6yrtbqauaqzo4s3q5nw5s6we4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #745",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

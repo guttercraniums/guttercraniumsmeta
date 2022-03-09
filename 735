@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjaonphbzfe5p6xdxsmsynzi2g5rycmpwtsbfy2uojktdgkxj6nq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #735",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

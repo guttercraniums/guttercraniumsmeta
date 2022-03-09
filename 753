@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeick5qkdl6dvj54obia3o7wht4hs6a2f4w3ssifvjbo6qqgqbnpivy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #753",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6gtcvltb6mml5vl2qplo6wda3e5lddts2tmnxu3kvnimif6pvie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #755",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecaheacv47zbehni5k2llbnnxfxz3wpdr5oxdwuzuqlkoqe5yhny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #742",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

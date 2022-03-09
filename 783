@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigekmwjwdk2srbdsiicijtd7chplzq65p37qopvmfna47b3kkrhzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #783",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnhpowss56rkqetjgtwy7kud5x3jtldd6dwzzcsokytu2zevobki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #787",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiby5bykcjgwuz3p6bfelugbsprijhxnz7fsltddou5htfgvkk2eji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #799",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

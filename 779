@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibimzfr6qskaks6urlyvzmkcizfhg2bple3yr3ge4bk5wmgrgzdbi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #779",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

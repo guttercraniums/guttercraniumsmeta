@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibmehh4l55vgge3ufbfequpxukq3i6n6l76uzy76xemjqasiismlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #706",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

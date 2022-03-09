@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigu6trvudn6sxmbtzqui6n4whzfvnvprb7d2pdgamf4zjnd7vigdu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #780",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

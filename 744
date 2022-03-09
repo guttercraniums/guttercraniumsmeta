@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih73cssvsegncrjdhdouj3tmb76ppel2z3w5rqlxasmj5oosek7xy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #744",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

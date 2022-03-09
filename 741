@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7giqr5gazsn64niolvugtb4lprmxfjpszybc4n3hvf5ounpvg2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #741",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

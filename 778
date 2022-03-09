@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidyvwidp62ysdzcb5ovpqxeq3sfwkw52tij7gv7xb3ywmbvqfnktq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #778",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

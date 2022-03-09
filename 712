@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjf7smtf5lzdztuueip4l3o23g3iwwqiw5icootaywlkmydjkm2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #712",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

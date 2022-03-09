@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic5eblk6k6wmlv62v3nyiu75yytr64jasghjzqc2iuvgpeac4ceda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #729",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

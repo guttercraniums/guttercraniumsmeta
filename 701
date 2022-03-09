@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeice7hcftnu76rcrvpsvtqjh7nmvzc4uceo2mkwioilzrcn2jcmr3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #701",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

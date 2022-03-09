@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadoes4u6ivfz4g57xnc6memccwtfn6i4inuob2tumjo2rk4cncvu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #792",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

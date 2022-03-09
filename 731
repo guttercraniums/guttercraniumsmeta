@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeies6tf7kdylrcdohmbijzd5htamnjpibfbu2fp2q6emtdmltlx5vy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #731",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

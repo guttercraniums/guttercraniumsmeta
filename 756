@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdc3iwpcoiclv5jhypf5fvjrfsmqgm5zipncnpiis4ivwj53vaia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #756",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

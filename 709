@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2ps7ejcifd6fvdtsjfmf2wlskhj4mfvkvsizfc6khua2tt2xlim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #709",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
