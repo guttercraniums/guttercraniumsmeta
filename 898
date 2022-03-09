@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib27dreccreh2drk4edkf2jahnx3s4h2m2eg4srwdxzppok5bxy3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #898",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

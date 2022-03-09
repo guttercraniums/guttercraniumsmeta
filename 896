@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicr4sk3j4cuk3m6vo4j5jpbpwc6usiwvviuplyarljr3uelcnabsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #896",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
