@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglee5ybcx5j7he26l66lpjqk56k4pkmn63wqiuir43x3gbddtcpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #966",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

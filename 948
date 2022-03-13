@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifuffh4kjxnlfvzlebfy46zrd6nsro3pehb5ptkxcdbmccxooq36i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #948",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

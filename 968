@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvkb7snh6trq3iusr6a3c4hc6pzicfw7ik57z7wqb5umskqajsrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #968",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

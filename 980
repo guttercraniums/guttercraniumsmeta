@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigvigojrfc5v4o6tji5mkx2amrxg77t6wvk7e3ma52fqbxy55geb4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #980",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

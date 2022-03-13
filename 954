@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiha6gy6crnftujvc3saovke7ag3xv2tw2xggfoty6f6wfl4xmy6sq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #954",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

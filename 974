@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaj7yoybq3xsejyk5lgqtubxcllgcibezhfwbbbzoq4d6br67miim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #974",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

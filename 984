@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigj37mj2p7bj32l546b7nzls3fixb7n6uwwkdak5dptxpflqj5hqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

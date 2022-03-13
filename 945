@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesoe6b2fwwcdwpjwdokfszhs27sblo5dcdszy466scukom4rmhuy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #945",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

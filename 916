@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaq7i3sac2jqccn56pkldxykn53sts5wd6wct2nonpg772zoetnke",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #916",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

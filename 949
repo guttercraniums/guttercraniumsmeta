@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmi5ogdrpxifgib3kslavijbejfzvhexymys5v5mt5vjhymfznsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #949",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

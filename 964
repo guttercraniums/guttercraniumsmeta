@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvjpdeihujr3cexifqxthy5d55hxzsqap264xwp4pj6z5sin6zvy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #964",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

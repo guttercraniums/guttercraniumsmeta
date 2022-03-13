@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiayvbnskz2cyxbxfgmb7pd6t4a5m2ffoyypptnm62pihldpapvxwa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #999",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

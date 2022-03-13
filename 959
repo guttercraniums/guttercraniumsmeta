@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajexae5ysaeaof25mfpw7cw7f4edbe5vm25wc4k6pbevfex2gg54",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #959",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

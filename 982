@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib55itm3wy74ii5iuowab72y6dbdzafmj6lpr65hxxpsjq7pc35gi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

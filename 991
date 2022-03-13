@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbi4nqxwar5hfqtgurga5pp7lulx5jxwhfxhlzyjtwqr5kcpafge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #991",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

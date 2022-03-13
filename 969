@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjouauepd3sor2l2i47wxzkwme5r7aogrgaxzsz4pkuvtc4oxw3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #969",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

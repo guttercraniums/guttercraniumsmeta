@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqhoqmqsyukvf7tkybikka7eesnputbggzamxuq2cmoij45eojcm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #909",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

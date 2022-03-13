@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7f4kpio4zl4cxife4tyqhafqfu2ajmcp2yrcxhxjbyqhh4vuqqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #994",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

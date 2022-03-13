@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6nso6i6vj5oe6roqs4dr6l2lsqzylarcjkv262bc5qznbpwyg44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #922",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

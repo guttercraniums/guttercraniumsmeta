@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrubvinilo3q4p4df2zuvuwv3jegyoklquammdpz4p37p63qmske",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #987",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

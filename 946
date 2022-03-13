@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidt6xvu4bleubcnm26aqtei4oyjhar6biucd2if5c5bgo64dlp6ni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #946",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

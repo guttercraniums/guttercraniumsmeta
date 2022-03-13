@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6iwu4mxfbfq7juapvtiqydxzodwdmi6cfk5y23yzuuvsebtoqim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #990",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiae2iotpybzwxy4dnfe2ov2cuj5tk6nwnqzxrxyjgqgoctrw5df7q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

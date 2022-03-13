@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaw7gisbmctatjh2mqsw6zops5ptaoynjkhnzxd52bjipomdb3wxa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #931",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
