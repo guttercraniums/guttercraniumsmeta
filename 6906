@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidblflxvh72dmk6pg3qustkc2snd75mdzyhvfddvwmyretqllsqve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6906",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibfh5xa5pxdzcdh3vypnjqzzhvcii7ibtbn5ferzymwmac77g25me",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6715",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

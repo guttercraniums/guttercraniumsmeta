@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibglimwig37qkr357mxj4gnhwkntkcrpu2ylef4v4tn6kldasgxq4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6975",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

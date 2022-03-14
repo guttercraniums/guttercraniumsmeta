@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad3off5gy7zpa3uib55st5x65r7isn47734iseedg7jkjeyvgwma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6917",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

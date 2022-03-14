@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiej4qi4jaxlm3n5urdepkzc2jldwwrrv64ibdyfgtdwwpb22e5exy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6940",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

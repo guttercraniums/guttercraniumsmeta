@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaz6yvrzpawx2b2562u3fze4tpq2d35x32lwdvmmzvevh5amaxryi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6899",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

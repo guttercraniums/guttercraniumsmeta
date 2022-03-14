@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihswlhpblmxsesbjkbb4jhieol5w62tydxw25razftwaalvzd75lq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6964",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

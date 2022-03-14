@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmakfo5qe5y62nr6lfnjn5xinhtfnidtbe6dslyxitsre64manoe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6830",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

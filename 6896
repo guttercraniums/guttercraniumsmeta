@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxlhixwrwdfwqinj4jpnkoobxx4arhimtxuhso5rtzbrr7yik3oa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6896",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

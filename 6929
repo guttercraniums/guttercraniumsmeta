@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicb4ucafpjawvksqy4j7ypmg7kjash2tpesxvkys7vzn5skixxzza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6929",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

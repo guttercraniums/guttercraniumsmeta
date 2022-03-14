@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialcfshp5k6igxf43cdzblcko6o75idmguqg6hidorghvck7xu5dm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6936",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

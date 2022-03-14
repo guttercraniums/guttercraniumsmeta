@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibh3vdt7fcpfioylroj6mzttidis6yozzsfm4d2nb7pm3mwlgnoau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6818",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

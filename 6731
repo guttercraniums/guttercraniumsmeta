@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib23jwt5hsdpegzsbtwoelyxkswbj4kcmxbw4hwlb72sk5ojvk2xq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6731",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

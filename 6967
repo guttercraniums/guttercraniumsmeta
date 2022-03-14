@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsqdqk2esb5p4ggw7t452a4kbrpfsv7qpypksuxx2vi6xqphhtte",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6967",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

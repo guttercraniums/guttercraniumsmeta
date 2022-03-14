@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih3ikwsfx5q6lb25z53lqnsfeb3ytuzmmtsyjp5pedjpmvoif6ryi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6852",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieboej665fbyj644t6f63toapbbvrisyznvnhukwt5lfueeakctci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6842",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

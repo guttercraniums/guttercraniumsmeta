@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfnf3fa5mxjug2mmhiyt5q2xfbqcwb6i3h6fn7b2r2hu7zgfg524",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6866",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

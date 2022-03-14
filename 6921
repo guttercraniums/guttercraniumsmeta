@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigaei5n6czrcjg2k5ilbo3ysilky4at7vp5ktsr2s4crpqoa5ouoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6921",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

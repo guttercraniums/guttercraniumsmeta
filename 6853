@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx6g7n4jjf4xyi7g4vsdllxh5knngnpomaanuy5dzlsfx72hobsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6853",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

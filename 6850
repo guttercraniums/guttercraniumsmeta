@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2wzn5lbwjb6gqtc5wbtgbim5uoiz32xuxvsjanv6b6e3hlmh3fe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6850",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

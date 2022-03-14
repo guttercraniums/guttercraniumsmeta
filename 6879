@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihk3u5hnsrwk3gga7fy5ii7qtv76t3eyzmbq5pve6ud2jkabjp4ca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6879",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifz7ywpnjm2iw7fa6gehok7ed52pxyau6nita74jgrxapy7q5a6ea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6956",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

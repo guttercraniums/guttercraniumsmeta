@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhccijb77rratho56tfljp4zhocpgp676u7qn6b5gdy7q433zyji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6946",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

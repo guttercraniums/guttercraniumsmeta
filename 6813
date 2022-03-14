@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifib3ryf3tkcjxyy2rizu5npfw65i2xyc6kvyuty5yckxilkj6hia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6813",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

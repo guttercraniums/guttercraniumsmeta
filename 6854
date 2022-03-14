@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxgp77w2njsoldikukou22iqgjhi2u7lgh365xug6epvxgtb2ow4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6854",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

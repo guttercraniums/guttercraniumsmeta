@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgml35pkup6jlcfqazynabbvelw2fzsgpq2ydi6ulqhohnw43fxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6803",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

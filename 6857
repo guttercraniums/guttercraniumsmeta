@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7g4h2ooms3nru2beeaoy7bpmiktymceyqrlhoxmubynz2ftsjtq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6857",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

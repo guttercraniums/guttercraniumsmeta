@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxhloymz3enaojz4shthuokkagn7rlz4ltge5yqqre2jpmjnfqxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6902",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

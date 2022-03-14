@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqxojxrtcneclmelvqnk22lmoic6hk3k2ezdl6yew2jcori6uinq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6877",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6sxh66eq66pxdg62oxfd5nic3uremzlvbaknlkm4k2s7dq6cv2y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6817",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

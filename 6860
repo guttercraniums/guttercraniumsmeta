@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicy4gdpm5sqgvmpkmnupx5j33yxidmsqug32ur4xhwcyvppcpxqsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6860",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwy5oklxyjnpv3gzozjuvkncnijqwnuw36vvwriocsuvjog2lc5e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6954",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

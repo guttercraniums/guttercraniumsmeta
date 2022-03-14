@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigy3k26fnqnoe6uk3a57kzn32rt273db3ibmiflkzybsb6ldjgy5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6915",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

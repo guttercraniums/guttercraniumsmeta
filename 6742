@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2poqfdkza3kq5l5i7fcpyayh5ir5rhzxo6opo7tjkas5cahwace",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6742",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

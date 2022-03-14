@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibisgfxad3cksibj37fmirxo3w4zqj2i5mso63qna55nbjn7jl3my",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6749",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

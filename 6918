@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigilz3cs5ct6sgvnykkuqggrowmlvaymp5wojehavlhnvwpseitdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6918",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

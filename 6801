@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic44mskf42rmea7sjc7fl6zg3xqpn5alipco3c7mzzhubhsor3usa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6801",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

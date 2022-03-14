@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdec4hz7rb4ozemg532omtoujbbdie7t5ep7rbclubom3pxfbfzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6796",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

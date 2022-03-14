@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiboxez7yymvncbhx3qtknfbxxu2ufklrzrqzyx2u4dj4uwcvhk77u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6740",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

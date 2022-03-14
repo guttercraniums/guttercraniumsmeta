@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicp4medlspu75nrrbveda5gxqnlvzhga6tzzbzzs6w3if5qearewm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6961",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

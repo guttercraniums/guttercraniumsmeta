@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2ch5gtdahfgtdqso3n7qsovfhw6c6tbgrfvy524ujthvs3f4p54",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6750",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

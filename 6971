@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6cmj4khedtytgdqxgiliuwwv45owzoup3d7rmpcychno7szbhnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6971",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

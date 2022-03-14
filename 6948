@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjn2xvwjue7qu75tiv5aukwyfevyq2bt74bmv27lvx4ylhk2lkka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6948",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

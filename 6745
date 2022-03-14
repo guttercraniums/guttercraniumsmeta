@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigazyb766kvlcepjawi6hiws4776lqwxlvihrq4pee6wjulocmmze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6745",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

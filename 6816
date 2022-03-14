@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihj4waokezpbp5l2ljyyylgajppmi3ulp474gavijbq3fmtdwabou",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6816",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

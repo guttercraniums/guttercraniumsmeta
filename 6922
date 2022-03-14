@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigz7gopdphwa6nfy5x5tjfzcakltgemo5l4q2a7jx27jjfipqqbzq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6922",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

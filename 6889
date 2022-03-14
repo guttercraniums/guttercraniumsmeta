@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifrfuwpr626ypi33xzw4tbam6w7xigdu3o3gg6qk6ily3eklmqg3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6889",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6kk74clyyji4lfdlc6n5whidrj46rdtcsmyn2nnycjobrypnf7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6746",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaf6bsitn5vwgbkdyo2rzi4fec275xd2a366use7urg45sebew47y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6878",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

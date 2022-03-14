@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidscr2f7pyg64scuqphxvffbft72cvddp4b4dnv73irr7ga6de5sq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6707",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

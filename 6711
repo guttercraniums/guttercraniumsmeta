@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihf4u4fp72gak6stp5ssvwnfuymmkm4pzotxrmj5sw4frslhml4vq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6711",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

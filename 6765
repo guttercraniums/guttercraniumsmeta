@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekklftf2agwc3wj2bau2kkqp7k4czcyftu2m2wfdscjywc3mnb2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6765",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

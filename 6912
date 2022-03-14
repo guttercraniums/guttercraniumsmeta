@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesklmhhe5fihyptf4gumwpfwxg72okceabg7xof2s5nv4vmajsri",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6912",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

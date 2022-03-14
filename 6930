@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiabv2z67g5pzbva232sga7czfcixrg2ybklfifnaoulm4oavd2zli",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6930",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
