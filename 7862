@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih76y4mrwuqvp377iwgdegma3i2rxksvielmrev7anv2f7ld52kme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7862",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

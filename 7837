@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihs52ojno6enp6x2boac3vuawxhtin4aolr7swmxbmswy5r5fyz7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7837",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

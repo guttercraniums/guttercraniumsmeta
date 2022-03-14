@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7x5d7w4ucvxqxdyviyxj5h2hygjf53u7hstcqbzabjqgjkz7fum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7790",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

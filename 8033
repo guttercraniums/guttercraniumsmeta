@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieeww4ah27o2pniyjtggkvwnm3kvpe4pgr365uiwo3glkyb6tutji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8033",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

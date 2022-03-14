@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwadl3qj3jkkdleig4sszsq4eheuuqezvue7r3eahwcn2mg7dyqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7853",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

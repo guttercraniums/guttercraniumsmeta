@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihj3opgkxipz5reqbfkv2glkpgllmt5ztsqhni3n2bqobkou6vidy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8021",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

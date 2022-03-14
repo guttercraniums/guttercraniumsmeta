@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeige6dhsm6ll2pbpvefgczy7xkhhwtsemn6xypvvrusg6fbn4humzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7916",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

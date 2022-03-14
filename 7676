@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifqpdr4k7lsbcmjbztb3nzipogoqsnzsovfdldkzoumdaxmltdchq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7676",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

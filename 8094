@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibtzwv757sttvmr4wl5rc2wmmyuv42z4nmej4xmqdxqfqjzmhmvdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8094",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

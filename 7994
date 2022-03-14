@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkdtc4tqbc33cois6uzouesws5aorlmxg3wsgiyptlgbvvkk3aqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7994",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

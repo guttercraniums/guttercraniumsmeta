@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvnhxpesmzbvktjggvg3pi6rde4pjobxqdwxj77gzuu7ouvgfozu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7845",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

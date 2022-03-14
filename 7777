@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavi7twras3xn7vlpcasjkj2a6kzpe2v4c55gxrbq3zy3eip2wmee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7777",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

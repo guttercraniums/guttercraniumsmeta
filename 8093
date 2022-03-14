@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifk5ktssc3f4fytxvg2tstd5r4jqf2gxf3vvnb4dmsalpyi6ql5x4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8093",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiempbd4egezlqcvhuswjdf3z4adfbly5tapmlc72vjl5jzx5woc2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7895",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

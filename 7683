@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif7plggoqlnlgkuwjikb67nivjfag56xl6s4fvvoygd34qitayzka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7683",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

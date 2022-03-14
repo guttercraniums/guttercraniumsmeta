@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcy5u36ljw57znmlz7pvgjnwd4mo5yysxmvg5jyea5qelmdoo76q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7980",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

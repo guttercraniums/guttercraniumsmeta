@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxtho55s2oqvk7fxkqzdjzy6mvxbcmzqqny6nc2h26sjj36pv5xa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7763",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

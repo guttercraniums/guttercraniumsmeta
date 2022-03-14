@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrr5qs6o3ekikghz2ap4ezn4vjuh2b3onii6n2kzrpgtmdamitrq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7699",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

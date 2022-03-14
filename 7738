@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6p6wo6b3wek4nfgabgy66ndseyltlzgetzh2vlptrihuuinzb2y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7738",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

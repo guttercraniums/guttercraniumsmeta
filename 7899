@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeighb5f7izoidse2zmkwnhwtrmikhfype2eqgs4hcwynuqtyv74kvu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7899",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

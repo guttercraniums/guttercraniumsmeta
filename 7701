@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibczxsginhk2muynme5yhvrjbhbe556wqc2xk7t5xpvgt2ut6tdze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7701",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

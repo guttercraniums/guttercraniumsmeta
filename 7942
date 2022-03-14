@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibi62kqsl4ko4aghdzmazjol4waevs7cobligqn66c3rtj7ns6bgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7942",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

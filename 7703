@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieunhat4m4mdav4bt4ylz6algt534oiww2pitcg3jtcnt2wq3rd7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7703",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

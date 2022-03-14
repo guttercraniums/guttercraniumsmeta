@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifgppemwzgpmmx5u7fhobk6zdgb4y5gs3k6m522ntmstfltc3npl4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7934",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

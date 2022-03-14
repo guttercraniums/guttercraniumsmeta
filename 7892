@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5yrvzhpuiq6tggl2de5phb4axz7visv7m6sgyrmz3tc5qofof5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7892",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

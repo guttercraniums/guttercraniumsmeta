@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifj5hujdhpm6w7jn2r7emew6xrynwdgmfvxmf6ytxdwwxzvveij6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7692",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

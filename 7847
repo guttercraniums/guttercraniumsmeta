@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibndkpbdsi7vkgzrphxjmaxcgaarn276eikd224r4ew73jzzzztem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7847",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

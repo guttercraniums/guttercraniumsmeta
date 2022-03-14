@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidi4ma55rrtbpznk3qlaueqktidwee3ks3gx5zmrxwg564hohhe7u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7650",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

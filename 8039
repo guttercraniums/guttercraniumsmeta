@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4dok4hukc3ytp34ikzii27wsgd32pa6eixdv423pcug5zuvtmju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8039",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

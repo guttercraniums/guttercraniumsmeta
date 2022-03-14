@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarjfaskagk7gwftjmn3sgf6a7ostryj7pikmq2ce76pn74fh5kfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7878",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

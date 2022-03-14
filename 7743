@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7rs2ytehc4cf2tb55dxzeqibmmzxoujb23edq7pupirbyfeg7qq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7743",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

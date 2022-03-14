@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgzikg6iw2iyq2pl6on3ky2fh3bsd3v45qgfgcvrdx53wpb7cuue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7879",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

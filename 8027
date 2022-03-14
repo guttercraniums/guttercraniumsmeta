@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigimcjmx7n5dti2vxu5i6ltzokfgh774xyuv4r74ppoaygumltxpu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8027",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

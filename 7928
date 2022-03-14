@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidv7fn4mpv6lo4z7vp7xvspeihcqr5yatck5fiiy3c6pkn4ofjbci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7928",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

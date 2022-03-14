@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibj35ag6ntczi6gvb2eku7aq673eyvmws3nahq5qbwlxok7w6qgye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8023",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

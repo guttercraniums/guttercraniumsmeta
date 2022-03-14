@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2uhlbkffxehetpnz66vuttih6vuus3xehi4azy2aaykyk55e4nq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8075",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

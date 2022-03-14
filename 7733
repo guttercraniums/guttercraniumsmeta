@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgsys4h6gt654juaics5n3qwx4ebbsxarv3ius2liq5majbj3o6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7733",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

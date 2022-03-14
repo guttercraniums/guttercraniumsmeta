@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigdpf662swdgsbfd4nhz2fl72vqr4uo4zxebbwzartu4wuxlk23qm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7651",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

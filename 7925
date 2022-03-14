@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5vblu3t6gbqdckmighmahso5ox7xchsneepiul2ua2kzwx72smq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7925",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

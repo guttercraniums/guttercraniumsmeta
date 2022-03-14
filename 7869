@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnu65ltu4u6cgl35nbwammtcy6xxxdfsoefiy4ve74y4tla4t2fy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7869",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidrmpktxgkvthvt6akuvik3ok45ujypbx7ouqwduu57d3j6eoq62i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7819",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

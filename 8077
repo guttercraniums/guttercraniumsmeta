@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsz6suylesfx4vupy72j553oxccxoakc45utwmxhgx54gz4aw37i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8077",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

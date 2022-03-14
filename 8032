@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicet76e2ie27cldspqckrgtz2njplel7in4362eqwoozghr7esiqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8032",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

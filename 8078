@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifd2yg74oj4m23pxi4btd22pnved722qzhcwdm2nqwrgfxdsdc3wq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8078",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

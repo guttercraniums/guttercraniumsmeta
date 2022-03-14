@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdat3yaslxp42scmjbg66wif5eata4co25w2qgcs63i6oiqottsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7938",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

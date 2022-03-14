@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigesxse5cxgtqkxpe4mxwsql5ij4xrtpzgluavnpbrtzebcxupwzi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8047",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7y3fr7xz2so6yx7waha7bqwuruxj6uyirdkt6hjguzh4rt5vck4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7643",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqiwzrrbynmyi3g746efhasnnrlll332fo5h54muyoarko7ni6le",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8060",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

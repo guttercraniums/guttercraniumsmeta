@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichkfozuvb3p45toenfivpsjwimullvshgygodgyls2b32ggm4jwa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7820",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

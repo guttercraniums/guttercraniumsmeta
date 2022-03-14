@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpu5fgumnty4gsirzv4txsayzwh3sxq2qs6jmpzvxvok3i2wgyx4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7693",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

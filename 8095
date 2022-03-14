@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrjqmlmmd7dfjs36rvt34ngodr3uzanei54nsh6nrjkdhftdscpa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8095",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

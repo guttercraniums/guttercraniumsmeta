@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibt6rlknp4irmr5ygozlhqyo5uxb5qjlupoay43jfzxqr43trsx7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7946",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

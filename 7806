@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidq3dejuuxjassmtav5arcf2ujb6qij5bagc746swravo32t55viq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7806",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

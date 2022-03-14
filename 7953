@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaiztojklmjy22vcxb4rvzw3xyaqrbtr6nwd7utayd44szu6bmlgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7953",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2sppyfyeit3bfbzjfs5j3ppd6xgpq4pbhj2qwb2t4c3xqsabho4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8016",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

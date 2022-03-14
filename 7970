@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiasfd427hk6qepdjmifhysy52ymzfb4ljuouh4vxqkodzphra2vpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7970",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6vlhpht5t4g44igt54ngtffqph5l5pqbdnzauuwi37d4xeqt3nu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7981",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

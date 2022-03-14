@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtn6vcpo6tzhyw4phwevf4dpgb7av23ur3fcw4xckzmor4hay2u4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8010",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

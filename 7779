@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifeaepjklm47w7fxi2eeoyhoycsvdz6txtzc7mzwkqoroeilpso6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7779",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

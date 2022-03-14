@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5ydfuu5u6jzpew7r46yhu4pq3cfbz7ppck537ax5p5sn6cigsii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7880",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaavh5jb6n3guyom3dvkxwcwzcepsu7jytz4cyrlbio7xv5ttdvgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7939",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

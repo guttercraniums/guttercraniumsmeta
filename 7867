@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrm5avpf4c5dthmi5uzkvtvyar6q75wzxlua2zz2d4d3a4cysbie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7867",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie66ad7rkg2u7c6htbiecmw5faqnm6cju62k6wx3l4zcffzg4oyry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7872",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibi2v4mjjgn3sift3uvwqbx4wn6z5p5byeh4glq3fpvx4vltokcya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8038",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

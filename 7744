@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibofyc6hqtmogiuxaclj3wvvwrzai3k2gfoqajlf7uxvspetax6qm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7744",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

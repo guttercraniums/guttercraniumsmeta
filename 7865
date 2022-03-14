@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid6mfopp2c52teo2u7xiflxd5rghyzibwbve3yzis6cr4ieul6mve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7865",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

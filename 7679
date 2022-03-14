@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpzig6olzcmgcxfvqm6pqzuahgebnvg34hs7uucxnkeepst23r34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7679",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

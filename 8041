@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnb3yh4bfpogovr5rzdc6aw4wdhzw2kiywphvfusf6liz7o7rqlu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8041",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx6hubbtvx4amu3dkj4dddz7m5nqyjld75xzbcavvklovkpx5seq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7681",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

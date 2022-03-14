@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2yw3ay632osbgoqxpphjruww26u7osb4rdlp55gt5wn3h7rngfm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7828",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

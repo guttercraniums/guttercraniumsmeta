@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieiv7aod2ra6hi3yy6bdb4dolvaawzch5fh3amvqgmcxuhgvn33z4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7782",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

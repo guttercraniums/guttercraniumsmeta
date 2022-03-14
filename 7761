@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia72kue6rnki5wvpiblrgwhg7v6ycf27hkma6dpcyrszhytwqi64e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7761",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

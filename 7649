@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazs3lcp5bw7mdlo7aovlns7rterkm6l3cr2p2ltdovsfflh27fnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7649",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

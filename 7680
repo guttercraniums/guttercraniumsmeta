@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxwlwglplyae3gdew5loyf73sgc3mdqiuer54zk7hv3jpbrcsgba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7680",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

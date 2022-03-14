@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrug5oak3uvbwubfsudhelmtmblf4v27dwkmy3yo3lxrffrgjhuy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8006",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

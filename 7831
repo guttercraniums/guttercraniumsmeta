@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaqky6a3gawh7od3gqmysozsbivcqzie6kn2wfq2wr3a2ghs4xwg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7831",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

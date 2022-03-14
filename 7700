@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbqizl6y3pgotciylpaiemg4n5arlqn56zawyytgniemfr4spupm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7700",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtfh6mqrvnmukjb2fl5hife5hsbn3i3crqc6wpa6cfkjcnyaoh5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7781",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

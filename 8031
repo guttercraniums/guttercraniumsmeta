@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifreltakpxveprec2hcgvkubse7utqmyb6e5sl3azysxzqvag3cly",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8031",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

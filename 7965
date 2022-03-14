@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidf5k4uw73647o7w23lucjpgimtl5fms3fbaonlyjicws5fqe3zzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7965",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

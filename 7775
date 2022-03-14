@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigg6kht6b3iyiyncj4jrdgxmdhn2oanhuo6h2w27n6mdar6qkmria",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7775",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiel7iw57xku4epbj52cdejhknt4mf5rw7vt2nuto6i3zoxkwf35sa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7794",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

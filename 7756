@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyeiitroikr7ic3q7pgzvusbtbi5ckobae5oomk7emxod7nbt37m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7756",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

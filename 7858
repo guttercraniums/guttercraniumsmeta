@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeias3ocabnvm5lr6g2bpmxxr3gzwml4sl4ropi7tplk6irouto2tlq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7858",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig4o2u2tmzm6y2iwcgw7yzi4n3czotzzrxf3hao2ju4a2r2nm3noi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7793",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig4jmca2pe6ezc4xisooy54c6t5tplp77voaxhbbb4bmzlq622ltu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8059",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

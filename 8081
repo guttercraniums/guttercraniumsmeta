@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifkyxxt5dx7sdngdk65b6pxpgd66h2uci3aebduvol4mqs2vk7d5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8081",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

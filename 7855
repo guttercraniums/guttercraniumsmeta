@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibkenyuudid5evx6nxae2xzoe62niwj3cf575wdwb5ecxprz3i5gm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7855",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihzb2n2zur3zb4gm2gjt5c7rqxtrzkie7nneek264l2f6liml3uie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7771",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

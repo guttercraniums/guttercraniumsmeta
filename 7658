@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie66ovuvmntow3jyvcqjgiqdmwctebvbzc3zo2vpfmzud57hkyagi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7658",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

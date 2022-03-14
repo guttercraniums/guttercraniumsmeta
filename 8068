@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibegvj2zlhauw7dfzdcsgfxgshz7jxo3q5ilomprskxo3x4f5pqcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8068",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

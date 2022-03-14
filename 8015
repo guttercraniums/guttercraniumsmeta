@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2sovdrb4czhm2jpk44o7r6dgiupopo3ojqkbv2fthbx4uv66bny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8015",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

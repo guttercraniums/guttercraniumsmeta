@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifioxbfdsotn5xei6rbh6vc3kojkz7sus3wwqjulw6yzkxrdgmc7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7842",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

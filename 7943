@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezxweu5sz3v3rol6f3bcikyuml5itcihyy3smrkdsdcpnfx2avgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7943",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

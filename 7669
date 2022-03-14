@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwkyx5bpillebuv2qfcc3ijblz5rgecfzkfisrlovsmd5epswz3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7669",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

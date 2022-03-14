@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaax67tp2lrep7lxn3dupu454ygoixwpfuxhszpviuon6wuzkdruy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7759",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

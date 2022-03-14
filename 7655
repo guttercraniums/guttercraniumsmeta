@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6jt6kdjxqzzjjstyz6zvyg3vlz36asy3h5o6akfdugg43z43ljy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7655",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpa4dim2i5hj6qxt4qftix4oexpalibvkha7guiouel64wobpqqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7838",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

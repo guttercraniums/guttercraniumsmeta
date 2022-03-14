@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6oss34dz37izqed2xpb36rko5py7v3vzym2xozwe2fpbvgktutm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7905",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad5sblddiaizkbdt2zhjm36ig6vkhcq2q2zs4bzdaac7cnb6wav4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7764",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

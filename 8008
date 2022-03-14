@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedyycfffw3hzdd5c4u7lqxtt5vezjvho4j5jhdk7vp7efjm4jggu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8008",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

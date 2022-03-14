@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigp2rdygu2btv5rwluzapnm5ptmq6qlm6ebg6p2pnjbpblk3yb644",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7900",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

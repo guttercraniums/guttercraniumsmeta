@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesudrn2luzj64qjdek76272nrf2dyq7svfpy6naprinkeshssxtm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7902",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

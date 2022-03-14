@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecvlphka2sangffdfanyjb6fk3saqwzejsizxbu4bxou4l7go46y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7918",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

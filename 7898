@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeievk5h47cqqd2eudlgaidagaf5ekn6zbjgb34lhrl3n5r237wbdae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7898",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

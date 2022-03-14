@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdp46zns2mpkpc4v3zolm7xwykudbth5qk5dgh72zvhsupykgbva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7930",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

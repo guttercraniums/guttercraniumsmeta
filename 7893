@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4ectx4z7xy7c2dy7akaunstyjkrmds47mnepniunehmjtwtjz44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7893",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

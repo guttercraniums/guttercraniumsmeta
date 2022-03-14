@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieylhdrprax4xsmrcx7wicgcz37y44ph7a75csdtkt4bcg65pkn6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7906",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

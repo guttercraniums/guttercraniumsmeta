@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif27yo5qvc2klidww5qusofznsvvxufjxnqrbrkymxkmje32mmqxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7822",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Paragon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

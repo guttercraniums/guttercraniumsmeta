@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxr5izswzhtu7j3mlp6h5ptr4ni6c2bg45osxc2v3gxecut7ujuq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7826",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

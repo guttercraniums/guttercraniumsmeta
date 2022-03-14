@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicwxakju7qqqp5smncyvbgwbafpjlec3ahqdht43rxv3lmrkhzlbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7784",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4zi7tfxqkssx4vcnvwku2uexexq3um7dpjqb24mhhlwlwlbdn5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7978",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

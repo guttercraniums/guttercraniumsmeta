@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia24xeuumgycmjmo2dh5v6ghxi2ysdnvwk2fejcvd32r6vdq7nrv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8089",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

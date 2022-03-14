@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihr2x3qwx3c3z56jh3wqdj6hpgg3yehjtk6j52vfvxuq2folrw2dq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7634",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

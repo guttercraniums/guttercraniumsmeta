@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeice5z7ew4ymtn7w4vr7yxdef2ezpvegarwizp2y3f5buaxmg4scg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7715",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

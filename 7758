@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickwgozocb32uzupmoiijozpkhfud4n3bwvd6e7htr4yxmtuwpqjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7758",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

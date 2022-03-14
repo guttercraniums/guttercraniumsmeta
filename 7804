@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigvdwvykdy43k5r7arelxmzigicmpargbg66pcvxeuyn4t7h3vpqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7804",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

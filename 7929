@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxprfdk2ihh2h6il7sy7xuonirglxy77fmxlv4vtboeke2s6icfa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7929",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicz5fvawis2txw3i3ycvbyjc6qkt4scsfqmo7y2krqcbuzzncy62e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7807",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

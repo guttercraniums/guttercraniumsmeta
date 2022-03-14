@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4xm3bgy7lzgjlkznw4p2dkhuwf7xkrxdynokxkfdfy5wr3a2ybq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8101",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

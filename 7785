@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicx24wo3g2dj5nwt7nrwnlmdfjtgvtjrowom4v7qoa2hqifz67pa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7785",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
