@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiatqlki2lnho7uftyrgwfhxxqjhjqkemdglxkj7tollu6on7kcdiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5905",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeics2kslwafzwt74gealyqrrj6pezxhezdo6koswxhyyhuhz2iujxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5251",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedqcqsiuimzhepinb566mcti3lb4mg2dtzllspuf2anur2hkgifu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5531",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

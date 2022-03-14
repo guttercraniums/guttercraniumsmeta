@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglzlxdviit7oobk2zyowfsnbol3qkwzlyjvy57fngdwh54lomeym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5424",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

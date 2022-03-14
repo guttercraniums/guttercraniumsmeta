@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsm6rzyt3wbxthubh6vtsz3o2ldbrlcmflpmujyifdq7iot667xq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3665",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

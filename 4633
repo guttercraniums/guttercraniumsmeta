@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyecxroxxo4sz7pdt2oe4rrzzakq74c7lzc6o6w44lmw5qn6oclm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4633",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

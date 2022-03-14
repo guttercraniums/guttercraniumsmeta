@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxwe45yixjqumlkuzmyzxtb5kkyzb2qjywosucjoqmwsnrfzvhim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5648",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

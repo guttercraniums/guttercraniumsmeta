@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiakkzmrhjwnhl6jojjwoskfpluf4ghx2luahjewrln6kq2npjilty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5111",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

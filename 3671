@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccduknkhdincskg6dgiezgkmrh4azkltlpmm3fts66sh2j2x7qxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

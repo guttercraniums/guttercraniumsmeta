@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiba6fkhyrlxsat3xfa2erfxinqjybkxbbrsuhccs4kahktuj55hly",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5955",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

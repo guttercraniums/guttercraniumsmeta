@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicn3hnmnzpnxzyttp4sb67sfb53jr7j5rsjjd7hbyzplojkr4tqvi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4120",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

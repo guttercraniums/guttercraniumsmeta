@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigc6c3nptgjzk5zi2scckfycl5it6p6jrp6bqthdpgga2qwr7zvn4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4677",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglukl3fkf6tzexgextvvacf52maha3n53kampr53kffwuwolh36u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3486",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

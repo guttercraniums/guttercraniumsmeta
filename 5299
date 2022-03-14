@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigf57a2daijf7jeuoafjc55gs5xlusdmdjnz6o7gvkfqg7gbygd2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

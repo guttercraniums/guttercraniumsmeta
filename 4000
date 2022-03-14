@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidm2roo6u3mkh2aycpss4vahsslhtzgcbsauuphefixbhjcmol5fi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4000",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaolfarye4n2sbsvszxmmworekicvv3f75shf6bod74sasbsogxle",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4322",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

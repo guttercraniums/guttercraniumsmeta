@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvi5fbcayz2byhlha3qjjqqym7xdnq7zlfnwecfayzddx74mxlt4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3834",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

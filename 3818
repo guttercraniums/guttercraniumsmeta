@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtho5a37hdbrwog5aruei2adylzgokufi7ihqweihefl7rhhns6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3818",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

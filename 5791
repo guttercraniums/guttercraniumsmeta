@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4p2vtgwf47ghlvvlkbrktb4h5acbc2cnmi6s63ovop3qq5iakaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5791",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

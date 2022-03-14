@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibeot4khcjmejk2hbknlgfirdojuel23hy2mgs234zclvl3wdke3e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5425",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

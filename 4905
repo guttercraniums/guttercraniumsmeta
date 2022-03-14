@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidi2ifbvthriikkyalwbujvg57rc24y33uiytvbkgbgvx5kohcrpu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4905",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

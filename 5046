@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibiggok2cd7bt6e233xio6ttrshvgikcu4svydas2dpof4t6it3de",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5046",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

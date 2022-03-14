@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2j7bbi7uzsu3wuzei2wwjmdjenywjxcemno55nipraw6faybdju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5915",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

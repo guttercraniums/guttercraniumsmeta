@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxu7fxufeq7puwz6gsjbu5i3tz6a4ywlkqyurlx2knz6g626rnzq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4974",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

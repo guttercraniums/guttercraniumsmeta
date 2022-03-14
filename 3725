@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4vm3rmbwp7g57og2ystjtn5vu7yhstppu4ufh544h7glpuz5wta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3725",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

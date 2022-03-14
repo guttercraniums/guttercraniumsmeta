@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifn7h2tntaebafew4ire7dej6jhmwdzul4v2fadqzwp6z6k7unpia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5154",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

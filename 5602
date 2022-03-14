@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih3hqkddvn24f27p7wen6wao5h2mdtjv3e2cgfu6jdzvnnahc2a6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5602",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

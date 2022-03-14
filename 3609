@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibuwlsx2xeuqsnsear7r4bnk6kawksb3dqge3fmua2edbwgld26zq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3609",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

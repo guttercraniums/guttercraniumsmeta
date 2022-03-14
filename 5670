@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeick32d7u6p6f3cym6fet4owhzzptoc44hsgdtas57jw2ogji5iyrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5670",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

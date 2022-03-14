@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewczx7vbe5ucvtmryfb7ytpqmblilabch6ftdjlpxryomrw25ere",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3767",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

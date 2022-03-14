@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmnt4e2njwkbzvqkbotukiokca6l4qwh3obzgbyu53rtbs5e5fey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5585",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

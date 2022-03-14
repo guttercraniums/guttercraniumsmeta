@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqi5ucdmr2rgkha5vvnqlimg4hzfkwwguw3zcett6zqnorkdbqdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5308",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

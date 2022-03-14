@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgz3msfcr4lfqkiqnhvoah5mfhd22heoblkliwfa56afyw7tivma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5729",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

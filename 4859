@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiabmp6gg5pfwv7o62adxcbptg3on3t2rwwewz6xcubvpu7mlrnp7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4859",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

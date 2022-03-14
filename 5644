@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidurp63cihtavppywaekbbwzwvwln3ri33ww5cqwjloasol7mykle",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5644",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

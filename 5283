@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiauwullh5dhscrpgwcfn2jjt76smw7ve67ntyz7kb5z4detvrmapq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5283",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigk2ner2uu6yyerih44sj2cpmxc5meltcnwd2z7oythmq25x563ua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5722",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

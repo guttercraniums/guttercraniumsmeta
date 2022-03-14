@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeievuh43ow6s5b7urvhxy7o5jwe2n4mpz25bm3a5zqspmbf62obi74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4332",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

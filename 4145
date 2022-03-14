@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifcipi42kjg3idqoevgv4nkgyhzzzhvgm7lrff7wef3d25wqekwii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4145",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

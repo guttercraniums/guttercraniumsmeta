@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifccw46vfaff6cvobybhdtjnzzj26s57be43vlmomgqn6ch5hal4y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4434",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia52d75ji7vywep7pd3dwwhi2qrf5esjjoh5nn334bbechlm5h3n4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5076",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

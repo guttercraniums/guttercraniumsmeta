@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiepyiw2yhleled5stnfz6d3ljyn7vgeubf2yymsq5n33bz6zle5cm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3869",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

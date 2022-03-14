@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibfvmxr6vrsldmu6lqkbwo6xcjz7vfrbcsvmnxksre2ahxusoetva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5876",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

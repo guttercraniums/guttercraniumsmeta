@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifonqtlc66zqkwxzpmz2d2ib6tcmcrmonk7tsxlgkm3oy6tpzfzmu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3951",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

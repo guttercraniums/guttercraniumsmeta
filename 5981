@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfhkyqexvzgyxag3vuc4pzs7cidav6tnywfgbd7nvvqutbvvannq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5981",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibgsocwbr5k2zwz5hkgdmw5u4h5onx4b3nw6vpx2wywdogpkz3c34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5473",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

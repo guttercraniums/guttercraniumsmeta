@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6o4jxavchrjl7plr4clzv63roq4eqqjjww23mq6efnjqxmdwbe4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5006",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

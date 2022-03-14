@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6kuxw6af7exsflivpeob5wdfamkpudwkxrxafh62wo4gsat6rba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4630",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

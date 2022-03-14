@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwbrybndt6bqlbdafumh54zh5ndwpskmwepvljqrldffn4o7bfam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4200",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

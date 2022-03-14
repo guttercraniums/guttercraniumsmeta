@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibrfs5x2xxrlmw2srszaah27lpn5hakbxzmavrejb3p6seevtigrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5362",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

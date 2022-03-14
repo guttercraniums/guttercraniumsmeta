@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif3iq42xkgunkg3kblz3mgubqfcsojst7et4m6b6pf7uocju7op2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5787",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

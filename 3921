@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid2qrrr7xx2q5mzcoomohwajczfrcshdauzhbpgbcqcp2il5t52de",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3921",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

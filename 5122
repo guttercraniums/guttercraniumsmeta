@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesoo256xz7s2comsi27r6u5gfdty3sg35vybx6ec2dgtr2zxa3zq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5122",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

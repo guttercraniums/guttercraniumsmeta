@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigx2xr4u7ab3cmz3l3r55zaxkhoo4kpp2t62nezl6247xrak4mzom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4931",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

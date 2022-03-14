@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifulfpynecc7a7bhwcjp2n3a7hs5fvzil7klf5olw3jajyt47cbb4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3521",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

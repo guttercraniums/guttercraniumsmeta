@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichu4xkvr54zuf5bhxgkhudmnq2dxgmorcb5sly3ojretejvuvhhq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3724",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

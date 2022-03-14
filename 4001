@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicky5id3ayqbvghzlu3hxzxrnsjfeqxlmmux2bkws6z5lw6lchf2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4001",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

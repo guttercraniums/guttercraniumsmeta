@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigurytcr35yhg4gehrcygflzpt7diswqkogm3gi3hvgdgmpdk2a5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5247",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

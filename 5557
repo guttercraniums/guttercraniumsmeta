@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiei2jzq3hmos55a5kzuztdigrxhfabswdetdbi7gcjkvib6cdqvca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5557",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

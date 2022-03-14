@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgplpr3fla72hg37vndznz2vhqxkyjzbfiimwo52fad6x7yjqfwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4096",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

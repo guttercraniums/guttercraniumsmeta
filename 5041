@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif5l2gj3tfaxxax45bvlbwdik7k7shoodfpebdspggor3bsqfykhi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5041",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

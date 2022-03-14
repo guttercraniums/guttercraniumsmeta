@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajvfaxygbhujbwdero6lvuxzyb5ui5qmq6oamulgqyw2yrjz3gta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4511",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

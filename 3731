@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyaact4b7bhhoxeuc3vw76qeecqo4lckdrnbh7du5c62blv5xjg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3731",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

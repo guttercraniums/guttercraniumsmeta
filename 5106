@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapqvygvb7uoebyxh3tt7dkrgfyckdwdcyphibjxgyvluxj5ymmdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5106",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

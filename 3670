@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigvvqd4ebwu6er5aav5aqizy6556qdv46x5uld6csbl6kfwfxpxcu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3670",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

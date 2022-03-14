@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmuebaqvwgeebhbll2g72sbc23czmbgrqyvp2nl4zkpehj7skety",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3590",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

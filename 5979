@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkekk6d7iz5bd3fry5fxxf2wiim3kuac7y23cmod2v7ldg6rem2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5979",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

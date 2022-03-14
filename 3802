@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidaafddde6jjo3yuxx7do2qa7kvepl6gunjixczuy5hsi7m6ikf2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3802",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

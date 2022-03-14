@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2fx3jl4r7dikirj3hedfsngukhim3mypnvlcjraazq4yiwlrzyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5206",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

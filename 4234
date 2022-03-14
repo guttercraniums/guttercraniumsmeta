@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfi6fozq3gw6xq7yu2zqecog7epd6qyegwvifwarpdcmwtj5pi2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4234",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmdsyzkj4y3ic6amg6kmcg3fl3ycahdojv43x43ccgvgxea73fqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5943",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

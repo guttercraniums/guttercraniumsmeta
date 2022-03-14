@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmp4ejkaxnmalitzv4oilma6hjjivx4d2j2lgj3pw5hxwvpcc42m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3950",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

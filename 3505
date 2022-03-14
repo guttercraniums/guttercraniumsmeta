@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifgd6vnhu6gkn2joxtvhao5e4zkwoxrjrk2t2t5un625eaibvbapu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3505",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

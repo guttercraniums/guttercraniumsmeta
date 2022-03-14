@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigicydpzxssywulnpthpywqh2bq4m2hs5jtpcistz2ezqbvswdtb4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4261",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibcrkrycw4c677suupn46mkdkpw6ka325htcqpkdozdj5spgdlgv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3705",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

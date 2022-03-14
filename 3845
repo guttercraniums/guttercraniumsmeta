@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihtcsrpvvh6qyn34rduhuvsx2vj3qow4fw73dx3n6llu2fcdgnoom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3845",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

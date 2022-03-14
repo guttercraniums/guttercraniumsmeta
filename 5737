@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigehzwedne6a4zpx7gtxxahufp34732tt7xbeob4rryptmfefijdu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5737",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

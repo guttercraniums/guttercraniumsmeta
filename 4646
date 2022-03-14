@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwzoglzwinh5tk2tnrzenqzydyn6r22o5x2zwmpna6dw6k5ozb7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4646",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

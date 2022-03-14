@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiff4dur2batx4f4v56je2tz7lseqtpi4rilrx3y4o2dkjmkn3jcg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3673",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

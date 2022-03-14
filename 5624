@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsi7vmmj3gidhltjt47vedtf3sjkzzm4y7ltwqqfmyazkzspufya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5624",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

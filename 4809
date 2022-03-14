@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfrvopugxxq5eqde3v6jbfpdg266rmy4awgj65w2hqxpu7e7z2hu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4809",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

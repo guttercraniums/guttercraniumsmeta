@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvrenkcemd4cgsruykdv3dzl7hsfwvnkj62qwtbhp24m6jt76iy4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3607",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

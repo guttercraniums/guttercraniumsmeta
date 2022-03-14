@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifycfck3zemfpmx4ialag5hdggeof7lzirg2wkg7qozpii7ovojdq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4078",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

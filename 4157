@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbse2xewu7tf64h6qjxlwuh4rox2nhce3kyq227anjsqrwymlghi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4157",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

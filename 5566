@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecwk5vjidegu6w7ddwwztshzvqr5655r75pycwn5zk27d3fyoeje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5566",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

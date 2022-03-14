@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiasjw7g2zppn7aswpwn6yj2nxwm22wllzcjsagw4rfguthnxzpwxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3716",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

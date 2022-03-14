@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaznh7nw7tihoceveec55s2ucktjnn2755x6qujemgssrbcktf5gm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4193",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

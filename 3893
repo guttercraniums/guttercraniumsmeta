@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibvj76aehdlysep5uz7crzj5ma6rpmqlshuefxmxnydw5wfho723i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3893",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

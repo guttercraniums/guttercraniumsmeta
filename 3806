@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwccivjy4r2h5swql2kityiyhlki7h5may33j5ekmsq2q3zl7ps4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3806",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

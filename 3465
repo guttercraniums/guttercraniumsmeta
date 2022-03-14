@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedw762xkgmnbiuzi2jdlxgn3qmt6odxg62hno3v3gplf45nnr6fu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3465",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

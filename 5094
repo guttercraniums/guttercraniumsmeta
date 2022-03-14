@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4o3t4bcj65rhd2cf2tocy2w7wmco75oldfjvzn3ebil37xnp5aa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5094",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

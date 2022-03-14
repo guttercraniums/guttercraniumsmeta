@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifgvdnziffoyarcvnkdlvftd6dgib35lukb3oknnyiispma4ahvhm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5234",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

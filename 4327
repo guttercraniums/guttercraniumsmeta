@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigebli7rjj2ip6hhzig3otaokvympmy4bmws3xrjaesmq7hq2grqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4327",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

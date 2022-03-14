@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidt4oa35ymz7ftmcy65kvqgvdvrsezotxq2gbu3t5g7vjzvqfdiaq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3897",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarijmok5ge24wblf65xtlrtdqdzyjetji3mmgg7bwzax4qyi4kyy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5271",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

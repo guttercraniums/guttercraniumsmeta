@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiguohpuuhbioqe5kfz6cxwjvyqef4eufgcxjevx5tmmdhoeckw7na",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5380",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

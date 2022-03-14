@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjswhvyab7kn3bysujgjepqhel4fx3xkd4g25ke2buzkyvdbwklm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5200",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

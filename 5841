@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifyqsn7n5d6gpub57bs4ta4x6pir6t76mne2yctzpm36yr5jxqsze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5841",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

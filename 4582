@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieknltjmexplli4gvj2tn3vka6lgplfok3e2huknl2bg5mah56phm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4582",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

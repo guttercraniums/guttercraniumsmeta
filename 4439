@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpjjzy4pktvg2a5bmstsw7mxjdcrnhmynqr6z4tbmu2wtgdz2y6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4439",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

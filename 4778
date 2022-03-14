@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmyydztydlaq7pywhpj5fkf7gwqyipya4yqidgb6orgachnx3bym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4778",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

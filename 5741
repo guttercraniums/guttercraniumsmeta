@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih76tvlns5sp3fxsgclcbcfxdw2vwyrbijx7pmosx7i35tolvj4ay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5741",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

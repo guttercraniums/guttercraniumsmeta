@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihnnu5hd7mg44zmpg3enllv5ythat2asnsrd6sjvhigs3vv5kf7tu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5430",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

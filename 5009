@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickauxjn6iodbvqu3cn4q3horfg3hggmck7ickeoaedfpvoef47xa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5009",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

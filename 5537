@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibumognejjeabkcqu4t22rwijuamstlr5q7j5zrb35dozxz7zhfde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5537",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavbjeesqh5uq36uthbbn4ilh45xqslxaav6ycn5koagbekboqoje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4950",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

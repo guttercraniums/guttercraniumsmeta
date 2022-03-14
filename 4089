@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewen4rumljpgvsqqbnuhfqol25enuzzgrif3fboahkbs5naudaau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4089",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

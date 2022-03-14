@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiac5jhlg3iybjswppoqbanfwyp2dqpnqdbntr45mymogyvt7pigwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5945",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

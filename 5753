@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtajdqdaxdseqawlhttm74myo7u3jgyru67ts4p4ffmdcvwi7z7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5753",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpx4ddef2znq3xv7bcimrsdlj3a3klkqlbry5mnbdkk6kf6t4nwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

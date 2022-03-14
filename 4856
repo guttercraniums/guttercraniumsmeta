@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidneo4qxm4trw52tn2hxljddqmbz7ianmimrmuqxf7zdbd34wq2yq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4856",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

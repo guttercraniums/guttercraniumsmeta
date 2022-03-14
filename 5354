@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4a52kiodxamrdjesv4vp47qgzlycyozw4d5335gzxnoc3csvlhu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5354",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyfdqblqxvpuryyilupia35hu534k7bjthjhrs33zvvylhhcalg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5988",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

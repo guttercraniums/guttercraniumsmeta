@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7om2xdo35mhl53fh6suw3fyhfxcgvdikhmx65e46imv6lylbzti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4013",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

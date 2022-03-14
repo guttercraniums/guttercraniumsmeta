@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjxg77njd4r2j3ml4hl3nkiiqr4vakk7desulu3qaiufnlbn2oce",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4802",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

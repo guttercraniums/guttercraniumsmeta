@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdfirhagcj2kfklacofjiuoc26zsncijkfeurw3aoyeo6qof6lki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4205",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

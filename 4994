@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxj6blwatri27yebkhitmo3znjfchebk2gc32sawqhp7nzs4cw7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4994",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

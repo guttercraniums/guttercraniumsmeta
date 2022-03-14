@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesukui3pa5kqurvimpit3u5xgwtdcbyz6lr2hqzvtmy7klme6emy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5148",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

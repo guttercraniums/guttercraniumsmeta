@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfk6mlb6f3sg3thq6gkchhqwdiymno5nubw2wh7irntezqw5sada",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4038",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

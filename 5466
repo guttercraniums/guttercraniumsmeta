@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6pokilkn7fqqmhsoufpxgezvmf4ddhidmgqq467kswge4ymnw3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5466",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

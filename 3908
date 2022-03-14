@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7tnc5txcymah5xpd3llucetfqqn3sd4o7ywt7eo3yyx4i4eyxdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3908",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

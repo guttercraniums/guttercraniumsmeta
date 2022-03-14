@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsrmaus3i5bcth2xikp6izqokfratzr7e4ty6gd4n3fbkc7i2kee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3800",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

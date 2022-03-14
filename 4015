@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiee4xdo6phmmhsa5k6pmbjc3jkpghkdk67b4wjs7oeyzg2lezbsau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4015",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

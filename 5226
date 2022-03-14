@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibp4jwl23trno2zr7pebt7ipkd5zpnled4cuelw4bleu5iug6teei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

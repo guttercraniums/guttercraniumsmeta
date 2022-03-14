@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7yfckg6yi2fjru6453jmbskixkgvsx7dsuywiszzp65jh3aozfy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4670",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

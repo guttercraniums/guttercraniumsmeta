@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihudxzzza57lnkowwrbv5d6uqxulv2j3zdnfb4gvsqhhjsbbvmhqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3495",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

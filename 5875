@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2sorcxa4vvyqyr6zw5wdscidkss4fia5hu26trq7nvybe5ur5na",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5875",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

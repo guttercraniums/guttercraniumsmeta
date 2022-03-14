@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaixx3x54zn5lf7p3ls4iadorhvqfa7wm4p5xnuyelovp3c2tq5qm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4655",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibap2p7ezw45r4pzxhuwm5h3gemxu5qimoyisuibwfuya265d2hca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4705",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

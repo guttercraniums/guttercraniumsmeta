@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicn2vs76bnezaztmku6ay42vm7p7r555fofzwhfm7pna2uylskfya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4422",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

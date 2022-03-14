@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibiktwt6d2ifeyimvyhdnsi3ftrw5hxxulyuv6behor7nf2xsju5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3470",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

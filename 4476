@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeide4mvgfmii6cy5nibripeksgg6owueapixf27vv3y2xeuqwzzpwq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4476",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

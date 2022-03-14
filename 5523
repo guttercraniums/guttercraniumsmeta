@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifcdcs6jcyv6urqt4euyj2xnu7ekqnwvov56puzkip46c5i4s5hr4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5523",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

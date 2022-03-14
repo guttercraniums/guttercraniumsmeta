@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6bwduqaddhsprujhy754m7eark656ggtmjguxzpmrvidvbqu4fu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5716",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

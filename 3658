@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflv457uklpfcawx7cjyrkmexkntqgonxm2lsqytvraurfvokk3eq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3658",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

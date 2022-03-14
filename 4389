@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxj6oprv5wjorutlio2j77atrluto2vt3donjj26jtw72qqmyxnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4389",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

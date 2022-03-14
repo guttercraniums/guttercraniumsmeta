@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif54cxtdw26qipnpmaunytsgiy7qoporjdnmpjguayyp3ynye5gia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4796",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqertj6edyh2htmx5p7hc4mvwmvspw6lq37onyd3pyjfm7g3ddtm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3616",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

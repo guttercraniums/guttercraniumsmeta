@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigeov7s6erq6zwfj3g7wjtcybfol3dlh7ytax7336a5vamd5gog6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4262",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

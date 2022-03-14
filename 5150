@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicourtoymzkbvkbqcq42gcwokue76snzz7x3pw463e2f2bi6fh6qu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5150",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid3y2zeainjoj5hp2fvq75vaaicuukfrvets67f4yhntbigpcccxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4255",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

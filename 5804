@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2hhwv6tgfipig5av5oevmlzc6t3vu6ggyfd7aehg3xbfuls6vkm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5804",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

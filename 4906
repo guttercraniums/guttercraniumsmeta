@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekxxc3ldb3bpyvy7gy7hwvqd4sfv4am7ekxzdc654arpu6kx3x7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4906",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

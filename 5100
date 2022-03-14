@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif3ymhbqlnlifqbjjzirgddj5v6bwuokb7uuevtw4iqmeja5ssyqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5100",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

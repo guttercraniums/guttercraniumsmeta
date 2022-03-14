@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbb54osp3enz5r4nqrwibknxpsswfn6bx7yroitxr4rtwudbd42q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4090",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

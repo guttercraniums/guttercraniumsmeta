@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiffebfud4xmv3secvf5ds7g5tyfyf5ri6noo4uphvcuorqmmpr3g4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5720",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

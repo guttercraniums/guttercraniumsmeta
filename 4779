@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibm3mt2ki5bpetz2a7qqysp5yh5uevzkhu2sna4fo4lyncqqqtggm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4779",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

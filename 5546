@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbc2cnnifbghuioakcm2vy2op4kksc6sta3qucmh3zy2zrlvjitm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5546",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

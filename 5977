@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidir5e4htf7lghdsppsgzwpir2royvn6daq7zyuh56segxqj2hnea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5977",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

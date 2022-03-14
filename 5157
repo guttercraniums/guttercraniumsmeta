@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihs2ppdedkumxi642rr54j45xj7fdehwoxc4ljcy2adfvzt3clgky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5157",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

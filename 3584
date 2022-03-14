@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2cj3cg6ydkjs5jz5oqnj6wl4se7wzfue6bnppo3k42dcbig53rm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3584",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

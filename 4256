@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihy2gmltigb6u6l5nz7cchwpqe3wj3gxi2qr2lm5uhm5zhxswfyvy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4256",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

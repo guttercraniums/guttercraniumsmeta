@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddzaxgx4odtpzrftibr3uh2w5h5of5z66utv7ebbcjqgazct4dja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3736",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

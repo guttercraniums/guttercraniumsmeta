@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihz4nljlqqqpsbdazzwpvm43ioxqpzuotthnvfvzckxdqpag6jolq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3577",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

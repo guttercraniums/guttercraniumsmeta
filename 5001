@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjsfrks6a5cdywkwk4t57cvesxes7yiw54g2cnhune2hzawn7lqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5001",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

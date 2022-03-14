@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibqcmzvjnil4xu73pw6p5ycub65sefjzhcohudo5fbkf4h3i3ls4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4989",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

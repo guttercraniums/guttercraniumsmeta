@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihs5x2cud6mmabgclaq3tpkq2wy2nuwd4utyomru6stgujhsiniqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5266",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

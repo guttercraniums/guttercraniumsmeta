@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6a2irazlj7nbazxih3cpirlvdqchvhzo4463dlj7c6lfmh335fm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5320",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

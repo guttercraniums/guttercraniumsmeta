@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidpq5crofhagfejsjvx6kjupwrzgpeum77gnmhy7mksq5k4w2ofcm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3761",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

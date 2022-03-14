@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeide2vdrcujfn3ga2dbrzcnhparyyr4eobrcupklbjf5h3h53fpwpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4977",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

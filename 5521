@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgrei24cx22risuodkvuawpqev465fb67wbybzbwlxl5ckdbg7da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5521",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

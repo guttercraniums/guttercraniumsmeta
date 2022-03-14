@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxqehzll46zpmudlxswlrv64drhwshmkqqgfgxxd72rrdhzq3o3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4373",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

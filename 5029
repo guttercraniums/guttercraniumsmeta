@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbcbqx2qelvyaalbi4b5cbtt6v5oc43er6gpiedmddqabr6l5ejq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5029",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

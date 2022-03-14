@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvpayxpwtl3xvg6usqow6vg2vb7orhhgmcnwgyqsaizpr3aizwdm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4160",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

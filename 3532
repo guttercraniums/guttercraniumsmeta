@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3wy4chqrsvhvccaexxtcw4rv5kal4l3xtp3a5t7otc324zos5em",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3532",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

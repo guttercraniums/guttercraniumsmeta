@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwzkrufyo4yo6k6nqdopuu6zatbn2yy2qx2mcv6psceiqmikmxji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5970",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

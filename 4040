@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie4vm5pf7f4wdxp4wux5h3vlj6nm45zyvpvtnr3tult7w6tyygefi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4040",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

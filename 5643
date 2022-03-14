@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3q45xoiobb64mfyaqnurfqp6drkpj24beypwt35cx2zgjau7cge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5643",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

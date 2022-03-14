@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiby2irtat23f6mob6eav5ien3ps2tvyhpiveztr2qttve4ct4s4hm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5036",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

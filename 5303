@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidejwhibyfymjtdnyhjnpa5xxcex7x5piwnyn4kp5eyjzy3k22ld4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5303",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

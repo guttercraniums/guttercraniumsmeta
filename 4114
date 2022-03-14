@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifuv26o5tckrz76kqtikpthlkkdtsdrnxeyu4znfawriwytjna7ka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4114",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

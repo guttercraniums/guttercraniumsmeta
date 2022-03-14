@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyvson32oducl6utoyotcaswcncxfwg3jmufdshq7gq3rkglcgnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5374",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

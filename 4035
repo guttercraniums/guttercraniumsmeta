@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqtpmn5kim5lkf2v5p6abtnonz7s4q77kjv6s27oelyckrsuzvby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4035",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

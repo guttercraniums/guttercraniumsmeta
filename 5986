@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavwzkd55retk7pdgjteoewg7oe5xxaewymwjld5ilzl3fv3l36qa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5986",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqr7xrbfym4qkaieuaxxecvk5urbojn2nyca7n6bn44m3xos5k6y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3531",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

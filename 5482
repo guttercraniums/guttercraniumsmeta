@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie7n3orwovejf6cpidectqribzmp6btsgqucgh7nel7edmotutz6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5482",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

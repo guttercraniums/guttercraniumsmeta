@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibqqsmgwxbkvkgo735km4nqvstteiikamxu7a4jozxee5yw7syihu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5039",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4mnhvyhkzrwqhcu46k3ivem437ulq7f63ld7ai5rt3775lchnnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5672",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

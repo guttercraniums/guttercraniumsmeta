@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigr5wkqg2uhovis4afi7pw5355aizoq5yz6kviokl7ljumbdkz2qe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4458",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

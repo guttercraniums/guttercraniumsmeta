@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeien3dpz4glupibtte4hq7i7djorgjco6fzx7jkow3yzmaei67a35q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4124",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

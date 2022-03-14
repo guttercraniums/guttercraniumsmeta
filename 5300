@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6vsgijgsakiipsljinsndibaagxymi4zm5ls3hmolzrzgc3coaq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5300",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

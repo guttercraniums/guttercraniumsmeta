@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifg36kf72yyzazdt2nz7ghrp4pcx4ygrogaaey7raqwndtaoyjtsu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5004",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

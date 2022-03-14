@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidob7edr3obpd7kobw7kg3tis6fxwt4mpyq6a7kznydcw7pp4qrfa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4443",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Paragon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

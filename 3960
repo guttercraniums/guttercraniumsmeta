@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieykii3nicm2nsgy3keyad37lim2fnddeijpsybpw3cdb2qmfbqcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3960",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

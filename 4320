@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicloentl7m2hnsd6aalljse3haaxrc4pngwa5ehbvduw3ffmyrspa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4320",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

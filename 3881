@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflmsgyxy3rphgztgc4bhfht7tqekqpp5h6zx36mgv5usdi3hmeym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3881",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

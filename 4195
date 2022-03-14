@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgnacyqg3mk3y2574pvjifee427g4dod24uclu7laj3zpcuxcmmm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

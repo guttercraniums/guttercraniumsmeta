@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzvcmab6ga2sgtk2kc47ko5stl75e7nofgrtk6cb62inlo3hd6ie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4581",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxicfsjxehpdds7u3vvf4h7immje6a5ylokflnb3uj5bzqyohgde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4288",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4pyfggycpk4u4zhwptsbgi2vmxh5ueue2gow6zyzpxpl2mlbivy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5862",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

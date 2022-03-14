@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezexfyarr2j3mxhjxk237i2qmtx2yqkij7xj426aztwp5e4gelxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3623",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

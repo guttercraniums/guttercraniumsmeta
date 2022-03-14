@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid2o6ogj3rxgfr5a46ictzkhxt6swwkyuh5y2jqcdz3yln7sgrk3e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5035",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

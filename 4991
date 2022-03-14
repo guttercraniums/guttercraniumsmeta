@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2g3z7k5fhhp43bv4mqdyr4h2seqgtj34qp77d26mgzwsjna54ne",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4991",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

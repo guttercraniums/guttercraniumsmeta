@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigb3pcxibwmrnct4wdhf3hld57xij7ngn2o5svyclik6i74clm67a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4326",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

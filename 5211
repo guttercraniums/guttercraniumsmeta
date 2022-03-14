@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihli7cjcq5fury276ovayxjfaiai3ltau5j4i2sbytir7s75fisve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5211",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

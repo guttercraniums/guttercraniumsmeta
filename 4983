@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajojz3titfby2o2i5lyon3o4oi2ebxinxtcyfqvkvce5v63q5ikm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4983",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

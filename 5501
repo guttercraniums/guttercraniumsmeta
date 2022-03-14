@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiblj7hegb5hpfykc4lw36vhghmp252pommyx4s3w5buoo5aoaiwnu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5501",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidbfshosueg4sx3en7cf4fsj6awiqfbhtw2j7q4lkxtxcjipnipwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5635",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

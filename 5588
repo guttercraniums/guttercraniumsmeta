@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig53kyjw5iqq5vj6plonqgm4n6ztvk2k6nxui5tvnjsajmxqdjzba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5588",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

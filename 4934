@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibenznfp2bnvwuctobbqrwkozz6xbnmy5lx23lwpv3g7c7k3fr3da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4934",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

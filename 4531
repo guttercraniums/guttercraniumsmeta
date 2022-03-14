@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidisbwvajalutuz6cz5pfhwn4f7eri4hhgqpp7etstraujhr3ycbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4531",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

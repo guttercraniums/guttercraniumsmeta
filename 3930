@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibaigrra75orwmbhfoej3zvd466aqzwtx7cv2j42fa7jiu26llcau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3930",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

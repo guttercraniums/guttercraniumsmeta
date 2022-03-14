@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkaakykig4zpkk2q26trhfvsltwrjhwsyypmigtfdastfd3tmgti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5055",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

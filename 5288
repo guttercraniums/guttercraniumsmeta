@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuzydkl5sxmrdo3wteesmmxpqtq7o3qs3tncqm3a5yy4xw57qp6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5288",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

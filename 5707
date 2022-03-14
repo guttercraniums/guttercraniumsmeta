@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihii5hxiv67zx75ovyfp3ebp72ecac563aikdy2kibozroz72x7hm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5707",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

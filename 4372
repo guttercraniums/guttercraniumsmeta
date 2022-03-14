@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafs3hsoysph3x5pdbg6lo5ozrwi7lztyqf4xx7yk5yvpg474lmae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4372",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeictiieqdrnok4mevohourmixt5oc5m6njcuvq6zppceoawxa53hta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5550",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

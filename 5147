@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidd5vde4d572uexgeicqtulsdtdbgc3doiczx3wd5nhsjocdqus6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5147",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

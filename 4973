@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglnvux6l7rzt5y6z22z5l3ueayedvn23o2v5o7l2pt6w63tixbjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4973",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid6qn4p54m7leh3jgdnlbt2pib7dpsurrigt5tp3264j5oqcyyyge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

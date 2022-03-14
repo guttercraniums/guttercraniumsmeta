@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih5yo2ogvryeg5uuya7726zmog3nqiz2fmt4am5dg7owrvobxan2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4679",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

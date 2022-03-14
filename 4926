@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieztw6m6yp6uswpfivgpvsibmww5tlur742v6eqx6vd6atqnv53d4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

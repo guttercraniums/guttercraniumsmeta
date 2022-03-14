@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibm4ea5q5qxzzuf2kv7mj6h5y2snyo3e4ylrinahlqcyv2fqhee5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4381",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

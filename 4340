@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianooncmvzyrtnwnv4cfxski3msssqnc4weq5ec67y6wnc3pjlx5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4340",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

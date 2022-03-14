@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2bqixk2m36ssc3n5qm34je55wodj4kfgvzqhsssslzgi3ov5w5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4793",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

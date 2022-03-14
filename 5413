@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfuatxhylkug5qkj4lgt7excdb5ger4wzek7locdhkoc6lt2amui",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5413",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezbyqc32skimnpwljphxlra2ff5fft4fxwqkrez5rdpasra6hcw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5771",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

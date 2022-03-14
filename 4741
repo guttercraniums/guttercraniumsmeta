@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzm3ivuhlwsbjizkxzxzkyognrb6haycmswpz3nexco7dgwfymgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4741",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

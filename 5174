@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarr4pi3teuyeoehxujcfsz4pg5mpq6dubilyl3p4wftxbzqbwtry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5174",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

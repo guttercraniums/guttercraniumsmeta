@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7jvwf2tiz6bdmlk6cts2qob2zec3j4cggubi27fz2t4fdzs4cxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4945",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

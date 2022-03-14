@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmp7vsu4qals6h53lbmifudu5y2fb3s4pnwu7e6qedz4su7kn6le",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5335",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

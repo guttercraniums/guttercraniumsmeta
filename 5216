@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7g5lmauwsk4tsso2z5wxt4noeit36fxmdfmi5abubryyycpchme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5216",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvbyysrp4of3bybcgdoe7douvseabc2x4y2zbcfffkkx3odbwjs4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5118",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

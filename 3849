@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgexzbt6ynej3l76af3hun2d2bryi3j25xck7jm3dt7zmgwi4ztu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3849",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

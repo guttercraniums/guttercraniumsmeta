@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibf6aa2e4z4n65366afm6n4w3jiczufzzeo6dpui75it2e6ow5que",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3712",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7vt6a3kwk3to5whteerabqhcz3j3rqfmqfhhj7ynr5gm6xls5tq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6013",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

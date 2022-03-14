@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigh3blgo4sjy2ih7wqt23tzy7ilc4rslixqjcvtdbdmhjpv6x7wja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5837",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

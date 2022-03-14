@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicghs2batpdxn5u4mx5pseh7mep633r6mq3lc6tt24ukggcx6vf5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3485",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

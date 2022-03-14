@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidsqihettlko27jrwvkbq4rg6hz2girtcmmnkxxonkiuliikul3km",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5331",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

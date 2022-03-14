@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifknpsxtnq3e27cke4ozvtz723h43wgegx2xndvsrg73pxq3mwp2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4186",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

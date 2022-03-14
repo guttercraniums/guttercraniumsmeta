@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihj4kukyqgiu5g32sielrb3vmr5sldor5o6el2ixgkhfkjlwfzwoy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4312",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

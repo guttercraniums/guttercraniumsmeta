@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdbr2iyou26akpd5kpzjzmkvaate5kgu3va4hhy4wrihztpecuam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5549",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkvyhvla2mvtfihqldwaqprdyt7jxoqpxw6p2fgg5zz2bhqiwbmy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4526",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

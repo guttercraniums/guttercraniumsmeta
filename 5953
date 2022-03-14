@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibaoynijemz46ngqxtdlxkifizqoru2hvrw7ozntba3tzk3vxxz3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5953",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

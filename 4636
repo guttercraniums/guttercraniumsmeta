@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifg4riobrxlh7blhtolydq3eksv2j4o4cg624jzrjgfkkla75jlde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4636",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

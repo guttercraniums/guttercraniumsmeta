@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzexiidbugnokvq7g2jxz4cavlspu6ubsj4qwpfd7o46oow7d7qy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3962",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiej7h4ajoaozhp7w3gtwfak73regoy6zwexr3nr66e7xqycwjom2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3481",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

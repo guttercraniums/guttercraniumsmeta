@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialvvafli366usa4x3ax346frpsvo4vxfi5a7rn4dtop6iz2uprxa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5215",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

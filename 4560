@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddrsshmph5ez3mqbm3chyekzo73a42j7vfk4nluj7754lxq27s7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4560",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsd4m3r2tv63qqtemljbepap7cepvmazi2g5wv4odm4jxr35gsba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5026",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

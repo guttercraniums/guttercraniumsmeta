@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiejejm3wsoq7wzmvurl2b54wwngexgvfgvrxnxmrjm2psqpohrkjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4379",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

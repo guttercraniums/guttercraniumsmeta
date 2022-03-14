@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiev4oyuvwa7tixkf3vdbhazn4a5x5mgl525k4ybj2xzxcjdxna2jy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4095",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

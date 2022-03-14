@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4tle3jekbe45hydql7d2hg65joczihf73jivyoawvdq5igynwsi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3615",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

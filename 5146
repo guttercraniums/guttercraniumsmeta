@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzpy77mzipx52sxfnf4wvipgh3ggvy7moanvljxltenapfqt3liq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5146",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigc35gtph7f7jzejevoo2tsn5nhs5jftrjqcvwbqkovavc6tb76na",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5713",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

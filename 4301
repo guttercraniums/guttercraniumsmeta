@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihw4mo4isbylx5lru7xxwok72dpsypgptldwcuolef3sl5tts2nk4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4301",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgpk7gyphuoyxagcxrxe4e4gatcwrpyqryajke6pkpmbm2tiaplq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4555",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

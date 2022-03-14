@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihyjpxasrzadw7vscnpbfkjje4txuxsvxnw5csqpzvnacm6hj5ou4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5376",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif3f2rn5n6kfwbbd7xflugj5ifvd3jh3mo3citmzeo5b7pni3tu6y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5240",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

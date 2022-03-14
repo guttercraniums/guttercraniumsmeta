@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdwus6hrd2nzmw6ro5ybva3ycpjc7f3wupwrwqjtlyhsovvvjcda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3840",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

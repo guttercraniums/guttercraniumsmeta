@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiahiktkpwvlazcbvw3d4sms7mfzw2lzudakuuglgdqw6m7j54ftti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4020",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

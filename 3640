@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicocsut2zmza6c7mhyrtimiejfkfovcz3jtb5bk72d6gpbctzftzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3640",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

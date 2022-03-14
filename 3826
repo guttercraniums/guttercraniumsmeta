@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjsito63wbsefunhkmstxcatg3zx35muakiypuloow5jor5r764a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3826",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

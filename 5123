@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihk7t45td22z2dvdjkjxehmfmztjthdfzbg4ypjdzffxq6nkbpnsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5123",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

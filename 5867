@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnarrxw3n6alpeyxeodblog5asgyiafsutxa77wq5yhhvcgffrqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5867",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

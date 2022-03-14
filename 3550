@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmxmn2ac2hjj6rbq5k6hnxgsvyrbidtwl6xtix72ymmnvgichcoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3550",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

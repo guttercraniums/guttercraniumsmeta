@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4uxhncj66psv4h67eh4dpjluk2zrgah5x4drai63lyanrtf7y2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5093",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

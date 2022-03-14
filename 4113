@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihnx5osd7fz37uun3hfjlu6cf7albu7k44uaphbt2rnheull25vjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4113",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

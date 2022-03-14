@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvdtdd5s3r6p2snv55tg4qc7tdse7f4ay2del5npjumedi6ugn34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5058",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

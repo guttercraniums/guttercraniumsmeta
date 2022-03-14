@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifd3z7xsbergrjoth27egvgapq4vxvpezd5ira57rly2uy5ukky7u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4736",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

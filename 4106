@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmz6xd4vuiqypnktycdhvnmbawbyhvbeov27hpqnlqgl54jeme3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4106",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

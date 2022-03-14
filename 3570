@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie76kf44mzwgf64lijxpnaxjbqaylhqu2qhvdjjkfsiamytmmdcya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3570",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

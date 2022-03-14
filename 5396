@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibinolhoifbpzzvnwmbwg5lw3rvvuhph7p6ogpqbdfwrb3j2iau3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5396",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

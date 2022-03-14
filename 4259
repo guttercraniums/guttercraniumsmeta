@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic5h7syj5ywu2cgflzt4u35qqb6eymhit45kfs3wjkm7mif3jha6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4259",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

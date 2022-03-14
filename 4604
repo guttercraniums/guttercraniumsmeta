@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4detgbmrp26azvcazxalqlc4wykkcgg7zfpntky5fvwz54xpqda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4604",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

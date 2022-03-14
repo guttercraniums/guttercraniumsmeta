@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignbfb6tuzaa6noz5wzpga5cjkrylbvvsn6do4w55ofygm5ezzzcy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

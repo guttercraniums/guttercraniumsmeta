@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieli2hny4qgzhdvyj2m5we4qn4e4lfmj4terxmdzsp6uum2vwlzpq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4519",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

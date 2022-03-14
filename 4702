@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsifdwiw7gfiadhp2ot6cuy6f6jvi6tfjtq6oobsjmcxgdte5kba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4702",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

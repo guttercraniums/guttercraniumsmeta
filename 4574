@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiabvf67fosw3q5odgajtojxa5vibcabo4ftudf5sraanom4hwddom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4574",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

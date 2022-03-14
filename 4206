@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieiaxysriwjiwkrwrmx5wnguiu3xmrwi4myeoou7ucfcmwwo6yg6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4206",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

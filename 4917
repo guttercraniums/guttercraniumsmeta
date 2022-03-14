@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwc5sdqkj6zhvywios25nprwvpsiv5kxr5zsr4okawslxoj64lwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4917",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

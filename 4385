@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvpd2km56g355k4a77qhyoku4ekryy4jfsfcaz4rcw7j3w4egvty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4385",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

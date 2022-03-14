@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihq5icvb7xe7ae2bda7lhobzvn5qwuo3rlstiwh4lis4f476kuoyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3922",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

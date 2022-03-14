@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigttjhq4h7cqr4442vgwormqtnjlptvwno6bzabkwtmgkjhrdnfpe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5407",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

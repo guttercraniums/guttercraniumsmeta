@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibh6j7fx7yz47hrsen6xy7mvwzre33t23qznrta52rrjzt6a2fymu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4344",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

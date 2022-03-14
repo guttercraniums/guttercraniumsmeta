@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibw5mezqc2iyrpu6cl7qohtb2s24m6kkm3w35eridwfz4civkihbi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3669",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

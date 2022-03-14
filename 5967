@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifew4acqnx2uwbjl5527xu6o2eigm5pevu7oeetc7wigrcv62fsuq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5967",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

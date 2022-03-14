@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcqhk7cqs4covwd2wqt6dfbi4ngtvx35zit5r3evy4e5fs4gqddm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6014",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

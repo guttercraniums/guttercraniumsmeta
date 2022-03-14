@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigavaht5e4bu4d2htm2tlrct4rhnowzh3bf6t2sp72gyak54wsb3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4791",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

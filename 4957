@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibvuyy4fotu4n7minl4nig6iaqavtovzn7sntz452cae4teesxl5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4957",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

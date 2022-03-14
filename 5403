@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeienfyxtrkajnctawaw2plyi5w6xfbt2w7eiewgrnuiuf7altve2zi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5403",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

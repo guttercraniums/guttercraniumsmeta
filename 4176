@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbby3mjmujhifqg36penznh53jab6xuzfd7mmobqmh77bt3a3nhi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4176",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

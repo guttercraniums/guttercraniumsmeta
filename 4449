@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmjhjnq4eubkjvppv4ziy7bjt5j5ytdxk4ew2pt46c76dmah6xm4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4449",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

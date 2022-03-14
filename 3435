@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicfcldq2rp5n7g53kwltfisnywdb3rc7blq2xwzi73gzqeofv4voi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3435",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwnbqrmcdcrgreylp4k6n4qbapd4eab4vl27znvmy3c3fz6epwf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5919",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

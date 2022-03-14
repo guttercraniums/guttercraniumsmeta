@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbv74p32ia7egxcgvljfp5w7hqwksnwy7c6q5jgwn4xoqt7q4hiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

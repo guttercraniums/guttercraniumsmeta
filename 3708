@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzdkxpfx6r3heo443qlapttvavwg7gauyja23qwijlfvf26a5ksa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3708",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

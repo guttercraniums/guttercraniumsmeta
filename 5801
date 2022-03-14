@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxn56yl4glsye5djspsmc5wgorrsyg733jfkd2dz6jrvyvgnk46m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5801",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxmjgrovg3hsyk2q4hqujw5d3vnb7fn6zqsc42lzkxzmjwpsagki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6011",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

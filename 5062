@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic44fertxcimkg4xqskcgle7cmxdroekysst4wk6unfbvdmykrrsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5062",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

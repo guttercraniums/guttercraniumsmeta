@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglzk4tuhy6u4banx25677pjbnjs4j42czu3xr4xexxdbza2dwrju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4716",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

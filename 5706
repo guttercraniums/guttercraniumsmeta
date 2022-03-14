@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihufuu4em6p66dravut34tl2nzk7sxi7zcpbvelkhfnipdhoxafj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5706",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

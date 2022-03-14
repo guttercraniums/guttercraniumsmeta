@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibgjmhux77xragypka3nadx42yh7r4p6o3ct43z2qnu4lng5qrnbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4992",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaoody2gavlads7rbnc4vyjsfz3dhd633o25brzupxak4y3qmkjg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3792",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

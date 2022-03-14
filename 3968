@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif7omgcjoqc6bxn7libmtnrxket44l2zu2p6r32nw5l3atnpgi4t4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3968",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxxbuiam3nf55gv7nmmp6pfm5dvvnpssvn5rsprmwqzwwhsctu7m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5399",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

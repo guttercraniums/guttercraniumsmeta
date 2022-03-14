@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemv7eqltlr77c5elu6cgnsw6gn3gq4oqq46cfgqw4hkmd6xabhli",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4049",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

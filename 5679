@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiheycfsmpytn7sa656kqh6h6qnw5l6aiboeib5tgqxuucu4gs5juy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5679",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

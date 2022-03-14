@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiciprt2q77iwuv72kwgytyhyzaljoawx5uxp3w4nvhccf6gqet4be",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4769",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgot7bdfm2ahlvxvou2yet3zu63kdp2zg55ttlaygqqc4xufo3oe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5368",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

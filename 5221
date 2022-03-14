@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqotp3z65tjfyfb4pri3acujkmfklflfswaf6c3egdw26irkkxva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5221",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

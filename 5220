@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifo2jkq44f7km27znguwwno2fu2lhf2oxrldvivfcdvugezkr5d4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5220",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

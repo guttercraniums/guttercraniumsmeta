@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiharj4bezrbok5uscumj65hp5hlhvmxjcm54swl6buf5dyq46eth4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6004",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

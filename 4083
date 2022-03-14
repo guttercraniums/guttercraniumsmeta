@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvx4cdxs23wfgg6k5toceafzqu3wocin2o2b26cyfshrp5zjkn2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4083",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

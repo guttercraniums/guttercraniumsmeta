@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjpt5ernpl6v2ahsyrl7xpxs756vpdgyilgtq6l7as6ca6hsdfoq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4351",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxfort5t3d6aaoxtspvupueade7hkqbb6j6mzitappopytbbdjpe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3879",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

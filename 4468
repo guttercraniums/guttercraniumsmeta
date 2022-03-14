@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmhnweefnvu3fgk3pipfr26m6aggnyy7cjud4tgor7fxnoobvkiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4468",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

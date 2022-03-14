@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavyuaz5bscm6jel4npubfsi4smdu4ezrziwaptjruypvjh4qzzeq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4393",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

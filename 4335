@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibavacrsgc3kod553sfyocrn5x3v2yuewio3w3wrwczs2zelxcw6y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4335",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihh2kvryruyxf6nnoi73wybswofc7lrfbszo2fcldo2cumz6pumwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5744",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

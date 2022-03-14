@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibop2j6k2n2e2s2vldiuqczck3qa3aovnxkgyadzwtoiy2nlhg3qm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3877",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

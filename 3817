@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigp7cgckjqndbvdtdo4xkk253b2lfu43ootaov253fztpv6w4pkbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3817",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

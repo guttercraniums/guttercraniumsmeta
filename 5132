@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihw535drfg3vg54qsmuedr3cxyadqavmwyr7cvwlg3uyh5i3bhwa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5132",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

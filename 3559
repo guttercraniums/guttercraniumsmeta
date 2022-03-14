@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibnxvpcng55sjthfkwlodamy5nlgbhs5blnoooaxmsv4vgh7cgaeu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3559",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

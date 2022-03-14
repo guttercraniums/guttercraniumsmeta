@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifknlpu3zq7oib3rqjnzemmkrzabln7ghjhz2rkufwhnyhnep2mka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3791",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

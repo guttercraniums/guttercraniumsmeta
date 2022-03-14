@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavp4j3txindd2pguzfnbjicanq2s3jlxqwfz2nve2p7lpbm7gz5e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5361",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmspbbpgnhove3trgtnaq56w6jn3gbiqpnwy6f6wu2eqmy3zkpcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4946",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

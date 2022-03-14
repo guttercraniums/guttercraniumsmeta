@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifrebijlaahwlwgbcnb23ur7krioxgzzsoh4nr4qglf2rvsaqewfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4743",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

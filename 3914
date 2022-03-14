@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqkpgpfbilfn3ql6u7m3rq3ybqtdkeu3vvgijjmci5hd4nojwqqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3914",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

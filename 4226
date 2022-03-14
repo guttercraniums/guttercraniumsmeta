@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafn6ggjqkbzkuis2qt7cjieyq3g6jz5f5glf6pb3v4m6jl53d66y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

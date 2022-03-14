@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibf3kapr4nbigbng5jt66trrnetorb6eyeroadwjj7xk26onv7fy4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4665",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

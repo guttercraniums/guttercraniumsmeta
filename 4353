@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih5mbhzztrx2jsvkf57vr2hkjbuqpzaf7zoedyin3evn2xg5kj4my",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4353",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

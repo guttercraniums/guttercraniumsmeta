@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfznzmiajtyyeuf3r6dd4nj65aouf5qlyyyrclrcdnbell6onpvq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4104",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

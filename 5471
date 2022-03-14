@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiawbrtbtwct54pupfz573tso6oyvb3kqzsclnjwjg6cmxkclm3s3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5471",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

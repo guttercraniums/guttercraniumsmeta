@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiatji54xxo4qbgknagfyggskhnemuv4wfumspoye77tjnul2by74e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5334",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

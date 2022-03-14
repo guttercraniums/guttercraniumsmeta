@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrywrp2jrecafb64jnocq3fyqwbpxepraodh5x7kojirljdosbbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3935",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

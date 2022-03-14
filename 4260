@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmvzysal4ha2u2vrbzxwu2woxf6ig2tod6rimibx7j673tzutn5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4260",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

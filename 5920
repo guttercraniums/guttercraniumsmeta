@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhuxlrejhl5jxnkte42barqsb2hq5jv5ufd7ptkvprob7xyvadnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5920",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

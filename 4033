@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaprso4zl6an5ae22cagcjof4xo5g3dgimajj5jtepuzfalhzspcu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4033",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwdx7oh6owb3tbtwsqjvdhqafcn76ozun25xcha7nafme3tekt7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4426",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

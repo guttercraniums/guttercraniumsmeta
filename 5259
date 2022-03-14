@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7rpwucjho5mda36o6wxdzjjsamlibnhsqvg2qz3tu2qlhhp4zmu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5259",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

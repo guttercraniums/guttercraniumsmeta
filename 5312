@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtwkedmscgltdayocgzrhcuok2hpfxhou6yniirayddn3bmygqgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5312",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

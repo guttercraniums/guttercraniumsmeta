@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihmboly2hl7zsdzvxciv36kxb4ok6cavzp6ytjivfiqhlhab6vxme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5603",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaospwuq3azs25yvcfbfmeg35vs2i6fbx2bec56t4mrm6xvhnje34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5657",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

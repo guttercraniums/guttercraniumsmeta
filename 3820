@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiczfc47zimt56joe6oyesjc5kcg4vq2hnwst7jhcsztwrq7o4vipy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3820",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiak2fg6ykavj2oi2crq3ibac2vgxslhaivwbiwji5axbyhg2ppzoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5858",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

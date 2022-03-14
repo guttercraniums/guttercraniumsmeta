@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad7wumy2ue2egb4mif22chesmnr6n4qjwopw2xlnygdxu4ndbxsi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3885",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

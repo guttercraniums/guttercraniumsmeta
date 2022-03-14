@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6zqq2mup4uvnsv7hgx32cm3i3b34han732vv37e76xijmvqgidq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4899",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

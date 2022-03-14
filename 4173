@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigk4fopzr6aosnl2hsrirbz7cpfcjd3cp3kl2b4ejdfrmrpc2rszy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4173",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

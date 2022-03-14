@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihthfkcnc35n2zaunrp5emldfokzqzvwibazhst5nokmgoyeff75y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4350",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeife2jhtaur5mdz5htkfoctao6ho6qib3gec7roa4zuklnnumk4n4y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3699",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

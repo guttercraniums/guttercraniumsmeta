@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbe2ky5nq3mrjbdfrfugfcfkxfbt7ixn6astzik24dmzlclarifq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5734",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhef4xxoemnqzqbvasxgas6f2caapfeesr2h24da3vgmjhkgao7m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5082",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

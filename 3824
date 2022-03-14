@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3sa7zbeoggln47lkyn5ypzqyhxbtbsimmaatd6mt5ut4ltpqnkq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3824",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieq4hmjvcxyzw6ewfxyjouyjd3c4mzrzbbsmxhd2olppkf3keoo5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4252",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

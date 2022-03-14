@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibqaljr6nnszyxe4loiuevt5ggtmrycc3tz4syfhbkjc7ivit662y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5365",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

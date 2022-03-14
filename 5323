@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidsktcwbpr3g6cuapepahwlb632gmehxvo6yzg6jwc3cy52grl2a4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5323",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

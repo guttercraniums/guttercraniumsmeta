@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidschcjez2yugpenjieyeghszimuaecvza4uxxcmkqpfhwhmdw4ve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5774",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigajvb4cju4ujc56z5dq2zcyvtdilfwv3mwh447zg4w4c56sjnkpe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4589",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

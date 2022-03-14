@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibr55k6vshbatoilqqocq3idcil3h5fn4hgrmf634pek2cnqoykf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4093",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

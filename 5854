@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3blxhazutffzxi4xzorsy6v7gdozwa5t3etbgvh5l5mrtqnpaye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5854",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

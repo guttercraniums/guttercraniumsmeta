@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7mxldt67qfelfhrptmhuxj6732nlld5dqbgsnmfnqnwejzrng6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3805",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

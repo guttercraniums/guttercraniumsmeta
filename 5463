@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2y23ltfvnbikudm23xfgjixx6ied4nzxzpg23zvs7lt3223lp7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5463",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

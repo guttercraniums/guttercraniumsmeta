@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2j5b2eelkwhg2hhebi57u7curpphlehhi4f6atm4xtxb4snggya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5096",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

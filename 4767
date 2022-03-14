@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvlfwu2etboslqkktlm3awdl3tmbk5lbmff4zbegv4tzmcxoqnga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4767",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxhndd6k7yubmdw25dwvc2ftdyky2ubp25gjwmikod4sr2zvyekq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5416",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

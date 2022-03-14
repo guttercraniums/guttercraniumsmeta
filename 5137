@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqen2ydlu5xdkjstd7zlyvnbiakktmso7vqlcawdoequwn7ubx7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5137",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

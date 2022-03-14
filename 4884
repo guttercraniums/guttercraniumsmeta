@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibqr77ltd6biovmtw5uijqwytvrg3yylod6prntxsg7jqo6arvujy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4884",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

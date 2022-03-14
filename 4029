@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiferbjtblhuts66bissnqejpnfnyi576hicnfwv74wgsyasmqcxei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4029",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

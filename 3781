@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiereoxd6fxzkr4zi7zrr46dojo7uxni36rkt7erqnj7b47mpowtsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3781",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

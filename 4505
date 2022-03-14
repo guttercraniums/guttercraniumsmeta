@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajnryut26lxockymlvie5ejv5ujihp6f5ryg4ofbye5j3y6xdjxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4505",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

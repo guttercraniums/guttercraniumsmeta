@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjomczdzgpr2hrisbdjc7fafacviyqvrb5qdc2krjalgan4b5hoq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3600",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

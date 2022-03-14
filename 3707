@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiby63d5mfc7skijeg52g4lhe3t7ct2hmsxe5zjtl7nw7ovdp7nx2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3707",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

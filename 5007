@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebjuh2sf7bmg5t5tlnsrq7mzldgoa5zamhapvjypon46ygfaikyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5007",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3k25dskjcb56t6ggvnze6m2uhzxwfqu2xhep7skidfdxj4isfsu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3861",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

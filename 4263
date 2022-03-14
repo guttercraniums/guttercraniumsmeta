@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6w4vzcrvgtiyzroinhra4tuhbdmjc4fbjndo32jztrfnf4d6vkq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4263",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

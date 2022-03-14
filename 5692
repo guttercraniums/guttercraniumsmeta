@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlvqixcs6empvzdkzne7s5pycytr4jea4idpbvp3uvzgbuec4ojm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5692",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

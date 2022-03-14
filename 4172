@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihr3wullxmi5k4mgdzofpaulflsd6gkjogtxrtnw6halibxz3lmzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4172",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhe24khw5l5w4xqns5kispt6by56ruco2e5p7x6bg2rhwxaljwmu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3571",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

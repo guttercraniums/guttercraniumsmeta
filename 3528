@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6vdxiosmeq467wwt2rw67brrvzykr452rsfc2gwoon27zsull6y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3528",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigns4c6f3rpcdfynirkrp2oegrqpw3kpjrd5fng5d2qynbdvx2f3e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3700",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

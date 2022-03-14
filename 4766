@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjyr7d52d3xsghch2uiysm63hqh3eomiriyphq4envp2npeeoiga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4766",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

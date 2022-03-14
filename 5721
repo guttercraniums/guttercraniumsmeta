@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtdidzlxzrhrfdsmp57xrxblwku36pezefafiw77ka6fzs32o4lq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5721",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

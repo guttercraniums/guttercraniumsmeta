@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiclwooifmmzwszbtnxyzewedzia6orvsyft6ffvizhpfbuboqoajm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5244",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

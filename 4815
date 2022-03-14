@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiggmrossetbmcecwwuumehvw7rw5jggfh3xorcfrpwggx7lxjrat4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4815",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

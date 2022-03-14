@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieohxp463lx6cbrpcdu5ksq2pe4jje62psol66fyeedpxo4iaqscq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4725",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

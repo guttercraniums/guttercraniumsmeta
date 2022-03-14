@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiec7zaowng2urygdaeksgk37e4pjfqdpbwgud6zefpeolbi3et6pa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4021",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeierswbplr67323zh4w3wh2wuulcyk6nngt6tmmqm3s63a3lmtlhdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3501",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

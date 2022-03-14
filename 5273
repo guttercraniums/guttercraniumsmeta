@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhszcxtx55gz54dgafm57m5ymf4jxd7btinl3yz4wi7p33trwxti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5273",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

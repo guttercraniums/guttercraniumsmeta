@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiathdvxlhgo3r52p7naz7rabj6unejyx4e2tlu4p562vtlzltjxwa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5534",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

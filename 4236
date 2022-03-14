@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigc57ehqnm4v3rfu22ehiwk7rzm7suan7rb7mqiqpgjeiqywjczr4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4236",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

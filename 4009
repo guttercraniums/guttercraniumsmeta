@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifv4k7c4y2xckiq57ax3kfeij3oyg2h77mbq2jdev63eizjllz3hq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4009",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

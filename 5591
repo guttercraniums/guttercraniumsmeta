@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidebuz5flgvjr2csmli5qmpmjmikio75utpwqqua2dvxewfzu57fa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5591",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

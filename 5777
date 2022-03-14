@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidn577qlcziau6gsldydsvx4ki4gqob6ltwu7wzru27o4tzy44654",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5777",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

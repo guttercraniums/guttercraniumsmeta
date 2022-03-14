@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic5ogvgsj2mms7tn3ujjzwmuudaa3bx4gjmzcoelswc7upkt2dsiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4290",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

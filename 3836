@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvvewapkmdksnbkdnbemwydegkwy4iqpjd2tdyg62gk2wk2csb6y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3836",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

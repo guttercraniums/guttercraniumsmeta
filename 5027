@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieuap23b44knt23tx4fpv4fwobyy64baozfsb4zhfga3qbud5j3ku",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5027",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

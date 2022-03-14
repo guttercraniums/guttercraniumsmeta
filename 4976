@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiat27ydhrnpzlttpdro75kuwxihrgowobiyenx3i7tbz2m2g6x6vm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4976",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

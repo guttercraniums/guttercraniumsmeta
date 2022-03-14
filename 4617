@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeido6i7kkzjovozxhpzetgodk2hd3cx673v637rh5rs5qp36yrmmfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4617",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgsl4qxdb6iv25wk4yksnse5edtoaelihenyuizguqzq6pbskl6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4961",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsyslcpgomm7k5hln2lcbjo5o5r7ikdopdcmpwwxlts36o633ipy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5572",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

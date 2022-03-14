@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicyhresbybedcrmn526jsoehfi5enhyl7q54on7wbipywuwxizepq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4567",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

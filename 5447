@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiay2hgj6dj2kfm2gbh5fhppnsgwbwxgccj3wjhkrw4bl3rimsobvi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5447",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

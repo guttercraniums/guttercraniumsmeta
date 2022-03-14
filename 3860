@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigytjn3p6q3f5nhzzo2k26tc2cqw3ju37brj37yuplgwwuiahjcia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3860",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

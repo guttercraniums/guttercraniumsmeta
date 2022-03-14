@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidnbjsyki5cwuin7zptyz6wmdnh5q5xldafpkjeoto3ohjahj7fci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5770",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

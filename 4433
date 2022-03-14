@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibj4owelruzdrbffyuhlanjnb2i74k6wdq2h43cf5th5gapmth2iq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4433",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

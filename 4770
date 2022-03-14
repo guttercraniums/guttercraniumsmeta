@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidswcn32svlkbsomqole3dbdtkgwqlevdqqjvmkraek34dievrs6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4770",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

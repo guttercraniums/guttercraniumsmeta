@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxb7dycmjy37twqm6qvfci6y2bhdbuvgwagw5q6a6bl52ygcq4t4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhavyeppeyzsckqsyhtz37f4crvek4glgb37guypymffrxcztiaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3918",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

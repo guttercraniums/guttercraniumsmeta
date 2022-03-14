@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7sgo2b4oreuxegp5l3s2tkitwez4xw2oo7bvexcp3s7mvjkd2uu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5578",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

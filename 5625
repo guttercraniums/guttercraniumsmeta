@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibgkw57osqmmz2qbsjvfsgtis45wuuktz77u4kfff2o5qmdjonxey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5625",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdzmoafsvvqnhvnxesdjvnoe4ibvxijf3do2oyrnmb6mhtudgvau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4911",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

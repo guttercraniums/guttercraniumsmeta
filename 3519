@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnwyqg25aqftsynywiapqt5kzl27dybfw3uvayg3otcef24lj6ea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3519",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

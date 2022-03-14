@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicr4kez2guq7577kkofqfmtvjdvltw2akjor5nyg66gm4rza5z3qq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3748",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

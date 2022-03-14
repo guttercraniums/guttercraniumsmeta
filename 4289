@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmbmc3zjctn7tegramznidefembpa3wkmt72m6f44zqtupls6rji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4289",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

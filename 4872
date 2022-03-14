@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiczd5mudaldind5gwyupprz2hgefe2vmtmmnq2z5ajvf2l4vx4l3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4872",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

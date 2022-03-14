@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihylbhnhyq3h7d6jjwx6tvug52kd5m6fvebzg2ihb73msr3fzzdky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4438",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

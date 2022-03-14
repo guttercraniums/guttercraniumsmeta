@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxz4y3sw5y7hbxwkxtt6m3cmt7uvxaxbzgz652bby6b35ncokz6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5083",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

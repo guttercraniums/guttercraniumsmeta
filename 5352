@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic543gurxjoctaxwfnlrgbstix6cepvf444fh6w3iszfagnv24apy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5352",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

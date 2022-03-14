@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiew76xdhzyc3b7fknk3p2jlxy3d2ovsnqpigbxpci2d5niphyelam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

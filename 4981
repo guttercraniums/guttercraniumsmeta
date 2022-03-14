@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2o5r2stnfx5sms3ijmgvns32caaxrv3hy6fivmwisanp7xa2h2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4981",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifrkkqucsustt6thfref5rgt6ragwfuiidrkd6rf2tjjfmtjwqkli",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3595",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib3astjk2x6eu64dtfqe6wmzjg45ki5f2ga5alweequ56onlx5bs4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3941",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

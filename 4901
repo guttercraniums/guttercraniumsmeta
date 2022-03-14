@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibpzpbpj7rpxif6opfdyxb4b74sp25mhb4io5hiia5frsn3awstr4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4901",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

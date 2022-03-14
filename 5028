@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesq4lhe4uhqcvxehbeg37wxu6gghb2t5klao5o5nmphjx4pbbe34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5028",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

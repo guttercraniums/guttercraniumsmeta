@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibd3kvbhwdcttiwv2o2h3inups3kvpzuatvtrysglhtxtrtn3lgby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4331",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

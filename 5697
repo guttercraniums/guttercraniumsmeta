@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignuqh3o4wlxm4hko6yxxpwfdzwbviowtvu3lcb4wlv7vmn4fpbnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5697",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

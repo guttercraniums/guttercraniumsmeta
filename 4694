@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeian3wcgd3w45ztdxaa6wrq2axfjcgtujxlcn7d6jpzph46kaawzva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4694",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

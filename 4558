@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaagmcamiydhg36t7zesh3fmn5piyedynr3vwp32rwdgqqjhf52fi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4558",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

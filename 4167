@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdw66f7cbg3fnrvl7aixeeuw7uipea6fmd3natq65kbn7d3o7znq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4167",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

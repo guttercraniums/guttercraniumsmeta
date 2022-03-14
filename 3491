@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6qlxgvungxe5dkflr45zcfmpuuua4mz5flt6ck6crr5uc63xc2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3491",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

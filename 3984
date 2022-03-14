@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibygbccwfj3ijajgmmbqqbqootz7w53podrnuntdc3bqmk37xnn7u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

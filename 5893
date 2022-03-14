@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2jhvmqwmudegki2porj6oza4qitd43wxz5ld7s73jqyn6dqrnrq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5893",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

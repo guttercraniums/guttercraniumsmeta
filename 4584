@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarlhjh3znxiaw47cgsihamlp7fl7asb2rk464wmstfz4ucrxfoau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4584",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

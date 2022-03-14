@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifu2oikgqnyjpnoyply2cqt3tqjcufon6mprrvufe4yjmmfuk24au",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4185",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

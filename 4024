@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewtk2c3mzlbcmvsyobfp6lpl3lf3alxbo34q4gzdkskyqm6c2iem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4024",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

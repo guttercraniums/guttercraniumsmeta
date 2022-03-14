@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfgw6c7o3oxe744i4fpgykhdr3ijd6r52wukqm52emvmbk4dp4ty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5462",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

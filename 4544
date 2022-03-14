@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiechz7gzufeqxqalkwokgux7lo5khbudehiv2tlr5wypcm572fa5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4544",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

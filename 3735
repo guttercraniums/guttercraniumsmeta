@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifl5kvvqqfitllbf4np5abotzw5mdwnslfr3osljxev7dtvkoiw4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3735",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkuicogxkknvjuw6wkiuzvxij5pixoqu3r6gdebv7nkndhqwiz6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5656",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

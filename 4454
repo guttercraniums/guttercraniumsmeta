@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyuvt3ymr2czdf3qm4sszrdpwtc53y3qrr5lce2oqexv62nvwk7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4454",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

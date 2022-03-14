@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibizhyfgywpxy47nyhmicdtr7b2jwulnomqtifmpw6bvzfdalj5bq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5696",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihba4qwr4vazzkpoq2zlxa5tle3ebxb3yeuzhiqiwestjxsvgk4si",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4525",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

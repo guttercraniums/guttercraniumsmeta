@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicft6csrd7hpc73u3aiezmup36bhe3dpqmjyaylao6votasecxkpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5045",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

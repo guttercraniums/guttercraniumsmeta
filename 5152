@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaim2lzmnb7ipzgbudgknjrfb553cqsuuzfunfoebnjx6y2yzrup4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5152",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

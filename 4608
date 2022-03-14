@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifga4lt2iveyy7uxhj4mztequryapg24bazqkhybsrdma67benhle",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

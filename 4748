@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpqaq5q65jyewk44a4z26focckbvqy62wqrlm5nu37hjfiquu4ey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4748",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

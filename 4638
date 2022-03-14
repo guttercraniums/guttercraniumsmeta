@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4auq3vwbwwlrqou4w63zdg6u2doagjc7wl4aghymo2l2v6rwwpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4638",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

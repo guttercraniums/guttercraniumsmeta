@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkjptzuvzm7izbwssa565yr4fsb2tq5iowfwzk6v5ph7t73vy5ba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5626",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

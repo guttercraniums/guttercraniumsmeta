@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedhikmldb7gk7e6urtjtr3ql27m6uolpxakvsagno2ogzg2culjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5746",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

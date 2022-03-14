@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx7y3l2sfbepkvbugplydvonezpwqe37wrjjx7gerwsjumxmchsu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5522",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

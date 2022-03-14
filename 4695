@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigs3y5fjtg36i5minhnbn3mwt6hmleiv6ev6qb7jm3dg5dc6mwfje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4695",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

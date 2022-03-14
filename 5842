@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavj5fi6mzkgwa3wyvu7mw4uhbsrqmmh3qfbanjfchd4xmbjzehzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5842",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

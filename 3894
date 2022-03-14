@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzlwwkm3423cdxyos5tgzdr3k64fmkaru4ii2kurzgoiyyd7itfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3894",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

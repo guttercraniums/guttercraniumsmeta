@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzsiatbvaojwdkxzcmbdo3ep7dhwdtksahcjfpp2csotfq73lk3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5913",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

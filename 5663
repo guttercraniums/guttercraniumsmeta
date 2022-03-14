@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif57xk2zuoosdaaftiged5pextee5ss5tslnp6au2o26bvzbduqrq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5663",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

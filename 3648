@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqzlt5byfpgbwr4rrrl2jy3dwnop3rp53isaty24u3to7zvv4nme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3648",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

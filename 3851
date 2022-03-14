@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqzt7gemfbkre4f2qq7mjyvdzfirucwukppy22l7lsviyj4rsddu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3851",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

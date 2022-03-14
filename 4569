@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibrou72jyyx5247o2ywaallxunzlyopcc5xhiqtw2wolwhvuekwhm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4569",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

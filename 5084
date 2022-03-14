@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignkrfq6rnzhysxu64pspf5pyzyfyklglwsrqrg6r34u2p5p7aeia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5084",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4iirbpaly3frx3uyboezudyott5li57gnfncyvvo6cdgfdn2awy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5826",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

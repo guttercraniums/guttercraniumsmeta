@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwboey5hwzsw7gxwonjutcun4gvufvqleuaiht6aw4nfyqwpk2xa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5594",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

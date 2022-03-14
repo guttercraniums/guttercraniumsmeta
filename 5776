@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidf6t3vocgopszjdoimcfjzuqwdgw7gzxjfiprecwxf3dxjgml4mu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5776",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

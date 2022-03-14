@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifivuobkyocwi3oi24sc4mbodkxb7brr2a4jlynm7tefhgjauawya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4147",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

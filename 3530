@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdfsr5szrfzw6cju2ta7biedzlwdxidgdcxyhw6q7eh25u7fgpgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3530",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

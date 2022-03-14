@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicl3l5r6qj5w4x5qifnc6ei43i3ma2hh5lh3n6hw35banz3nlpupa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4227",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

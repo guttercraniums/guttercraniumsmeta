@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaqwttewdgz2x7yauyosibzfyvuk2iiccvqgeksr6uptfbjj6ezgi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4058",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

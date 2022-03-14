@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbcvdxzpxdckstbkgskuzzn4jb6p6gue2kfiemcwowf7hcf5bqay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5443",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigsmjq2ugraoce3spwvz4bira55mcy4lisgyj47iczqzll5qecote",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4711",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

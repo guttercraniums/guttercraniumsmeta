@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiexdrhwxo55ptxp2jhzegvllpkn6andieroe4nzludxvdi7n7uifa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5210",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

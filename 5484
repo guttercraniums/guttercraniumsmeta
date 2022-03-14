@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4iofkym47l3tk7zgll4m2sv2xl4obj6budpyos5fuj7q75slthy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5484",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

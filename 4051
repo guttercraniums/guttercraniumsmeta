@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeick2gou6l4oyowdz3lc6lliny3r6jwichplhkpas55vht5drq4w4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4051",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

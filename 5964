@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicaieu6mxgpnkyjl2rxiuirtvirhuctosrvpbb7ip7slg23u6de54",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5964",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

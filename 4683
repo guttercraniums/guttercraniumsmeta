@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsnuzhf5hxhe2sb75ulf72zv34vvly4axnfypiap5fbe4gosajly",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4683",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

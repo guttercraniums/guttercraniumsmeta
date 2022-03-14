@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflw2xncjwoja56qriqugqj6xsnwwahxtebhksw3j3bm54gay5hzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4561",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

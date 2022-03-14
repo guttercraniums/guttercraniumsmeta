@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgdgxqrbpu36fth4rhzb7psaceoryd5blebqpcsp7oej3xjx7bnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3821",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

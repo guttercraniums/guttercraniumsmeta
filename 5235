@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidcnsaq3526pweoge6l5qf3u7zjyrnxrwfk47qx3ama7h5sb4mjou",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5235",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

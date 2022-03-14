@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihzvtzlyqk5m6wigcjy23mou5vw6v7qsr3ohxj22bouiyxwrwqiiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5740",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

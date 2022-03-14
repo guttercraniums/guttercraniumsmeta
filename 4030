@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbfk4iysp2dwoakkr4uzufo4am5brhwhhjhmsjtskdyxynuqrs6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4030",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

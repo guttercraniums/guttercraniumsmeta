@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigh4b7ovxg5bmjd5fi273anni2v2d3js3y3k2kf5kgj636iezmhyy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3436",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

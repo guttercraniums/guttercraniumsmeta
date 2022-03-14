@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiegmc6wu5cc7bqeiyk444u2p7ak7ol5rq43wk6dw363eeh2klcjya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5257",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

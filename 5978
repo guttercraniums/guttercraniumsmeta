@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie54lgtfchm7tzbwxsf4iy3bh7u57pavalc25nubeh6oycl57i224",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5978",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

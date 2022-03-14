@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigq45evlisn2obwjuay3i752drnjdvddr7myyepq5isgvaxhp7tny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6002",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

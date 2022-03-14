@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4d3kkflk3fbdzdy4ydwsjqwdmw5au2oyjb7oetxls6447hjbtp4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4967",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

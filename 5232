@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgmshkglxvuqaadiamibrlm7ok5q4a7tkv7m3avek7fd4iodkvzq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5232",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapb3cmgxd7bb4mj34kfcclbkvpypzuz2tqiulgx6edlpcl5yvesm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4313",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

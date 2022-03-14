@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvp5trxw4zvvbh7fa6fktrwvvmspdnjvpajmvxlni6g2tgs5mbnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5660",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

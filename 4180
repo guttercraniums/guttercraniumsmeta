@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibe37wumga7uuzfqg7gw4um6s7x2ixxjppvkfvhdbxz7mdjxgab5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4180",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

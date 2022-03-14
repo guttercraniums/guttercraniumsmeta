@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvwgg2jqgnfzytfxuisgmwwilmrn3xde5q5f6cvvymwx7bbkhndy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3650",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

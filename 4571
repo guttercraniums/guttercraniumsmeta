@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic5qwhtw3o6sjmo7aszjptsmitf66zznnken7wsd3xjmr4fcs6mna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4571",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

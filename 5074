@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvyxw7eltixw6cnkjyt5dydz7r3vyfzzz6l2slss4mtfza5mg3ja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5074",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

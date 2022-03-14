@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeievtiit7i7rs7tg6drc3vilbdrke7rpko5qzfb7n7la7lxgqjbfbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3756",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

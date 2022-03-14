@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzsggvci4hxqhd26gsawycxutlwa2rokuwepbgfen63ztavn4xnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5139",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

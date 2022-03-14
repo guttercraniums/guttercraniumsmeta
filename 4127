@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhsfrrb6ovngh5dentsgh6varwd4yhvpvi72mh7mkt5r5gbzxknq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4127",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

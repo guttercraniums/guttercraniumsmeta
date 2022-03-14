@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibinhxgp2a3gxer3j6lbggj4musxtyvnlyszgmaanv6ty3ucefamq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3810",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

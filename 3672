@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiei57rwlvluiwldwrwtorubyv74wsfq4ig527pkllqxwnx7zfiuoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3672",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

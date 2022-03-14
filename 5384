@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib5wn5dixsfq6xwl63rlik76y7n7ypkkndxjwv2qxc2mvd4cfeaam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5384",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

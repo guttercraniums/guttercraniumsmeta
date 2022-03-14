@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiguuiqtbm47gsapax65d344wxaajl2x3hmgw6i7bret7x7hf3oc5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4215",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

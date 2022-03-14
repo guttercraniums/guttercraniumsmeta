@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigru736rudnxn36lvqvkk5nrogs3u25bylsamcox22fywmy7yn7di",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

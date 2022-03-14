@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2l6ihs3v76j5vxdpshbjahjokwauc2oqhtmnkn4acqc4rayedhu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4972",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjcuss37hmp6yjkvfoby2qbm4qeuonsgc4xprsfx3ecxzj4hx5um",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4602",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

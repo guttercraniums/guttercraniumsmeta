@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6cd5re7xaehcd37y6qrwzw3g4wrarbutzphlzhkrnah4kirfpna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5438",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

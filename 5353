@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidohdcegsxnwrvdb3t4ehobmt5yew5xmzheurkrh2hhoyax5zij44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5353",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuolif2wjvmfmpwdxuam3xzdqndgqg3q45ui7isxuv7edyjlsipy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5496",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

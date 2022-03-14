@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifjekod7t5zo6hfb4wvzi6l5d2p7c4ub6ixgu4ljkyeswwgoxguoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5338",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2riywaobm444foqej7dfvbtxna27rgjpuwizf4ivqd3xsr6kw6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6000",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

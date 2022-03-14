@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeielzbtfb52qebiussebvohxiu3exp4jhsqklvwrrnxmmglgsuesjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3866",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

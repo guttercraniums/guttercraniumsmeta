@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7h7ba5ytqgykl726xrlvdh62m7hduippf6pdzunrmeetdcf7c7u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

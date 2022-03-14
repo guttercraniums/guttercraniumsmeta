@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmf345rauetb4doypglud5j2ktyhi5oub2uyudgjcu5u4afmt23u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5375",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiga6dbd762k5jpw44iqeytdmibwia2eyyn7she2erfsef75jkzuny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4323",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

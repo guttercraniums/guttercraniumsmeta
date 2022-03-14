@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxcicydgmx5bebcni5qanob3awnhjfy2todjxbo4fhe27phmaxfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4489",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

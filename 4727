@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiggclnzxwvqi2yacdd33glmfpo3g63ce5u7k6enc2bupyi7tnsdia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4727",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

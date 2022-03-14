@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickprmvnd72ngfh6mo5h46544xebmdqr5ul66jemfe3zgqik4jdfi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5382",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

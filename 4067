@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezooeot7gnnfxgmleqaigxqv6hi4gyvoeubfc5evlv5ccmvy2hta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4067",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

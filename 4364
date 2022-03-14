@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieoqmq3oblpeuuk7byga6hg3p7pk2lcnocci2qi7wse3zk3ivmf7u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4364",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

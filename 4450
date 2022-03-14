@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjvatukhdtif6trpdbyhc2sqoh64b72zn64r7v3zalj6spiqnusy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4450",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia5tbwte6udohtlawm4rg6zd6um2rrlbapkaj5o34j2lnltnctdcm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4220",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

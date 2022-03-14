@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibp45s3wdjzopf263i6klnm62ppdmieoljnpev2g4hrjd3fiem6fa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3483",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

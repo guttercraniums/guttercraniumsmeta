@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefhoyjmjj6avmpeyti25lqsnrgmlqhrxn33mpj4zzfm3bv4vpoli",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4889",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

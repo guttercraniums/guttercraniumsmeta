@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihtk24ba7xrdypnbu7il4aqa5j4ggznrhha5dmnc7xxbbvhmrtham",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigb724zym4bhpwxn6wixnoyjxb7olppefr2dh3idaka4akosf3tna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5590",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

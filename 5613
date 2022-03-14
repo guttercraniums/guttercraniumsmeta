@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2c5vodyyym2asaqkixefapac2pepdsrehmw274nqz2ozjthiske",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5613",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

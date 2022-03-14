@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifubtb3qiz3cvmvz4l3zdz53acxajs6gbcquxeyf5d7qlh6n2ukeq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4074",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

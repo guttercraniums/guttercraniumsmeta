@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid3rknw2ssdsydx6rpjmnketjkkvvuos524gbnj7ha2ka5cbwrluu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

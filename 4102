@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesszdwuu4gwo2cl3zwtuorrxvwomefdkxegzc26tpl6ncqpet57a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4102",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicuvigb43mvf4urz7uje3vie43yes3wv65a5qki7hgoa6vzehnrsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3515",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

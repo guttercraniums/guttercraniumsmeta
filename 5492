@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrtbmjzp5n6bfr2pcroom7zjfk2vvmoqarbevybv4wcj4b3qftfi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5492",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

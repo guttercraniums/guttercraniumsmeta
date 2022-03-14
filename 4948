@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifadii6noswwa7xjum2yjt6jevacebeliu6kt5eucquanj6wqld6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4948",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

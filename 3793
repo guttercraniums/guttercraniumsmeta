@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuxjzumyulcw6kveibdgejvlhpsssvkqdr5oxv6jgja4cpm54rbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3793",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

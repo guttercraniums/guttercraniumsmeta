@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibknbvr6ghb3m25umkmhzeh6rkkgybz3ntniwlnbts7mlpzzgke3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4044",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

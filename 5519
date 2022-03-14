@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6xbiewihtkpukp5y53ooxfmvv7dln3igpp7ep3vrkicb2ua3fqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5519",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

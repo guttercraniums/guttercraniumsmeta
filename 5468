@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeido5gjmqjakfmlui76yro66nqqzgcjyuagt5wxwgdrj2ayfe2wvgu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5468",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

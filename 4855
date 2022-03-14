@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifhx7wch5f2j3zlgbyq7x2ol2q3m7yk2u4h433r43hmr7mcirhv2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4855",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

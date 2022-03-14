@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiak4lylaca63zubk6oi5gmoutxqnmqi3zyagqrxlkhgp7x6x4lchi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4516",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

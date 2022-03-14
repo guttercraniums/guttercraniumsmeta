@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxwi6juglpmlpwesxoeeevxzqguawvcnez4tl2ruvdmpj2t2lhcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5192",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

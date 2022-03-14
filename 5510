@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnpbrapbkkncazgofjvj4uflsucpa47y33g77jubt367demouakm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5510",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqr52hd7qad66noyb7nooclr7ugesepfafdjthkqvozarrgzpmlu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5969",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

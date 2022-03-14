@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibguvggmiy2ef6xzjdzgbbhmocctsfkr4kuhep2vzb3iptazlfmju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3649",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

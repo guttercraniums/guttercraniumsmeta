@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4iijegi75zak4l4h6guhg5ia35hebwmd75itzgx3cvhlzmirawa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3596",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

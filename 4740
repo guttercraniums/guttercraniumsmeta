@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiga5r4izftakpcm4jz5n66g6fgpuaa7m472sw7wm6sny6lgag3bea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4740",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

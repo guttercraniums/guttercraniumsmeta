@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeida3qwtbmo34hgr3wwhtqcqotnoqh2z3vtxkhqgefzr5xam5d5oeu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5962",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

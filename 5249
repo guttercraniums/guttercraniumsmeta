@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvtb3mk2crb2e5tg6xd4hknc3tdxplxl25tpbiuub67kmkj2llnu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5249",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

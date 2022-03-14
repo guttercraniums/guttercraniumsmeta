@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeican6f3qwwfzbdvze3jvydspjydsyujau5ldvuygvkkw54oa2cz74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5025",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianrwayghdtazjhfhwmndvfjqrb27i444ph4ofhr3la475zardotm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3554",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

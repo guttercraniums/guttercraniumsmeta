@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddmhpbcg32gxj5cum7f4abea4fk72ybzdouottchh2sihex4kv3a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5846",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

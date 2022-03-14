@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeies6wniw4c3fdh27iu7jfqyeytpcymjp77xbca4caiaaatfzhhmsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6007",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

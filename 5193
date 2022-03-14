@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemwti4rxgglai53ut4vy7tg5s42kcydgcv5b7opsmcxiq56jwfoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5193",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

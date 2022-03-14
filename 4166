@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgvn3qwpdybi4mnnfc4rziadc6vlq7fsmhdbiax46puwxzwoxiuu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4166",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

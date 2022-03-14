@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicie7ylbrnyulo6xnvcg5ejvm3jisuxb4syxwkv24gm7twagz7vcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6006",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

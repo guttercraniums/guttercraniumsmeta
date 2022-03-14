@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxa3k3u35svf2hgnkdmfg5qkosdz3afdze37htyogel4u2e2wqbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4475",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

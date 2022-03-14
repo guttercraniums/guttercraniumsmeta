@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeict3sxe76numi2pk7isdt3ayrthzjz5b4wzpofhgpzitiqlely46u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

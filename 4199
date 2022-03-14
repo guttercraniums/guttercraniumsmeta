@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibehxvbkpc67kz3coiesptarxgpx7durknf37ndgr6h4htgxrlw6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4199",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

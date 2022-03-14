@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqssrs5js3n5nsklekgem6rodwvda4sso6ybz4zudce3szdja2hq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3589",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

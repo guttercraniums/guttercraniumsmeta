@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsszqqb6h5stn2sco3wgnyc5kkr5spy2ig3r5llopx6qk76e4xfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3815",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaizrylrxzho3pgy3i6bmhmeu6zqnnoirw2ju74a4wh265dfgtuya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4137",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

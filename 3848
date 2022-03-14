@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaytsdjiyg3kgq4zjw67hjapvrb52vg2nmrmh4imlux6n6anbkry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3848",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

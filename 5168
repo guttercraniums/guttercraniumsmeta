@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiattbt7jm5x7lu3wqdfjneb6ubjo7hjeiouiu4tdd35iuo77fnzmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5168",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

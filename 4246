@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih3ptfricrufbcyrqpz2fqzjm4fyr7fuuq4sao3hcskzinb6ngbgu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4246",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

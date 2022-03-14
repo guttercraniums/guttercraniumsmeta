@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif5j7wjewl5ogwldu3pu2vi5izo4kmqacq4rfnyaio4bri6gdcpxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3522",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

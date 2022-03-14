@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicd5xz2jdtsxzsvkwmg76t6u7kojsrkxatn4vwpqzps4vjb4lk5dq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5165",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

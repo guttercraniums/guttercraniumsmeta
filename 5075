@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedkcoxh2bh66wfshdbabwt2qojmf6j5nldas27sghn6jwmz4l7zi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5075",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

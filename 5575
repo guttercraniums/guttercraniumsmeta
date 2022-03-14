@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7w4z4a6ae6lgikv7rf5r2umffnobspwoa4f43suo46dlxnnbmla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5575",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

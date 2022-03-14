@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaeqgzwf4vdfwnpe2d7sernmuygasz7fqnd77bn3bpgncp3vveksi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4599",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

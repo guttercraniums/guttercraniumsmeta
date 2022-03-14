@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjbtjuiv4jlob6nh73yubpz62ycxv22ev7eejx3wrlzhuebq4u7q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3769",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

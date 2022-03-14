@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzgq4qmhbn2h23fkvwwfltksfclhmpnbxngmvk3wzozzegkml5bq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4963",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

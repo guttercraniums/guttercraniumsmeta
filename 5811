@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigijfbegbbgzpld57o7lnbv4gq7r6tsbhpz2krsoajd2sew4w63h4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5811",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

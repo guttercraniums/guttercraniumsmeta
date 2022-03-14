@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqj5d4g5nte2hs22pgdpwk4vpazwxn6grsc3pcouw2vl6ncwxwwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5414",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

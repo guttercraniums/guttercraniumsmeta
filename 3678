@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiat6k5o2zdhu73njhamdaxolfcbsl27eio4uv5zeda5cjiyp5c3ne",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3678",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

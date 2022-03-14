@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiananzvnxykiqkq6m73ouvy2ohaoxck5ygrrmzuj7mqd43moz354e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4719",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

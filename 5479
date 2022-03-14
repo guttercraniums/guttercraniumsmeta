@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid3s6vwkeghmqz5b24ei4lyhuqcnpa3nvomogvmahm6vkszlsixxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5479",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

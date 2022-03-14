@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieydvskiuutcnfp4rnbhwxenyisuet3i5kzudz7o5t2g5urprkzfa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5341",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

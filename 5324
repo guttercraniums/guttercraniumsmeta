@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifru4no5pfwom73gfca7hzoi6rqv4gif4qd3i4mb2g3ehfsk6li2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5324",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

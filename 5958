@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigh5c3wicftyuvrsncw5k4xf43sexdshcylyhj4hcmbebtdaiayyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5958",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

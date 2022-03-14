@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickcz4qxkvani4pesmfj7cnva7wd5y47vw2qppjdyfcklaghofpkm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4254",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Paragon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

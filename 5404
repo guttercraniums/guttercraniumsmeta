@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeictrboxz6rptuqq7vde6iq2lyov7xmp3gge3t23s4b2zgjlmtzjdq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5404",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

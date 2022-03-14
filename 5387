@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfi2z2isixqmeauwo77m3qaiog3kdmuzaiizqypq4fumf74wbwam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5387",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

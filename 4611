@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7gvw7otxemv5gvtiipg4bdstanossx35txkn542gofjttphvlau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4611",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

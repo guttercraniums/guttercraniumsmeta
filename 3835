@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifatt3ke6cwxcec2pfn2ria5gekr7z2hv4zpzightihx5ipgtypmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3835",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

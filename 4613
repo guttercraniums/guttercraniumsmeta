@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjx5ewvxuyaqnhkrytcesyjotu7ivbtjmzt5jjixahqw6tu7cvxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4613",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

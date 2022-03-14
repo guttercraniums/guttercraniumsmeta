@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkzx47kym46g5f5wmidubvy55kyyjtn5fgrjzu3mbsjmpefq2rwe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4149",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

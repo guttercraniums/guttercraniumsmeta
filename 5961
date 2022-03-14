@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxckm7utfezbkr54lzsnyxrhy6xg35snkmz7kwtyux52ldfw4o4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5961",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

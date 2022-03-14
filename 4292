@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavpaqwsdevq2nqa37yl5tq7icskvzubiulqtlqwyk6rpnvcsbbjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4292",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

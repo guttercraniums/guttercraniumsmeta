@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtnsfucy3pi7t66seyszokb5etcssgj7u35d43ji7jbxd6vvpyni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4110",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

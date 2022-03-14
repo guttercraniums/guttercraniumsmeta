@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidem4anv7tzgt4qjw2ly6xurz6uj272dmfhkw6xodl64l6wic74jm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4238",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

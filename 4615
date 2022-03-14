@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2a256ri6dlaij7p2kdo2uuapml7sq6mhrqyzeeokgf6uuzwnigq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4615",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

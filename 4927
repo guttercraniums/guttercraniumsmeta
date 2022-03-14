@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxjnxw6sbxllkat5mgy72trakln24ni2wyk6pl6qeqjwoq2bbtji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4927",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxsx42g4wlvvxm3axh3p7v73ucrexwzgkgk6n6piczbbov6iahd4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5178",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

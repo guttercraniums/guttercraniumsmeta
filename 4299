@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiau3233skfst3jk4wax4m7ae42hr33iburdhbe6z3uvch6nz4pkcu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

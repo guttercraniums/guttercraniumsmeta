@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiguuxodjemtjumhxymgfipeqxn7fjpfep357nt3ko5eb2eyv64l6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4230",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

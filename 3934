@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiceccirxaxdrkr66awbszti3qcfouebyykj7qol5pzufokq4aekra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3934",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

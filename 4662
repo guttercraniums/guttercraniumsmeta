@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemdfsuh6ucakrk6gc2mew3wv4mzu4axk2ly22uilzqf7szgnnoee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4662",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

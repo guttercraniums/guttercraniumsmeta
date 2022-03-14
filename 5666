@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazxy3ruemvgv2mdvaj5gysj73xri2mk5zpqzqf3td7xbhgdcyuoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5666",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesef53tlajougdz6wiuzwyx5fs3g3lkzbp7ovc34bi33wjx6exwe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

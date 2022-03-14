@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiegxaygsu7w6hhs6zhb2xtgq4wfeeykv5hfaoayyn6yc7der5uuv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5402",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

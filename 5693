@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigo7k4gmjq6tghljbigmem7uinwz5gwnnsmstd2tcuvbhaejphmnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5693",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfaal5bnes3mr7vxfxldbxx67odjniiyhxqylobvf4gxgvz3mxj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5616",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

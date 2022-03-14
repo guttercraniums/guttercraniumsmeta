@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzmq2yv6ihq7hhf6pgte5z66qswwvfutuf37kljltaztgbsoz3zu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5688",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

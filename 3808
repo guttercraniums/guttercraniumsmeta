@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicpfjf2z6u66j3id5hdc2mzqadb7iiffjl4rizmmnax6l3jhc7m64",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3808",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

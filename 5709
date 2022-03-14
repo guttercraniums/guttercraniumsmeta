@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpp3zmakordg6rwr2igi26vmbwquxyg6qysjb4nco32ptsazr4li",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5709",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

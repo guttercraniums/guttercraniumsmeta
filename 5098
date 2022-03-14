@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccbnqb7idaevt3zqupg2nc3fd5hgrioqcub2rx2t65n2ggb6jkgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5098",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

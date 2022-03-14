@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig64pm7b2dca4s5fznfvx3olbvz4lbwauxdmapsvrso3ijigem4bi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5664",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

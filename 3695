@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7ns2xd5u4v4uezajhj3ty4mmeufo2ioumgwt27ib5yn4g2vr2ky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3695",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

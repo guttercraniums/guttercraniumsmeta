@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeign26n652maz2n5jq56j5agu2o7yh4pjnurcgx5tn3ix5zr5b4d4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5024",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

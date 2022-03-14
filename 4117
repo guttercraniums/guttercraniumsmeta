@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbfrb6rdxzpsm6jpqb45mujocrelz3kuaot66mxsb6m2f2y2iuqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4117",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

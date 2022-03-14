@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichjepvj2tjxqlrjnz5ktcnaguz2xyvjk7plb2xylinukpfrk5txm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4900",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

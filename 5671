@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqx5eklwtakepk7y4hfhipizi7ly35wfal54eh6e6pyfzp5bzfvu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

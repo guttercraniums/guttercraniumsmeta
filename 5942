@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarvzqyrqvwcpaxvkvfwwf7rpvm7du7tf5dthoecktzscw7sl3mq4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5942",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

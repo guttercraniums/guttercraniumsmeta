@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigx77pwlm3tqfyfm2ple7wavctwu7gwdhyii2jysafvsdlsjwwqoy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3545",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

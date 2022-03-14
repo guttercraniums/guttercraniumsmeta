@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzeyczg76hu6jkdjuadskl5jes7lrpd5m4rzfjsgajq5kxt2ca5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5140",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

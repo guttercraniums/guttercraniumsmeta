@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig4k3pemlx555zuv6c7pouetfn7hk3te2et3kg6qxszkyojkqal4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5736",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

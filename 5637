@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5kktrdncepkza64uwlxo72a2ikcw22jknybnvegz6sawr6mk43a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5637",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

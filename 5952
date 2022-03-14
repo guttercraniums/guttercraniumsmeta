@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicpltfmmv7jhmqyi3l6zoypya3jit63x7tfs4sh3xectihkz45wyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5952",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

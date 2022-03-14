@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicfyvjtms44ntnx2str4ko326m6nnocyrjngbw5wwhfnbmivza5a4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5647",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiggme4qk57vxxkfxooopg5vdsujtovrlrabpblz4jswwobfv53ifa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4217",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

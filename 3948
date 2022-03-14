@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifashbuhuvgtex2rl4am3z7wsd5qezs3ddskec6ep4tmu4ii3f5ni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3948",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

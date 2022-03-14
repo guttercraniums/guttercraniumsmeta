@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6v7pvo3gw4nb3r4xlgz6f3tjxu3trlpeqwvg5hhkd7jhwmbdqwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3980",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

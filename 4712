@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieoojcamdpnktqmijxpsimhipgtdo7lww5xh7vpxipeeaaddkjasu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4712",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

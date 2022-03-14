@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig5j7iiirvqwkg6vowu4mnrjio7l5j7d3egcj6gup4bgx2yfqziuu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5606",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

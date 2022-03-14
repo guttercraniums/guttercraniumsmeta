@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidcvvafbpl3ar47r27qvouv6u3chjf6g2xqcoh5vnshcky2mgs77a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4064",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

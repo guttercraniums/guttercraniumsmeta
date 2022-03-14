@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialuczxx56f64dqj2yqjrdgajr6ta3ak2mlabr5nf4eoar5hvyezy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5683",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

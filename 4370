@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeials7njf53oouwrdyccm7gmnc25ohjmr7qcdti5sod2t6uknny5hm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4370",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

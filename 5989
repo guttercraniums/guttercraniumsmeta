@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibfewftiygxghtor56ub457vfm7ozbzbgfj5aw2fh5txlbvhcwokq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5989",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

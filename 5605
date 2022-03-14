@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiat7cyjlqhmaxqy6isshrksenlk33bpt7v4s74gbt3r3tuw4nkhfa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5605",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

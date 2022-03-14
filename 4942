@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif37s6o7afo5srbuerwhobfttcjjp67npionrggecx4dxxxeyw25a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4942",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

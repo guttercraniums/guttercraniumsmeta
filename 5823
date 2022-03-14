@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzfiloh4fdxdksygm6puwln24ywj55dfkw42x65qn72a2zc7c3da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5823",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

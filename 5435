@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrmus76l7fwnu5fgerqzcqnpubby3wsdgrfdqikbtmtuw4vqowbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5435",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

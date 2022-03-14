@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeighned7lcnr3qmluftjpruiz6476whkyoxqw2hvczahwvpxhf3ekm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3741",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

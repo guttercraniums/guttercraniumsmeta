@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5c63gdhxriw74zwfvfxgk3sli6cutoq2nmzudo736v5ws6bsa3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4587",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

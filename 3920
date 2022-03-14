@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibl45yafm4jo5s6u3wqdft7vf22kwbu3ccgb5jg6ybdys25x2vb24",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3920",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

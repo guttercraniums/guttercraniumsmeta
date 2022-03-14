@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihl3qhcgrpwe7jqryigtk42hrbm4hwls3bqhyyupdsiu3p5kyb3ai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3469",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

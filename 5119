@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiasgzs47qgjciuwvm5htcvw3vrztavufqygcceo2tmk2hoqov553e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5119",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

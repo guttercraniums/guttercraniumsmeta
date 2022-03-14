@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidri32iu7dgup2hieunjjpuuxsj5kfqbpwi4elpljsolqhirik4k4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4508",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihtgwdkzn5chwlnt5jokac2qeigeuw5vxhu45jdb4ni4kshbri3ji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3718",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

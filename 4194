@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7bjlmpcq4o622nesylkofw73lz2j4yqetsdshzbt7v5jilzudua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4194",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

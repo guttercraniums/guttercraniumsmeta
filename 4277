@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtspc6iavnekt7jkvxt3ppegvpvwvvbeuo77xwqkjn2xdtib53ha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4277",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifrq6qzrxct4icacijfsptuup5l6farwaf6cnrygsnczvsqf6n3ua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5079",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

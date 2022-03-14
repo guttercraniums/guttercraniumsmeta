@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqm7okkuygd7xerqzep5bs7zrllug7elnj7dulf6ramlibbvwqj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5789",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

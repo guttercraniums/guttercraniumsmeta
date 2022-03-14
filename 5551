@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibeqxg6k7pyjy2jmsvol5fvab7umb66krun5cikh6mp5lpwgqwtxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5551",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

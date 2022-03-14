@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiciwpetmjvc25njuf2uy62iasrxjihh4hejqkdztj72lzehqtkfcy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3823",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

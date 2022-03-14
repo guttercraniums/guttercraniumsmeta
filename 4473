@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih52il34ijt3ynl5oewp4ihanibwpcdqq4wxjbdrdkzfqdyrapshm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4473",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

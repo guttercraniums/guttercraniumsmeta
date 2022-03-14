@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigd3d22ke6bjmno2s4ixy4b75lcuwce7m4gxlv2qs54ehjaek2imu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3454",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

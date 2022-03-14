@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekm7bqarhducs5jveequzdehc3j5tjvrsyivdhxhyptlg4a5iw7m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4097",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

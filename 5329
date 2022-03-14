@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiay4tuzqzkntpwzrc4ji7hm24ordtvv3yjecje4cym6bkehlmette",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5329",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

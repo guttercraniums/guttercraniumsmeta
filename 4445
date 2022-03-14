@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarnoaumlwarork4i63hgt7qorypbnlugdj4aapx2shrvueyippm4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4445",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6phrhmxkb26hescnnmetandai2q3nhoyytgqi426h57n2bgq4t4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4088",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

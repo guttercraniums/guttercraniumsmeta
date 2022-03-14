@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrigse7djsaw5m3wlhk53edwcqdnkmciufu7iudqgt3humgmvdaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3514",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

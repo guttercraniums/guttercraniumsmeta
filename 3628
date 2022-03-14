@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiatmvdgp3ozx2c33capfk3jqbc3ie2t62qelq6wqukf5kwhjbp2ga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3628",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

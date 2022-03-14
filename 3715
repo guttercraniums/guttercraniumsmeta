@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewc2saj2ebi2zsr2nf465t6rm5xtlgg67pqzvb52b6az5ewlwckq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3715",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

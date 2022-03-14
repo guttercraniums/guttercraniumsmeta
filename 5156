@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2npbbdakvfc65ozd7jhyylcflakckeaq2qufrhupqukp4ipcqm4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5156",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

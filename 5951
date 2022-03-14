@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifusil2xlfqvoht3sbcpmcbeceo3seg4ewnnvuzh7xq36s5qwhqpa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5951",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

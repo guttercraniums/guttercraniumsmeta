@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxspxpri6pud7dvwzy5l4y4nlw6z6dsrhbur7edy5s4r7jfaawwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5213",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

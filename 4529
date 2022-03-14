@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzlvlwgugggki7ulgkchujn5uqyqcqk56oh75zmdozzg3bgfog6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4529",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

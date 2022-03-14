@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzx5uhylfadr2xqtsularkjupurgf6gtglytqlmcezvuckci43fe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4676",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

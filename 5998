@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsrzsg2krdwlpl6ub3fnfwb3lv6n7lbaf6xebrg6j2pncx2qr4qu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #5998",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

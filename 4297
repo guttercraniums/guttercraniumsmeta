@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiespf4e2e3ukg2rtlf24b2tubpivgmchtwuh3g7b57nwuxlzn3gvu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #4297",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
