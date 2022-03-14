@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihsrdsbkbeyrcblqlo3azzuzj3m6eaggqwz5a5jdb5qdazjf2pqmu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7032",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

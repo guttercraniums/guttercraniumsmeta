@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibskkr65ww23q45lqraw4frasngfdvqxynnc3zldcjl4hssp3r2ji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

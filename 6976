@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifca2knw3uommtkrftexl53k45xudalrtdxzasnzo3iadovzehtvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6976",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

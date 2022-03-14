@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifoldv45bfyfbqejjxmwoztts7ks7nc46ad3tqzltqsjckjub3bka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7210",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

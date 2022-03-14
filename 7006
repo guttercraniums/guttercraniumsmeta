@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiace7aiydbghf4yv5uokxdcyr7ecaewtlyjyn2otkqe2ufmxpmzya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7006",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

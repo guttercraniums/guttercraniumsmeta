@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicztg5bblk6anlaysh7b3hhscmqimwq4zudnznv4pqar5qclc2peu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

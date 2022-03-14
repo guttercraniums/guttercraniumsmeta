@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmhnkalpwd76n7527x5tov2jewsh47ov42kpyopjsajraoeuuore",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxagrftu6jmwtezo5vpowkog5px4vng2gvpvswdx52logu333uvi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7216",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

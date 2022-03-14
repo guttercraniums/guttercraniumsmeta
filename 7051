@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid22udqyevrxcdt3ubdqe7jfdjwmodg3xp44thjcx555ruvojf6zy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7051",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzqu5ftviui6ag7xprxdv44p667xwtoa34zbhh4ujtuew3x2tgda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6980",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

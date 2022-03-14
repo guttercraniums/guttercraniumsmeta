@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxsl6lrb7sh2zlt4awbhzm6k35znjcmyv5scjazvzlrq2lr2z3dq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7167",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

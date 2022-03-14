@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihh3qkevjwwu7i4vxsesc5rth6xwkcpwr65jvl6h4ia7m5ewi7lua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7153",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

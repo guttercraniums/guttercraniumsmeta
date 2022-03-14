@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2p6vj3wihshgbwn6z36amkptskjqdhl57cgsz2c55ug3t2djauu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7242",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

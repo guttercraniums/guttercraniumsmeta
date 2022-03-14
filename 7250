@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3gf2fxcgkqxxe7k4xtwzmlooptnapecfyrj3opltzh7o63aqw4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7250",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

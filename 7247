@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihmhff7tsprfc2pxnxqc3ano3ks4dq2u26iwwg2wun4l45a4rxxgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7247",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

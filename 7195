@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigvncvyj2npp27vumrcy5rocbeu42gpozvyg5dkyiatwsw4xeavjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

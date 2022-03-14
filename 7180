@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7hqs37ypsyc5gkgqj2qmhwry6oicfncoqzi34nbzum37hdds4iq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7180",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

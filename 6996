@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichxek46ot3vsx7opqvvnhu7sbcabs27a2vrcnypbb7ibq2ay6qye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6996",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

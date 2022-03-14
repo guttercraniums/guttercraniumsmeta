@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiex6jbdnol4kpbsigkl4a3ci4ibv5y6gew7yjak2uim4b3l2cs4wy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7194",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

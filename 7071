@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefncc46ilbz7f2z3ixrv7ctq2ok36ybf4hbfntuepkau6f2zsc3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7071",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieox4mjlz577ojni77jnfqbh2tbyslawlt32bsn2gzcfbrwgltsdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7125",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

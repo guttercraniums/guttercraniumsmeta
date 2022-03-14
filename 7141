@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7qj2ex2resspzsv2mrhdlh3m2kbwkvigxxzzugbm2nkmbddqyvi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7141",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhyqcwaavlqkry33a2y3ls4eeaojqkkfcrqhdptcmetebqz3f7em",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7189",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

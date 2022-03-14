@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibc6sv6prwk5fkyghgevnzf4ekppos3s43qj5ep3nm4oiiau64jqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7192",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

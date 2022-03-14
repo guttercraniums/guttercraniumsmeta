@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigq2pqrp33olv2ixvqvg6svviwkmsgm3syqfanflfjuhesvbungzq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7117",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

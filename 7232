@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiatjmptzhfgr5u6jadb32hxy7kriamtdgi4zruy33w6mfytosdhyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7232",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

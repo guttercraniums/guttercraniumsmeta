@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7vwhd3iojrkb4kt6g22brgfcldatuzipw77dmfdavin3ts7a7we",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7238",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

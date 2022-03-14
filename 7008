@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifo7amihhxzyoarhuoh3d5lxwbqtq777eyk2pr2ma7mnk5ica5a5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7008",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzlptn6e3lwoqw3slu6rwnyiph3pr2pid2g7sx5ujw6rf3ds6jdi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6998",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

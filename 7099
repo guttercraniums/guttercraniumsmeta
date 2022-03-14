@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafwu3a52hcnlkafw7fvnpr4fgkpomeatnbwabw3cjynv6hvwf7wy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7099",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6ajwhzjq7nyarm7ams5wucee5h3buflg5vfjbcbndwrzt7lt7my",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6979",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4jerkxjukywm6dnk73qdba4eyp7zw3h5i5beqshmseclmwzl5fu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7240",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

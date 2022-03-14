@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdxuhywdtznjf7ayx4rqj3y3ipg2ca6hrimiv2h26abp2t5qfcse",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7088",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

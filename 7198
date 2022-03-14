@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigr72wqtrzx4jty34x3iaqmhzhqc6w6cf45bkdfr7bp2ydrn2fi44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7198",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

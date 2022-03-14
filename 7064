@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia62ajkw6q26ulowp2f2smclsyxn2wpekmwyi5cpiszljorcth5v4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7064",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

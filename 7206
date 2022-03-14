@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaifrdwyb4m5dvdk4omhbe2nv3j7vxvh6jplcxkel3aemuariymdq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7206",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5ow5lrvdxauokduq4zarjrezrgbgyewjngt3qsnb6johy4f52zy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7027",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

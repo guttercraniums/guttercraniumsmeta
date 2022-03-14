@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihtidncdty7klcloff6v5f5mvyciwnp2v5u6cbuinl5zpo6qsuk4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7251",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

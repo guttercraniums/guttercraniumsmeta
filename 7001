@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeictq5kfavd2xjzcxsjfcrhzxvjs54yam7s3gigkyyjpllzchcy6ti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7001",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiagguxgliag22e256gboyqdhcyobxtdvlwvpdtiizctmscwtmlbhy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7069",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

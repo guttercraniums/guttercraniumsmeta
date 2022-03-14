@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtquu6xwchhpc7jjf7fei67wjnf5qvrf3yyoyhpa373frt2oash4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7084",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

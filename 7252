@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiahctfqh4aapap66dfzlbwew3pvtp64munsg4gtmo3coivl6zz7oi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7252",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

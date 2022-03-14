@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihji4lmq3khvptkn57xokwzhb6x3zelrp24p7madxl6n4o7if5kdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7082",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

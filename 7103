@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjqncdxh7oxbz3uldrkynzqkjyafheg4epqm77t5kxhldsntebgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7103",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

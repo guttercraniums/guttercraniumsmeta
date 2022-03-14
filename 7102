@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidogoh43suxgycjt5ifrpmtfyg6vkicl2g67uts5ime36czodhoki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7102",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

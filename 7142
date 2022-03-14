@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqzhnegp3so4llaegoybzwd4z2nzsbam446swhehwlmpir35jlji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7142",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

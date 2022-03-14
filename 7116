@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibyc6xvxpzovx2qsyqwrrxmstlrnwforjf2pzgfrsvf7hmqz2xady",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

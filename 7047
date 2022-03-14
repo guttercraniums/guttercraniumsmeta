@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxciigahadbbe4tdyyhcw4zfsoyybookvvmb4g7zud7gunireq3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7047",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

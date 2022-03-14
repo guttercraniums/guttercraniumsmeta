@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibcn6mjqezqip3ad6gau32vixtss6gxiojzfxrc65heuurnj354rq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7133",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

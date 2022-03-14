@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiav5sg7hgpiaymd3wwqa47i67g524lhlplw5xlxksscvv42v7kmca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7139",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

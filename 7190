@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefr6qk4etomsx2xqzrnq77t6pk5uotsu2o2a225wmobx3ag5ljky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7190",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

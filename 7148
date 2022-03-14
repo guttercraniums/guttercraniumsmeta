@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyqgf2k5kjxeszblrf3t4ypb7iy2uzafo6jqliebo3x2asve4wgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7148",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

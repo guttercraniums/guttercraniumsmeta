@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqbimvearhkok6nmpqnfgrun5w4anm2xl6fzsnzlfbiuv6u6nnua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7062",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

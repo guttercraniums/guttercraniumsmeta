@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5jdhl2hubzudqn27q5osw6rtz53w6is3p542kcpnmlsu6dwteha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7104",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

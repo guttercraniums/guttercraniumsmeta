@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhf66b5kodu3jobjzahkmaixc6gtekmhplatxb5dbrgk2bayqpqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7002",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

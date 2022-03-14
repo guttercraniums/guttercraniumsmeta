@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidc2jobg6ibuz5op6yspzvjcwnk5kfvz7p5yisyqircvhqwau3w3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7214",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

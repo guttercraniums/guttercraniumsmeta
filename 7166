@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidokfmj6de4wva5salmdarbxjwtyz24zojnsvi34q5ana2pbcrtlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7166",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

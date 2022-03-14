@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifp2ga3kuiavrhb4wnjc3ckv63be25yxacbcy7l42wlg5zvmg2ziq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6981",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

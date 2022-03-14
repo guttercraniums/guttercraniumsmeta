@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidc6uhipjcpb3c4f6ljpa2xqw4iorwgs33zrhrcpgugdgs7ddpzfy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7050",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

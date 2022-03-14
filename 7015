@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzga37jgwwvxffmlpth5vupebma4qz64a4jrztt7mxyv4vyqg6ae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7015",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

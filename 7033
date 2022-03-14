@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigoxvlauanssxuecyqzr7cacv5bvlesgbpeqyedpuu6jbyvlithfy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7033",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

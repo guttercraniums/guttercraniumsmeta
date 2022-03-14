@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeian4zq2fkwk3svsqx2kg57n4nnqvlra5xosslirmh33wfzucctfxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7188",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

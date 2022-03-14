@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecfm4sgxbgvzzjvpppkjiyzy65ax4ljfuxk5jact77iwusuuowlq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7079",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

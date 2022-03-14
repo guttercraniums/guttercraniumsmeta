@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvrs5k2fpzp3t7p6tzokgmj3bc7mzbniryojyqzjp6ktb7z4j3vi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7219",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

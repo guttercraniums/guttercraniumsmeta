@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6z473t3tumlhc47fgic6aupukskwvreyidoyqewmswuglpfwszm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7085",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

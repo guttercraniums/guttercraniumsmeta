@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicpfnr4e7m6xgmh6g3rd5egkq3qdrljcfkn3733oxbu2a7fbahdui",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7160",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

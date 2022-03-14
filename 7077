@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqzeatowhpp2xc2cohj5afcehfcwwdv63imkocn6xl34nyhokuma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7077",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

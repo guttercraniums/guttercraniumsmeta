@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaffmwhq7tavghsemyakwd7pk7ylh72epzdyldx5c66vypttduy7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7184",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

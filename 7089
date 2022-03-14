@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnilwlctagowc4on2gh6tdeu4pjxf5jax7hbwav5th6thn4wjnjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7089",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

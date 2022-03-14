@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidyio7mv52pspemcijgagh2qnrehgv6fweuaudlfwviz6kp5n5omy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7136",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

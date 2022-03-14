@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2xilr3abtcieqtq3ramiucelcfbbgtff4hewlbyss5rrh7gwgdu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7175",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

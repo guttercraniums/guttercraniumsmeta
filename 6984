@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid6sol7hvutfgauoc2tahm7kd2er53lpiynlgwspm4f2spsf2r3sq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

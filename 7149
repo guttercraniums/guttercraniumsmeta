@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifawdwbbpm4pubzz7wgiexljeak434syqjhbedd5menjqyjk3funa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7149",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

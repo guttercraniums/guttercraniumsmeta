@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigi2oga5ilqvl4wwtejfoq3o4qysdakdqctomynmeby4lee4j5qa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7011",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

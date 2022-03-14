@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwqt325af5h2vws5nk4s7yi2z3d3olyepawtlxze4voramhe5jza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7177",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

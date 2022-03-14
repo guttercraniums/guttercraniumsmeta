@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihu4in6towp5sotrkphtojlirgbmej2sdfmuoj25yhjwxcbm6amfe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7094",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

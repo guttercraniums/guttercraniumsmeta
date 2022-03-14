@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie667kspsi6pkw6lgblnrm27zmkkopxyjqodp5jielyjs4guz6d7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7205",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdvl7ngbncyavst3gkvaff4e5ewdvymh5ba56qup74samlfsax5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7162",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

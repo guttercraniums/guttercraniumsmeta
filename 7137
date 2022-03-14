@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4svxhbv2blogvtylplbescs36evh2saxfpbhbjycsswfhpd25ra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7137",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiehounibbez6jo3eccwxd4ksgfpfkjua3an62sxjaxcaw5nnfep4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6999",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

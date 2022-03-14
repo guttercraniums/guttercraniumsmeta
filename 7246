@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihmstqjwvnfvc2jkafjfvv6xmhb3efw6uwwkdqym5rbhczgopaydy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7246",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

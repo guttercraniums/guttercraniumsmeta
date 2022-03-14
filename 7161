@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibnnilboy4vhrqkgazkfra5smwjmgv24fr6mf6k7qw2pnae7a7xyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7161",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
