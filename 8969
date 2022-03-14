@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapxvr3wmhro7qzu3wzscx5dnoh6xgpdek5mcypp2l2ypsl5iluqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8969",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

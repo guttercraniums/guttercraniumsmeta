@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihb5llgu7dxaflio3tanautjfm2ss36zwucos7gdutjgf5g7wpulq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8962",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

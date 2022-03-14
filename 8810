@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidh3oo4o6e326vmwcsiwrfgfep57ms5id2nubrf7mpsb6bahiokzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8810",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

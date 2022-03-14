@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifna6jbd3loo2qot34s5y6naxylrkauhi7j6xnra4x64flh5scys4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8974",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

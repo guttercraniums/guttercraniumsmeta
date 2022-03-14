@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4uw6zh3tgd6p4i3qxlbcarqwe6ib4tz2z34r2yldjsxhwpwjise",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9118",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

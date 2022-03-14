@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifirnpmhqpbfv4siyut3erhdqvaru4k3f2iwgs6rio56wsj4b3kc4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8931",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

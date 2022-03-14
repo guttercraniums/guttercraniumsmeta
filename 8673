@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibvhwvbcecfc7j5katlezyvq4c5ukkch6oy2tihhiyl6pwjq3e4ji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8673",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

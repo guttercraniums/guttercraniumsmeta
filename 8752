@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigx66rh3j7icj7awpybfunjr2nst3xpafuqwsbrxa3xce6xdhnsyy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8752",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

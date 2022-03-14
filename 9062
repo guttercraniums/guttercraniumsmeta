@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxryk7gzh6qzfhb3gnqoy7b7f53t5z4usbnuv2t62enjajccwolu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9062",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

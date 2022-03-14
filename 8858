@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiene5n3y4ax2iedzzihobw5w2ehtzcmvgics4avbonbafw27eidtq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8858",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

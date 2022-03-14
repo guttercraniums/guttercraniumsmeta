@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibgig4z3xqiidwqwerpcqawery3rd4wvsgkiuso7baif5qhj4qa3i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9114",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

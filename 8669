@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid72dngyp4fto4ngig7olgbzmf6dn7vuf5ajlnhr2wrozhh2lllaq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8669",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

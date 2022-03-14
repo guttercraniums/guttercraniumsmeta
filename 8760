@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxdkg6zrmh6pydsexvhrdqwy57napk4f7sj4bdadheb43t3fhqga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8760",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

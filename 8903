@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeighd366xqh4bypkgdnjmrqr2jij3j4hnlhdnr5happfylrj7a7o4a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8903",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

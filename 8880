@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6kke3a23vnrzonb4h3i2odba7iselwpvu3bb2tibnhxjqeqm6ai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8880",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

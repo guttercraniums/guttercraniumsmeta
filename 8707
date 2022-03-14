@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafxe5ysgcaqdda6msosh4fnrecy5cg63eq3su43b3nwy2cpnpdtq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8707",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

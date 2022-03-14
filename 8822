@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieklstb7aid5bq3gexykoehu3cok536nhbdzi2rib5uht7einvmgi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8822",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

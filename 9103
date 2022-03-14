@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgihvswmup6z3mv6gdowpu5kwdg6slvnbsv4yq5nalbvk5tlw7xy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9103",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflppu3eexow6gkjqh3ywly27k2yjueyoseylqfrsn3kvr76pafsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8912",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

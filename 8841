@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiejluesnvdfnhvjhvvqzh5s3tdjwz4csbfle4z6dgx3lrbudtzjsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8841",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

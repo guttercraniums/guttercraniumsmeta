@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieolxz6enpwlxfcdxvw3eaj6ftilxkwgetrsrjua3yybxc3bmgic4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9099",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

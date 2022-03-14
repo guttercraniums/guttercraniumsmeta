@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkpsa7xg7evxxzkywyzszo7icacuhmsp4xpofdp2neluwed3dbjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9050",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

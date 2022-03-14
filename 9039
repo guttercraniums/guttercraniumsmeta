@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeightuimqfcxe7pv3p54acmfk6zibxe6kpekicf55tr4ppzsmvgltm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9039",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvvsobc3qh37i5yypwzlfjys2hd6knqqs7c4ao4hlaj2jzdfegvq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8749",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

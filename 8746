@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiauo23xp47iey3djcryl2eltn2vakb24ibzzfrnbqchtkaqvnhgqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8746",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

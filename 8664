@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiftta7ebrnhry2y46atlvmc3spoymuyv2i7njnetqvyulg4v7duza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8664",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

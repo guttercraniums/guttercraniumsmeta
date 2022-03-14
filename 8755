@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigk375feas5lfz27sx3cv7hoov4dtlusiovh2v57b5wg7jjiyn7fy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8755",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

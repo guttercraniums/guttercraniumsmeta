@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifqxlpzy4uvpjhi3l6xya2wlr3u44lz4q2m2rscfejqfijdnoyjsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8660",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

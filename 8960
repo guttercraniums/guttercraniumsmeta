@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaa5qgtnzbro65olzimmcm363uffaepqm6gwxffu3f7bddht7e6ua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8960",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

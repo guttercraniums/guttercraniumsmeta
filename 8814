@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia25qidadbsjz3ja65vojay4scsxxj67ebq7saccp2kko3qtckw5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8814",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

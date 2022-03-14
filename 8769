@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibw2lh46liaup64hypou5nmvdcls73gpyn3poozujcczsc73lrvxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8769",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

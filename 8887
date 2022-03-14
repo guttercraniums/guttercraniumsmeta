@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4m7mpqse42b42ivar264lbk67bng6224qdfkqtdfpxypc27bvde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8887",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

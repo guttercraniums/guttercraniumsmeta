@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrpi7piebe4nsgsuj46gwkpqafwm3lslisjr5llso6f5t7hhupoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9022",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Paragon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

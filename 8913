@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4nrvt75l7gci6y3gkkxnny6wrt3bsexpry2763pgagkxiu7zzf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8913",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

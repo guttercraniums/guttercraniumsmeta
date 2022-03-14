@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieazehal6mj74xfkxzadujvhhdidvppw6uml3kj6d3sgd5welhixe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9083",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

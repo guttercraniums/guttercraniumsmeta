@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2gfx6p3ow6mfoh4wbwf2r3owge45jwcftcvfocqyvsk4lwh6wza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8907",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

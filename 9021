@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicm2g4syko7lqinnxqb4jsxquseeu2mdtcbfygazyugcvyxaoxwdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9021",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

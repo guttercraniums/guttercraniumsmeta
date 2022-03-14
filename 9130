@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifone6xyp6jy6irkkypoa3z6kmbvzbl7zyzymvos32sjbvpect2ku",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

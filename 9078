@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpb2pgfiemklxzzdg4bzm5ogexr24tmpaicbo3fzg2fjlmxmo7ye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9078",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

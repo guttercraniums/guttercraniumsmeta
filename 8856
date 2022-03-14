@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6qdwrp66s7zu6vwze64sos2mllffl7g7wmltrswxzdxv4v5sesy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8856",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

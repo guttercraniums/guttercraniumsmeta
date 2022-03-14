@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidiwmbqpoyi6ntub6uyjb3pncr4yzgee2gsjujmexalk7nuzrpfc4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8867",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

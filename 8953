@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif5eidyfnun3nhrzkgllikyj5ksyvbvavzckayd2smpjqqhzgqt24",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8953",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

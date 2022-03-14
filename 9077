@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieopou5t7lpl66uk6xwuzj44hvfykukeqzw5xqpxqq5ltujw2rwjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9077",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

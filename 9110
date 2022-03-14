@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic64ifcbtjls4bbfyfmphnkf54yucwrhp3qhsfes5htielnh4diba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9110",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

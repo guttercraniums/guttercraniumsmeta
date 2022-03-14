@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjupo437eejdewoymdwyn4qynoari2wmul36fggyiyuqrch67mj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8800",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

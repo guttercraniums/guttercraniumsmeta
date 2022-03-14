@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihm5h53ctmswylzgcdyhlnurf7qliigigtef74h5el6p6pato2pcm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8733",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

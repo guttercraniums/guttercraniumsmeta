@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebwezzmf4qtfkdjcbu2fui4qihzixskbvymo6cs5gpujomo3t45y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9121",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

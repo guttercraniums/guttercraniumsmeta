@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihd7ziqsevmkxdk2o7pl64vkol6ddaolvi3kfqv4st3u43kfu3bha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9033",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

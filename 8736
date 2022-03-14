@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibgf7fpwu5ls45ggzqupagthvoxdt4xki6b6hnk55ip3e5vh62cxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8736",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

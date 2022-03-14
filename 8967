@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2daha3btdqnzucilsizx4xq4fbat7encb3j7pxgky67fv4ng6me",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8967",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

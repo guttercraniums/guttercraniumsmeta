@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmqxpeo5wxvl4tkzvioxje6v5yjncbtcx6vnmuqwosqmxnqkz3ty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9009",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

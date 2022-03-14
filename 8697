@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiask72uydgc6pdpq3t6yzmzu6ooxn5y6d3uxasa5eith5trq7jmnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8697",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

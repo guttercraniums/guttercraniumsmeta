@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifhu6tvsvco6vbwziitvxmqozv2lme3ja27e4tzqi6hnmfcczg7iq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8790",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

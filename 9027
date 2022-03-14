@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkxvgmbdp5qk6nxscv4zvpr6punmng7a6vpwxejqu5ba3tlcetpa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9027",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

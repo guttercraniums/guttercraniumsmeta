@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigdig6b7czf4vn4ksc7hsn5ejvdpjebatusmc4u3qdowo45qdbegu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8908",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

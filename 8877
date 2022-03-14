@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxepqhpyfigxpchqmkx3isbjo3wmog7jbbza2n7h2ca3njo2ndqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8877",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

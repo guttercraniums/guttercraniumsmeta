@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3k5zsebbl6bmqjffffynvano7f6tyvpr3tgx6ftyxf4yiq2kkhq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8981",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

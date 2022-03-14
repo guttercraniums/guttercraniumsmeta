@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiacnxqzu4br74rxuqcqh4qhijpq3rho42i7xgtgyjyr2fd7mjv67m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9087",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

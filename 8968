@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4glzvf726authqskjoqswtj5n26pub2ubbo4d3v3m7fjj3njcom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8968",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

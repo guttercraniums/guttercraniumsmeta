@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicioov37rulhxgaoq5uzttyjtlxsrqgyzmi4dk6x2qbggopjqcfoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9111",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidl5kfrz3c3ws7qeikq2bkvxhhn54wz46vfhpzthzsrterd32h2am",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9029",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

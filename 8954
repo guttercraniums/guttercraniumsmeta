@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiggfd4mpgcmal3vpze5mlp6jq5n74dlof6l6brwo2i47voljea3li",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8954",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

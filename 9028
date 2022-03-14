@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcbc4dzwtbquufawvaf7k43nxh7fca5ywd6cfejoxr3gcgjbnpdm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9028",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddfkmiilzvhbmdsyg2nhfjm6vxj6tbuy2eywvzv5hzz3eq6r4xhy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8674",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

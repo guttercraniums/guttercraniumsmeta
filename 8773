@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2aufibmdej7js5fv2pro4ne2xbwzwrgjetaorx5eviwp3z3vg5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8773",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

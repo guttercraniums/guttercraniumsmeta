@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad5t46treliwgd7qei7cq6irawoyn225clvr7jidhq3nwqfd3zk4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8666",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

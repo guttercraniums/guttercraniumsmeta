@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiagd5ydb57kznusw333h7f2fh6x3rlpvgiztjgh54crmr5a2hmsra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9093",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

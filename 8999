@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidx4qgkulkp5fn3p6slhf3fpgowghichzm6ake6behrp6ixnerzoi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8999",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

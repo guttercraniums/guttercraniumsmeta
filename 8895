@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4jz5vuzyhtgd6stf5jp52ewcowqx77ggquycymwg2e3jyfe67wi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8895",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

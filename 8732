@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicm5i6vf5tnfmaaahquqqby65janac77ejbiepnmgmfkvwypvpbeq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8732",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

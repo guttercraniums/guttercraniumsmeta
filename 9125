@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdwjfujqot5w4fak24l72mogs5zn53bc67dlttiuafn7bil32yzi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9125",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

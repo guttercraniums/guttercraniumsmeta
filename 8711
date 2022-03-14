@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqagtsovt4k7tczo63zkbpfqfoxsltpcuurhfeaj6dpdvymznfnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8711",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

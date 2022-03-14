@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiacgyocgl4yazz6ahdhghzrnygmdveaswdpbakrem6w6ap3t2ytny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9091",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

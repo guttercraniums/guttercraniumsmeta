@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihu54ugwmkp6bsav62szjfs5c5ru2c5hlyzyvtvwzlj2yrqdgh5pi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8776",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

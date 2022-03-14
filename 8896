@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiem6refbgeaz4wf5tpnfak7sb5elirofpp4z56q26pupjtr5hebdu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8896",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiawgnfnfivnwmucq3y7qfnhg6qli7gri3lmiui5uiw5fm77wfzb2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8820",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

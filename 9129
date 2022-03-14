@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig5yjtg6x6ypzmtrnafrabla2zhnekk56btceqadvlu2wmgjhfkly",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9129",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

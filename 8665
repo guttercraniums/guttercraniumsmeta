@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebbxzdtqiecldgsctaqy4jc7gxql3ndp4t7zm4uymbciy3fat4nq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8665",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihamtyo2cbtumh3l52x4rwepdr243dsiwqxk3g3k4afhkhsdogzji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8770",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

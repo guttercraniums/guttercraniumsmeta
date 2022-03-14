@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpl4kybjx6p7sad7ybtqg2bm2y22how4m7cygy3kuus35rxnulya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8744",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7lvg55f4fx5uxsmih4cyeufc467rcpifbmfptjgoizh67iqhuui",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8839",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

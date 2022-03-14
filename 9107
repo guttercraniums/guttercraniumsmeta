@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaouwz7dt4mx2deyg6yoxnqwykzz4acbf56p5b32wntl7g5vstqwa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9107",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

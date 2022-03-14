@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihssf4r6mgvrcm4lyrgzno6sjcls3fa56vpz2uzeblyuwoztrtcda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8996",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

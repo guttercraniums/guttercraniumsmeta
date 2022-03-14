@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieuvgy7irkf3aci7g2bjubsoobwj7pdr2riphhbad77jnc2v235iy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8929",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

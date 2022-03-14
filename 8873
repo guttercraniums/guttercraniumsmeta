@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeial3a6ibscizfg5ksjhcccmjnbg6hfajfkf5eyhdosp2eklrcrcjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8873",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

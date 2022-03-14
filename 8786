@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvuzni6cy2ouioje35lagecaa4v3t2vvyw76g56qvervvbrpoaha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8786",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

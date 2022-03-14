@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiea6liej5k5kt37dhv3bun4a5mqhs2y6ouv4aalvqqmkc3b3fpbxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9126",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwrlnwncy2k7wfw2ghakudpdvnl6656cag3jdz57l2qywgr57u5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8704",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

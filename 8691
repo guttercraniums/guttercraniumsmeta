@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecbfl7x4rsdz275rvtghyilix534nrwr464vdxbpsc53akpx6mxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8691",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

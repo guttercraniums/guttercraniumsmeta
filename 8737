@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiepypp5xrkgwel7hhlpf24rm6i4sdzcnlyo22w6x3xomijlfg7y74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8737",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

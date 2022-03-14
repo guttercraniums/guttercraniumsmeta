@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7iy64adr3bub56zilijhtycimlbt4ey6blraegyeqytuysjknny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8798",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

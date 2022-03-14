@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiftyaxqot4rdf65xvpssf4zbrn75om5oncl4ohtq7pdpf2hyr4b7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

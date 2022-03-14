@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrxtu52i64ckxlganpmkeua6dhjiweqbrzwag5pe3bwtzgoi5x6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8812",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

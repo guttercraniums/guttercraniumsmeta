@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2fgphqv4whwoe5wmr6tqcm4ba6rje5rrspagoyy4g7txbnf7ldi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8796",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

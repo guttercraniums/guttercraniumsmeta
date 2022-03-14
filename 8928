@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkvo3xn34b47qw6dvmwku57qnysl4to6mpjzllljb7vqo6u5xfye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8928",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

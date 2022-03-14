@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibrl7lhstaaemhpzkdbzpqofolynxck6ckohwrtuwgu7yf3otxoay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8942",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

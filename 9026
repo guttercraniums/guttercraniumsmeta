@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifi7afubg4vsyqyftjvza6az3wiy6j4z4hrmh2uu4kd74dfn5sy3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9026",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

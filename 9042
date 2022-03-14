@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig4zcy4l6xabu2zzztac5vyhzbu5stnhu5l5rkzpf4ba6a4lkdwoq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9042",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

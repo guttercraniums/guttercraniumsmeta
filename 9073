@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigst63epb7btph7aujet3g6sa5l4v7dlxvtqlznpmlc3bm2kksdmy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9073",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

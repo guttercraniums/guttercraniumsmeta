@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeief4jirhjclt64pdtdb2dwqhil5qjbud3apdnhv4zy4ooaxual5fq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8816",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

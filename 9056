@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihz4vpkgkjlrqcnxgyfsm6iotiu3xyucil5xfp7gn7ir4ue6xhw54",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9056",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

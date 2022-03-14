@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3dogdr5cvm6tc3fbblnwllnxjum36vusssizjragpc2x4zng7hi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9128",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie77kbqy3qkq6hzpfoxkoo2pafqyuxtjf7ati3qt7onca236j4dfm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8750",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeictgowf4yd7oo3jubl2tf26gs32scoqd65oncljdbcx3kvmrty7vm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8949",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

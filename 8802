@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiepr3xkc5u5v4e6noksbyyccrxfr6hjq6y7kdxwuieawdjm34rfxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8802",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicchdowosvrfpfyktbo6axfhippq3mvress7isyougidh6263rj34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9048",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

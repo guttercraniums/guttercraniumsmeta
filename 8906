@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiakrd56f73nt4l2crxiuyytrxk74adhhb7qjb53oxepd36jmdm7gq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8906",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigvddiazby4mmlkdtzvhjxkog63cim7b25kbqolavrrfcrl54xtky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9053",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

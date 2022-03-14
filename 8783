@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidlgbc6whmdzlpwbzvqi54wsjlh5qs34tx4saczs73cyrmz4loxfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8783",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

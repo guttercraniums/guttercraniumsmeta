@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflercx5zvqvbty4qeqotlpopc736ztq2ymggjpg6qsfj3uamftja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9046",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

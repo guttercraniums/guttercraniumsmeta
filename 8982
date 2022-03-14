@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidld3nfju5c4bv4nldgizbxxpuolakry2r47anou5rwojckjun5ri",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

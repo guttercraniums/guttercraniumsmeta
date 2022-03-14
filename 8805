@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7snb4k3wdupsdounh5vqktywcqlk25jlz7jvm7wzwyddwptirda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8805",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

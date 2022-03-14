@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicr3gxvmqm6cbpfzna77vtfwi64ii5qcb5icfydfbwic6vp5ovi5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8970",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

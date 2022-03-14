@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigrn5moix6n32m5yfbkr66jkbzqushmsqryvlvzipc5jyaikw2vke",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8742",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

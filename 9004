@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjodso5p5ocfwekej2t4sece2dhkkct2fgwzit7bjnait7cj6i5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9004",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

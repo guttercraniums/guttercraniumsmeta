@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccl4fkm45bn74zys2go2pk7prpik3imff6waoyji5ebam5ef4e7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9075",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwxpa2f6waxzpazvcluof225nkcreeclan5zvlltnza3xsxikynu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8768",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvzrzj5cuolnjfuyzddinytynaxp4diatj7yi32eb7o7r6gnyxgi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8920",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

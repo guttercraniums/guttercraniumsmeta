@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6tpkicailezlaahixwqh55gohgekqa4jgvdeh64g5sj6yibpqwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8884",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

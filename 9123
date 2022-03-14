@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiczs5r7phhw3w3pcrxfror2ort5z23st3poy7mpo3q45n3euyn6su",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9123",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

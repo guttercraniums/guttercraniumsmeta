@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmkid4zglknol4cy4zz2hugorcczynpw3sqkkcow2qnkxawsqpvq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9031",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
