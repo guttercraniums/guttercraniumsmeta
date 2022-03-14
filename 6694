@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdc3pzfov5n4co74hvkr5jrjjmtclzckbm5ylmsj3q3zgw3jer6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6694",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

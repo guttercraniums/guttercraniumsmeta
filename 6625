@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpm7bpa4eejiazens72k54a645ab3sa7lvpc6hirasiygjdzu3da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6625",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

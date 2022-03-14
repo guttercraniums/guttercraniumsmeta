@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnzukcq6qzkkho4uaaufowpqdvg23mpfjczqi2k25lwgxaqtcz54",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6533",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

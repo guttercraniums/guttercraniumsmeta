@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaddwpexdqi2tx7dr7l2xzdvjh7tm4ony2pppvjbxtjem4jpu6j3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6629",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

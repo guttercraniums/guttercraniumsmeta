@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibq6uo6q3pdp7r2lfcjy6jz5gksnoajgndx23moww27inrcriosk4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6543",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

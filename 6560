@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezcz73xc6sek3ihizp4vyf3s27ukga2rzwxhuxsmmtha2kbteuju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6560",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

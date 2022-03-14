@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianivbyshfvkhb7kavu6ojn7p3uey2z55zhjycffbhaeu52slfmxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6692",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

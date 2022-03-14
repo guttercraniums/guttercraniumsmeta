@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia53cdvocx4rmoxp26ediae4m42ewngrdm7ewzsxsm2k6mzxtcwn4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6525",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

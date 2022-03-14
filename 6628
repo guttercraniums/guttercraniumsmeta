@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbyqn3r2zvo6aevprm2ujvovyh4l42vkhvmfdrnkbyu3nd2thbri",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6628",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

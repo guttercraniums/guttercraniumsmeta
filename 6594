@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiet4tik5wbt2lxu4svaus4jtpugromu6a2j5zjcrhw43ld224fbda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6594",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

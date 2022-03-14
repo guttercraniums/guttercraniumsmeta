@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaoqef5xg5gbo7y6ggyrxtrkbq5zrbobvaalh4bww4p3jqfv33yim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6643",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigppdxa5eorbw7c3vu4bfyv2anbi54happtlttv4vtzrsep4kysz4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6527",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

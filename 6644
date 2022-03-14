@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiciamij5ersnbcndjnbo6uonym4zpbfwoy3ldtldvn6ytl6s3f3ea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6644",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

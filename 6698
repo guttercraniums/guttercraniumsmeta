@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3za4gl5vaa2fghbq54dytvxjykonfu2exzk53s2u4pvu4nhrxti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6698",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

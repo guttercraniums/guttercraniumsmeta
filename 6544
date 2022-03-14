@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaem4yvr426lihbw6naxtduyk5up5ymix7y4ysdr4b7ekshnv56xu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6544",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigemlwjafritp5lo35yl4mnxy2v5ghk4mpg3fo4g557l4mdujzvgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6583",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

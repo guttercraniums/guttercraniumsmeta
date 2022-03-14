@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid2w7khs7pqg43sh7dgwtfwtm3gebptijbgnxthgsh4p4ok64otxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6657",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

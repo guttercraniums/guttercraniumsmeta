@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibx3uhhakop32tpievagm7yfs3h2tlbqwmlsegiri75rb7npkti7q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6641",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

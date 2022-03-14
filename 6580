@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifcng33qilaooitsmwcszs4d54xu5c4rewvs4ea7kelxmqyziojwi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6580",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

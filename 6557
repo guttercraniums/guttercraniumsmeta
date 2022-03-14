@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2dypnmm5gaxlvpaaqiau3k6jrrpjhmbg5pv3iti7vmd3hmxj3nu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6557",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

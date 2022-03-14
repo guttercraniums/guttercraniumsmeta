@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxcfzla2pvz65h6tikyvxyblioffmcdtlt4wj5cy5yozaotce7gq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6562",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

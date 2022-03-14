@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiclq5ljzs5x5lvi66f6ilppwgbuhuv5tomx2t4kvjfh27x2tjtgfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6696",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

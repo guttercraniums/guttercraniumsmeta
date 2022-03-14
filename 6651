@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7ep5zy3pru5o3mpm6twefbs2eyl6h2wcj4p7skizb5xzi236sa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6651",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

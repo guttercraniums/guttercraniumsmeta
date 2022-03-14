@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibokgv7yijudelsdacf42ebesiusi7reu3nvlozip4d7y76f3xzya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6578",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

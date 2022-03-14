@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx2gjbh7bf7h6nlclqpcin6za4yft7geaqkcqxgq7eofimzr7a34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6571",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

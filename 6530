@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifyf5jelta4upngxbkrvtcx6ldfn5oyqik3p6loomamxfjpzx3ct4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6530",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

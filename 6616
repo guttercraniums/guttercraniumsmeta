@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjdnlumfa5nu2px5ju5z6233ofbbcvr3zb4ejkvlr7wvxl3c7tbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6616",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

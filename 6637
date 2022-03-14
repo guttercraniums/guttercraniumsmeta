@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmrrm5e6r34s7sakg3u73nal7ncqbzra6wa3dwg3yh5hwyd22xpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6637",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

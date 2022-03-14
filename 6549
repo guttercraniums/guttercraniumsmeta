@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid34kbl6mygwnxsgjyu64gtx4dddjwrfcvorhysdycj2j6ccoudua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6549",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

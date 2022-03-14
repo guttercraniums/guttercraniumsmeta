@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbeb5pv5iltxv4r72b5pklbhjn2zevm52arnzegr7ki3s4r5jntm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6613",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

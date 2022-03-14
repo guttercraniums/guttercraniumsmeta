@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif5pqn7a5dp2gdiyb4dsuj2ggzmaxwbns5ztbnehpvtcfwkgzz42e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6697",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

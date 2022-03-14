@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignskvu2rhjnzzja6uvmfnzkgpck4jpkr52cstolpbtow6epj6a7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6542",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

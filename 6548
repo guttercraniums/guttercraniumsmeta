@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiftgjsrjgm4ruvlgrumypglkmd7cgikf3nl3bzuqf524pteptia2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6548",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

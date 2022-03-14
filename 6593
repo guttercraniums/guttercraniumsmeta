@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianhbamrtxd3722j4qsqqqywjs4l5pvlay4wy27gbxlwxyzp34nva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6593",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

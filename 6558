@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiduzdzbdpjh5d3dun5s3n73x6jhdttkl6ppemfm35mhr4orpa2j2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6558",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

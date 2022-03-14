@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2adwuyorj6vohza4jzyxmbcuw3tdtncjg2y5sduazihvmdwycbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6693",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

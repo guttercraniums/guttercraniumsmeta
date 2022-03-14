@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibfw5ck4hyp44kkqarrpkro4agfjwovcb6ph62r4uak6nig4v4hpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6654",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

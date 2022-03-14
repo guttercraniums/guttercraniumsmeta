@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6bickvpfmczbonl4fzrjxa5r2subir7qg752yin57to2jjh4jje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6604",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

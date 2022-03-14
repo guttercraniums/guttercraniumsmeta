@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibnndwelteoeomfpjfks4kagg64xof43aelijfyogrb3oul6oe2va",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6636",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

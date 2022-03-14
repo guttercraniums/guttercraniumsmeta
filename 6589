@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4jlqkyksud2qeq7lw3aeknjjcntcglcnelk3jssmlcheum7iiom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6589",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

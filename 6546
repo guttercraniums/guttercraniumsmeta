@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicwylqr36w54mj7lsnokymzkzjpegdtgltdh6s52q6ssj6yslgs4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6546",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

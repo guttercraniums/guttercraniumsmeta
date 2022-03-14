@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifqv6rdmcqbnuy52dw752avhmvzkrh3unvh4nvbguhj2i5kj3c2ty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6660",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

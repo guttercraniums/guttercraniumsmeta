@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiespw5tbpfbaq23amcqso5ogowgkdublkvuh7pnm2eup4sauwqxqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6634",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

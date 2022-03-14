@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyem6fexlceqkpmj2ohcfqhjhu4pzvju3dowa4kewzlwbi4bwabm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6635",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

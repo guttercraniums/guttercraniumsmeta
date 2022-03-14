@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeice2p4a3j7bny2yne7xqqbxyaxfi2kjkiqfoavj4dugj6kw2mckiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6529",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

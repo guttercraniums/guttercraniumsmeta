@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadga7cvovrzwx5sgxvduqxf3axevu72ad73rehnb3z32y5x3klhq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6684",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
