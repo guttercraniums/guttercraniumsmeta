@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibuafaqbd33fp4qqi2odmw6oezwvxb5px3ueepyyd6cbq2xisutfe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6147",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

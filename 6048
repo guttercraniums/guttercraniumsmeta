@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigutplll5oi6mocsp3iy6wietq3bioszpdbuiskxospbftahmm5qm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6048",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

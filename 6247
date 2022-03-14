@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3ueq6efui523rzyfifurrzd2a3f7avf4yf3rqkdgl5obvgkbapq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6247",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

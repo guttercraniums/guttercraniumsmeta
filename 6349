@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6ycs42hf6wmfjdg2yjewogrnxcb2tfku3s5dccagjpwex5pdyoe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6349",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

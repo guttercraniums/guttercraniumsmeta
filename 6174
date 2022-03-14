@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqdpp5vrkcqukr5jwgv47lx7g47anplxcnw3u2wl3grbqyamhfni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6174",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

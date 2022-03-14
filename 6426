@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiexfarklt5towzyxnh366zrryl63txfhicgiwbqrewwkbrr4em5mu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6426",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

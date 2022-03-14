@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihe6u6ooqxx63xyaxycduyaamsk4bsgfztfzyw3n4p24bud2vc6zi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6065",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyb4q6muutrgtyylzjatnxgnrh5l7nrs4eurlwt4r4hhohni6rge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6318",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

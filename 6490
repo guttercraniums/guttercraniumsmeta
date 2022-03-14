@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihsrquunsmsrsl3wvqit4ok4bvpt7b5wzuh2fr2n5gg24pzcoezii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6490",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

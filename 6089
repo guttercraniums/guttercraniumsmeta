@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadcvrx5cvo5lowyua2v3fpdeoc2rw3ftdgr4lcahe5sqlqvgmshq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6089",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

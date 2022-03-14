@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3uqg4eykrxxzrxob5zrl5l4gmyzvpvr5tiwm2n2tlsuuex4b5de",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6221",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

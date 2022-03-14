@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbe4psubik3pa7q6tf6y2v36th3pq4c33l7zhwb2gmgkazwxb4im",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6200",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

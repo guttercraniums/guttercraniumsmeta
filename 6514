@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajutgldlzfwsb5lftrhw3tqliecjhexx4thwjkadkuyvmglleqcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6514",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

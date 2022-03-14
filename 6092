@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeificai4pt2d4d4bwkfyu4pfcpdj5vzsfszxdgwmab6c2jdzar37eq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6092",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

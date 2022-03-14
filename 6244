@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiat443lyo6ty6ld53q5x6tvfdmy2vokfz32s545wtxspd62kab4zm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6244",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

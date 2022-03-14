@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbdntifgzbs2ppo25gbhtnsw3gsuws4cpqsfngk2kblghicscexi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6432",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

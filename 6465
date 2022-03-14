@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidbrembnaphz57vsu4voxkbrey4rffwkkscbrg3vm3q6olgafbt4q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6465",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

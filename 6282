@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfejl2ji4rjpdiuwcvo6ls4wjklkxoyns2j76wt35wgglf2atzpa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6282",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsue3bvxrrrbeagyn4hxvurg2ceq5e6ns2px2ngimt5d45ajgllq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6307",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

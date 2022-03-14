@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifuhdi3fy3tn6rj4ebgnytbjbcjwwjztafvwovbintd6nhi7sl7za",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6366",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

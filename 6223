@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibudwxdr5trftwlajpnl76il3amfz4qvbsdouc2ffibyijhhfbhla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6223",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

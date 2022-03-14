@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiasfimbxzipyt2iunbyetgf6l76imoicw7pv6xww5agklcvbhyft4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

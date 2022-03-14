@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaevq7hoxxk3elvj4g27wusydnaa6idnmwo2jrlcolancitjvhe6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6399",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

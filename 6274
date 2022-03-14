@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxborjz6r4bubbrd2akvbua7xzqwqcumsoiz3iwgztr5ktxp6wp4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6274",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

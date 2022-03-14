@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeielns2w3rnz6a5ro3urn7nn4npef3pq3khvdwdprzgievi74f7ihi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6497",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

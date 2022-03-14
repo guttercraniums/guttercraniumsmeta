@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfs44wnt63vfsxuv2cbg5b6qf4wusdb6ypn2wy73gjgzvmhdvx6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6451",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

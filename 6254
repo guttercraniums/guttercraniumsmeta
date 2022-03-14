@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicpup64voxnxjwcbec36knakvvykwm73srfvhqu7bgl25pilfck7m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6254",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

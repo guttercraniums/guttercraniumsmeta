@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiamxogbjycqb26tjyquzk62o7qouz5xvbsdsojjkq4f4egkf2x7qy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6504",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

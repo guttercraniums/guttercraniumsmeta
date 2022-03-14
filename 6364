@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig34277is532d6zxnvb2yejrrn6osfjn6t4sz6kree4clgqyncvja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6364",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

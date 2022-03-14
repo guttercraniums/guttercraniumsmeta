@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeige5fjtfav4rdmlxnusefqenpozk64xxhasqhdul52lde4cnwh5fa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6107",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

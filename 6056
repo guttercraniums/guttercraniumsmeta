@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiceubj73ji7oq5mut73vvxn7q5xhlnbdwo5sffstp5yor4ehdckem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6056",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

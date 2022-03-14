@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdxe26jwowelfmqhylb5w7otwogt5wyujarhgegrhfcyum5u37vq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6503",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

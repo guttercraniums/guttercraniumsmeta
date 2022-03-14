@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie7rjkosaci4kduwxvqqu5uxk363kedr5dy65jdiiszo2y5bppure",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6206",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

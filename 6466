@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihapul7kn62kbmvcvinci5kxowa4c5sc3x6lliecejorb5z4jlcoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6466",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

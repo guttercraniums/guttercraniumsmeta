@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaidosalsiuutek46a5vf44knrtbrw3hilial2nmekaipfsp32sfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6139",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

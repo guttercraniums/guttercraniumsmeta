@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqyio7tgsldiof7un3vhwodsnwr67izlqvia6e2td3kzaojzy4z4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6127",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

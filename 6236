@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidmhpmbpxi52d6zmqnhjkmletdzrpahl3fftko6afwuinkenvdzva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6236",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

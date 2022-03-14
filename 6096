@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbktodf6pa5rblgxb6y2n6hs32f55nzk66j7tvv4fvlvo73fldie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6096",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

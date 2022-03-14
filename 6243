@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwwc7lfnfqj4xl3pf5shnx5jgf7t4vzhrakjxy4kxl6c6wlm5smi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6243",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

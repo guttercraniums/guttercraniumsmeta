@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicyno46a3enskd6tdemn7gwgm22bqihvisksljyo5flqv5s5zp6au",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6117",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

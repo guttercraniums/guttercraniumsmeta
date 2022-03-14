@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifunkf33z4oe5ahdijkxm2pbn7e76d6tslh5xzcdwigwwsqqoteua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6316",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

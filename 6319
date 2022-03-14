@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiahziefeumcrgmyn2itct2ypvqv7pctdz42mcgc3efecz3jlueyea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6319",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

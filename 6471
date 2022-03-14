@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigt6umvtkuweltk2n44gck6ufd5w6dbgwohhkquvlurys6eyqjmja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6471",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

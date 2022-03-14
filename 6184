@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifakisbowvpies6lev4goyzz2sxputvbeozvshsxa66vp63eju7xa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6184",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

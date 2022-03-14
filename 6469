@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaim3zg4a2gtr4ghxad2wjveo7j3ovx2gq5gdhef4k4eczihyvcgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6469",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

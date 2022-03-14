@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibqjppwyrwt2sezbgwnqnytfw4f3ugqzr4jrrsdnyu66bqrb5xhye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6030",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

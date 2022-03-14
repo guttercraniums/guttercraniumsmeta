@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicai6srb3ycypgwstz3wvtu3zeiu2igbwvcn2fqpwc4ydgtwv5tyi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6334",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

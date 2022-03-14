@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieco3cheu654zkocqm2s5yrmi26425suuyiazpj2mc4woosnvtyqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6395",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

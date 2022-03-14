@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaq52t65hzf6bjvvpwxebjq2ex57mj4v6d2grut2jxsosg4ocar5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6284",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

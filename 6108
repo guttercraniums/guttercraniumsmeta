@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6bcojlxal4pmzhmphtg5typgsef6uqqtr7xgst4gujgfcvtkr2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6108",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

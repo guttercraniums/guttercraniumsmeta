@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihyxs2cabz2y3jlbveozfcecit2yeeea6mh425e4kgnnotq7pppzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6181",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

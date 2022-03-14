@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieav4s3zliz445j7micgbarzn77y6edwk4kbhle345epvoudbpwai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6461",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

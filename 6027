@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidccbsahcyd3zabjutzgmqz6jnorsvtgjyt5sqea47m7g4bkq47eu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6027",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

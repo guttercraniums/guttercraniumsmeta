@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifixfuh5i3i4lccba7vmm6habl5spc6ws7wehgu4sm24zfi3d27oe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6201",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

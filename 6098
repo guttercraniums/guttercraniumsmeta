@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajfgrbjccp4q27dv2fi3bqat5vy2a2ocmg2udpwuhs7dyyg46zpa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6098",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

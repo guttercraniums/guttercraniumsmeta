@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiauhy7ybmhnfuofqqv3wpjsazcfa76e5wsq46jdkuuiwiy4qy2onq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6309",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

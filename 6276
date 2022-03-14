@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifjjsbhdrpcv7mkxq4uj6wsd6u2wecp6dubkcbuxpfeh3crgvaszu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6276",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

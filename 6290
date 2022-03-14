@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiegdhfmkwwu7dvuseefczn7dkzhkjazr6e4ghds57a36stpia7lhe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6290",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

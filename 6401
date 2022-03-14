@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajzw65wdqdsdk6jjcf4b477c3z7lhwuyc7j6turonx7rrqu6fzte",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6401",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

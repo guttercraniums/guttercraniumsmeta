@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigw3yep77lhvckqbgobafkfqo7dmektvsx6msi4voeau55obkxcqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6510",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

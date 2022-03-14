@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib77qnotquvqj4qi2eyhegywetwapk6jd2dehejaf4boerimmd3xe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6164",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

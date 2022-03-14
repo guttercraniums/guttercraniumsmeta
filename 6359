@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialejxxbtkwes3wljtduw3m562epdvwsxomy2u3xp7qljv6yisuca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6359",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

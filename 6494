@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieo2vnyihjo2ljoiclbah7yuhqkec3vi6lzslqi2zfczotvwj4cdm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6494",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiehetggtxzsj44gbpnn7wn4lbpu2v5vt3axcohdkmm3vgvw5bxkdm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6154",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjh2czntps5326aigxeymcti4f6gy2rbrpjshlkdbzqco2k7xk3a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6453",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibommgqci5izduj2qg66y2xxi7uyiw6c327macyq56gf5knvx4kkq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6259",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

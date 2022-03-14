@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickpxd35wshfpgtwul7kijj6ffxcdkfcufes35k5u2gtbngchsoqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6185",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigkunwdw27gqnsscfr3p6mzsaz4urvqqh4lb5wztfhax62ibc7cem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6039",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

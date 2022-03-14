@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifsiwdtxfwblr6vtpzkrf53rpxaxyy4dpxhtlyfjflu2knm4trajm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6134",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

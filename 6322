@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxmwlwgn7ua5ibw6emarg7u2u6lskxobnipi6jg32bmho36rcdee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6322",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgyxdc55feladnw3g3s4o57qo6n5ose6uidz5kg7gbhdv3d6wakq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6171",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

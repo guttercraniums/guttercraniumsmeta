@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3ujrhipapg3l2pub4n3xttd7algfvrgd2muli2gthqzv5odcioy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6102",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

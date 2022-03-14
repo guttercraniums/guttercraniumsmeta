@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuv2vwjjrdd2vs66n4mujgh6wocnqplykwh3ait6bl62goy7gqka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

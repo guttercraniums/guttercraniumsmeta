@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidpuyo6qcda7etfmvntmvct44wev4b6h56tn6aej4b6sn7yx37ciq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6404",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiatxk7mwj4swynypeuxv5wyhlkdmmlzzra4jb4nscesbqxsh67yra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6066",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

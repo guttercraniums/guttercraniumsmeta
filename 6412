@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiap2r5xcl5jz77imskv44lsbdakqfblasdytnqovotde4esgwbtdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6412",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

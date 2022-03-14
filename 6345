@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiguagz5zivtj2syupb2ig2qaorzb7li4am7pbeck4fmcrotmncl7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6345",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

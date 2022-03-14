@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7xt4pnfobuuxosieenqildll23biefsozu47cbzn3xmtjm7fa2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6022",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

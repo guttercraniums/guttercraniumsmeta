@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzh26k7d7bj7bix7s7zaq6tfbhoqlgvapeax7epypellxpzakova",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6162",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

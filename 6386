@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiexshjkl2ipanppxdiid2ybw2kvdb43fhmpxdtpfuiepco6klrw2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6386",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

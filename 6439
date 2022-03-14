@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifi3ke6favln6s5f65opdg67mjqdj65e3jl7dfhkwvq5jlpu64tz4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6439",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

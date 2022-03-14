@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih67alkduwd3ivhkfug2e7anjgyd2loofzeb5p7uz3oy22ovwtzzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6336",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

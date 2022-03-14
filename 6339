@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjff3tfz6o2lygqevq64kanakxu4szkjzg4yvdq2o26k2piw2zli",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6339",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

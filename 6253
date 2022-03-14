@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifc5sqcy2myyizxfxt7s6fenr7rqersxrwlanfbb5vd5ov3ibt3su",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6253",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

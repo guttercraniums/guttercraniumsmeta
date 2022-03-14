@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpvo5eewtboonliph5nfvg2ku3kdsxpwkgwgiquw734hoiwoo4je",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6418",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiepa63sssckrymtqeponhntopnn52khghuu4av6gsyhs3clxe3e7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6109",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhpfqm3h6dwgfojxh3zhudzf3sz5ixq3lnpqkuhy3r5heo4hslba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6408",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

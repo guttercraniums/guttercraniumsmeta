@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif27lezisxn5phq7armn5crw4ztdd5j3k5sge3dfzrxrsp7k74ozm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6084",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

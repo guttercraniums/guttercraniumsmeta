@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7u4lp6y5cylu5xr7bh37yq76bjx5yw6q4qh7ibqtbqq225q2q44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6081",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

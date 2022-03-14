@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih3ct5cgekcxez4j7gomb4xyy6xm7jvzundpc2iij3bywnkjeipda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6160",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

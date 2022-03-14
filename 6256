@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdxjc74uafoxm5vpogepburn4guovmi5en64bc7y6c3uhcyqyg4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6256",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

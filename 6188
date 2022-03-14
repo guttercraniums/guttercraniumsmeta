@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpccmjagz4oksls4nvv2mkxctmszoete7xkvbqwh4ig5h6io2uym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6188",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

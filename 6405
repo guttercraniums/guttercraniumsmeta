@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaq6vl6wimw6oqmtxvpyqlvncclovchdd57q2jvqeonck5v22fc3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6405",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

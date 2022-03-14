@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwk4amxzh72qif7lfzuuqjbfiqvb5vseznmrh5emygdmcwxknpqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6062",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

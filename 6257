@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsjewouxp7smr4s6m2hinw4h36lorkjrw5yh3wj2hiuaqbq7q7de",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6257",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

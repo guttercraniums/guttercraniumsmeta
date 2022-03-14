@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihj6vkldd6ofzvq3q5q7mzzl3rdxznlmn4jnxjn5toawpgzmbpcpu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6500",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

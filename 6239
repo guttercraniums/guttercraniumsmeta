@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigidhslz5m6fke4or644pah5eei4dn3yxaadv2ysaktrq2tqu6vl4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6239",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

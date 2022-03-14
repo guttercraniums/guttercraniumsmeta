@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibaaxppk7kfhs7xvu44aus5ypblo2yai3pls67a25c7ycj3fxhity",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6478",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

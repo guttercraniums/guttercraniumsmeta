@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie4bwuy56riqggu3uhx6uocowhmrqzhhasdtnhg3tkix2renu33qm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6227",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

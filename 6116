@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3reeel32pzjroq5aq7sqopxpn2blkuprcw6aa3h5kol62fdraei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

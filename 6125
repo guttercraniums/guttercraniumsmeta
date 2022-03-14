@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig623djcfwu53e5kesqnz2bv2aucdxccac54ffghz7dj3ayssomfy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6125",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

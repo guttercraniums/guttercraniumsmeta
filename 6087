@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignux2gt3tbbiu4h3tjplhbqgetwozcwezjxak3gc4g7u5yicgxdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6087",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

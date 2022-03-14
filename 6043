@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7xp43jiuxdveutoly7knkllkmvhttuff63j3owhlnnnesjzej4m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6043",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

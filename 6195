@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtzgkjl2vssal54dva4tpq3ywwshepuucxfupgnxwezthd57xqsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

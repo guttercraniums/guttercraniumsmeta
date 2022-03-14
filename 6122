@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeich53qurqhto4exc242fklwhn7g35sc5nk26fhnzij3sxsudb33iy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6122",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

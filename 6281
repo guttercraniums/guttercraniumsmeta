@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic277xzjjckf65j43dc6qzu5hcw7k2yxmkk74lcublwyojmc6lnjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6281",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3t7rjdaiqiwt25mudrofxo4ofqw6acl45dnpdamp2qypjsqa5wi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6429",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwrqhg5qjiclnjov6fspvdlbikrgbgel3i6cxkxjgrfnmhpkshuu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6217",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

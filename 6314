@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif47p4uxi4ltfpjced2c4eyieseywm3fm32em2b7w3wj32dmg4khu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6314",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

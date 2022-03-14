@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig74lp2glnrpngiegdfu3nn5ofefgeiujrsj3uvb3d3r7apn273te",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6329",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

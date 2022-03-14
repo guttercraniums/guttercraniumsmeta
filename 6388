@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiciz3ge7xsctzqte4equjxi4v4ywofwwqpvod25m2aylpflujojg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6388",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiei3ly6ntdfhvkp3sishek4nz2vda6257diwcjndjvc5ob2ckct2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6267",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdgms6rcjidgx4oyn3cqph6ynfz4z5kgaefhvcv3duet5kgqvhxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6158",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

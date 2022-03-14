@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4xkq6n5734wijo75yunwv6va2gf2sdkur6vo7x2rnsnru73ovmi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6444",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

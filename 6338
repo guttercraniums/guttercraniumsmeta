@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3b2r6hdritrvhjkyfsqbclmw5djza4xmwx6vqg2v6w2ogtsqc5e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6338",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

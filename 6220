@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifk3slnkan2nrhydxngwxzyaxtfp2v3jmpvhzs7nqbopf5qmccdtu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6220",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnzcqa7a53tf56vayc56qrrnby5eav4der3qtfnezlc2bokdkq74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6508",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

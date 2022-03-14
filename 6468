@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmehw3gal4ntyxpknxkmpvmxpo23fe52systrcjodhc4igu6fosu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6468",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifytd27q6kghfc4t6oxk54ljzzi3jss4yz5i72n445hzkhmm74rhe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6385",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

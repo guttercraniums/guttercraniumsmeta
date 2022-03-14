@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaszojos5huei5ii4nssi5sze7q7kz2tag2rsbn2rtnaq7gzss3je",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6090",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

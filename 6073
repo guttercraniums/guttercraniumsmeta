@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflhcfe6p2fsi73jes6pdgo4xkcjxe6rwnykvwd6rqs4mfztxbxhu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6073",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

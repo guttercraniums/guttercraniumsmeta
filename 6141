@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjgpi4sx52tzdyl5grjhbnuiezqzh4nwfofxzvuzbayep45ihuua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6141",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

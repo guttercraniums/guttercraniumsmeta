@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfva5vzxr65vjaiauyh2f37ote7vh2e3dfhxjhruz6stimy67cja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6170",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

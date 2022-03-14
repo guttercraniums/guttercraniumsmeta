@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx367y6sv5334wyi7jqr5p2gr6vqmvyfofdffzbse3uwt62sdhpe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6271",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

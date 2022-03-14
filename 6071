@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicud3igxeb6fwtetfu6v44zzfhmlpvxte3kukjrouguilx7ubbx2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6071",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

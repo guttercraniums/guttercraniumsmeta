@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid35f47xoojyjqqx3t32hcmuiaxyksn7xeb4ufo2llpbt5rnbatbi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6166",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

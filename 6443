@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidsk2xhw6srtvynlfsujtl3qessvaxp6r6nkr6no7vnwuqsqzlxqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #6443",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
