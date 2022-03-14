@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaztvpo32am3tk5ahznbb2z5m7vdgguhoyumtm6vx624s5zur2rga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9206",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

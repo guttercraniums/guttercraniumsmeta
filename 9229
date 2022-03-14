@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialqnyzeaacytfrlyeh66meoo75dja6nl2mkozxiwlfqa4p6seibi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9229",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

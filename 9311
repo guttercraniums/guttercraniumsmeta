@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2ykxiwr4gbial4yksw7pnez2cssqbcx7kc5unliruzqsgspuyma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9311",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

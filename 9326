@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigdtygmksg3llobp5qhcr7e56q7zio3ml3dzj6saq2jl23gzitbem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9326",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

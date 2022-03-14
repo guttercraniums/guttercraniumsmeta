@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4baukg4peagr5yamsbtmrvttdd4qymkr7wixpak5knmsmn2fhyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9437",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

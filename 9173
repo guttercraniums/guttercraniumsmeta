@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeife3cwr3d2ydb7ydrroxllca2fzfxbgiumc2gssvho55vvksu25ym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9173",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

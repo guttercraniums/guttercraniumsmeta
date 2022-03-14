@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidnkrryzhrd3o5nhlr57sy2ryqv66puxoyrtlcwaxxoxf6uwulq44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9499",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

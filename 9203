@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaixbtvx7qtddbovjlnbpxfiqzgs3ychcitpsvs6w2kc5ksfowie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9203",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

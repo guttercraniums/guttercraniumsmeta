@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihj4ban7diie5qybjccpkt5cwpaqgdjrg5bluro5poti4ouip75ey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9290",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

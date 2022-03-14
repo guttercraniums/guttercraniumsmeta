@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifggcsf4jeurais3tm5cac2j6vmpbg4qq5vo4u4qjmd3zzpmtzfby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9501",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

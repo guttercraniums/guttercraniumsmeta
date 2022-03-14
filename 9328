@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekwnopmu6ogspoll2sbd4l4hslurndjaupy24gxruy326avzpgou",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9328",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

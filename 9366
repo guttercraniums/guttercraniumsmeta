@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifuiuvagptm47tcb7xtu7hv5ujford7jszmdjkv44ao24qt2bawgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9366",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

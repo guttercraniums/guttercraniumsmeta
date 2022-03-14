@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicc6ns2jfpywyxppfdt6vz7jlpaybefmjhx2sle5pw5ljjwg2xmbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

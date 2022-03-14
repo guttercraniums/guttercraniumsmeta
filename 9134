@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajslni6dn7hggwq7ljbl5kcdy2djdgp5ctxxnhmyx57gd7nul37i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9134",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

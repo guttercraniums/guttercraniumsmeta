@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4kccurtapflk7ixo3ya5leyaioqwnxee72zajpwcdkwxyks3ar4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9334",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

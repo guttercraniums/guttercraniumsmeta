@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib5fhoa6ljmfz7kazankwfbj4guvu7y32cr3bv76hdl76xocgjacy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9505",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

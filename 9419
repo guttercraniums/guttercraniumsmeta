@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiel6pint73vmsq6qevjgqe4v475q2dcoyizesvyczyg6xmtujqeka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9419",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

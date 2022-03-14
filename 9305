@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibj53f5wlfhpdb6ypom6tco2e4zlvv3mdzxrss6qwq6ul5ycpempe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9305",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

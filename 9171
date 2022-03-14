@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7gb73oobzr4sxogj2l6jxno2gqbxrzdb6n5na5gli6hy3u6qjx4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9171",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

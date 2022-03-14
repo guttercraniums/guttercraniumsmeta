@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2ov2q32d2ymqlwmilt6wt5dgiwhb5khha4zudpygvf52gcoea4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9418",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

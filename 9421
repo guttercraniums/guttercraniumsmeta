@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbhairombw2qsrv5kvutsauwb6choob6mx4ivk4zdkiwvh7pnwme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9421",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

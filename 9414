@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxelb2tnngfmzzvyvowflnooeaf2gxrt5ferizybmmeb2244tm6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9414",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

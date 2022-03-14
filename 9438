@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5kebkpausigtwfjrx557ghdxgrvfkyrdtjk5iw3j4l35cgs7y4y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9438",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

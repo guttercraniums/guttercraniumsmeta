@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwy46gqxj3e4lzntmj7yepop6rz7a7kv6x6j5t5h3mzmbk6wfhni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9365",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

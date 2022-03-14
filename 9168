@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2zdgbfo7wh226n25welsxgcbhoutvzwvgrzonbg6j44yufz3avu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9168",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

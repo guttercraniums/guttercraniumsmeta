@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4ocnubiw2oubr5xc4k2gd3jw2rhru6yl6xikdfu3pnaruaqaw4u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9321",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

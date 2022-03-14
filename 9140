@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeien6lc7caadchi4wr4uwjmbn3zyxnfi6fzgzunmlqckhnjzxtortu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9140",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

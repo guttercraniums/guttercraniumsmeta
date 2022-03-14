@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebfzxhw35f7eepd5k4donf3lucog7xi5g7irrrekbbmgaus42t2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9283",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeice7tchzkpgj6medbn5auaefzwbyhikeddf2eq5vm7ndkbdzhjsla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9205",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpvng7ktfjvrpstbeiwkbpkc6hq3j3he7deb5646teujqi3eu5je",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9488",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

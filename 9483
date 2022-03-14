@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigjvkcn5fys273gndznswrdosli3w5hi77qn7wpfraurh3wmvpqoy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9483",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

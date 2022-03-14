@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiek3kacnhzmyyzmi63pmlhtjn4cbwe52y7dbz7kt4b7g4yk4r4tqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9408",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

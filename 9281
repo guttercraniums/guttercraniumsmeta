@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieglboqmso55vcur2ky2gidppyj4r77i5dqlbxnts65pl6r4gyxwi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9281",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidk2aq7iyyijdcebulkr3xto2ifsp2wbqzdl4akkw7yv6kzibqemm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9368",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

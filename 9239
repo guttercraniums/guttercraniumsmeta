@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiegoguxly3atgk5tsw5nnerfgw4gpubuznkuhmaimmpsw4rjegd7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9239",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

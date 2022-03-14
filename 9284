@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglre7pm56lriqpjwkjdib7gcnrb2if7tebb5jj2gvtm7ltlb7sqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9284",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

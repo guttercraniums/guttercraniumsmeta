@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3uuzp2sgtmcl2v7januog65zetzlopwhvstkcwrnq4kvhbb6twy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9207",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifqklul7bic22qhnlyeuozjw55lm3npoqx2oar5f7hq22q5o6hghi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9434",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

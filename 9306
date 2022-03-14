@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia5p4pzootr6sjawp36mmncnq5we4jmpfko5zlki6ts6eyjhhxvvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9306",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

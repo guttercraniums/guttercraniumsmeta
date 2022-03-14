@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifa2z7xcvfrfji2luu64222ztjoac7s2pobipdo3djweb5rbqprka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9132",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

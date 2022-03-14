@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigztv7jany3mlnmzwrp5flw5yd7euk73ta5ts74ikffklvvnmzhxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9312",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifqnel4n7c3ea56c4mlymf5iyciyu54odborxzskqkcaf6qatbdha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9458",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6pjwelclih43sf3mtu3auodvjgzbmicrvr2gyyxiyvjwpveolxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9490",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

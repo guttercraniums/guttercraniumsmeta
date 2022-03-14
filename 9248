@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjxmi5q442ocm6ix6at2kielmgpmonvhcuz5awlpujuqijm5cbby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9248",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

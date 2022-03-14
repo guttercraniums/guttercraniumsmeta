@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgpwybuzqcoulijp5u7y2v6vvevqrxkfwvwpuf6ighpx4w36olzq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9397",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

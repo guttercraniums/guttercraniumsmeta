@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieash2q6uxxdej3epxsykhwkfygtez65desl6z2aemkgglc3gsmde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

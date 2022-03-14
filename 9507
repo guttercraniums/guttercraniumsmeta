@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4zzdam4rttcar3avtmlyeurmrv2ejdl72zueoxntpt7kdj3ha6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9507",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

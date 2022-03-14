@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2i2jvncjcxghipmhixr3lxfid5ul5mnp6u4v3c2ygxm3y3ppdii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9155",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

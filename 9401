@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiffwgldkhxou6cl2qpcuje3vzbh3gv5vnwy7cv73nfkipwix3ahbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9401",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

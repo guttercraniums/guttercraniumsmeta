@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidnexxqbe5zb3shiqx6w7icy353xvxkazizmxdpnyjmwu5lyg6sbi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9431",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

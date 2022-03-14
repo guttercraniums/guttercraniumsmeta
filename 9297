@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpjqu3q6jgks7fnc4qrna2yjtadvmb4s5iaph6jkjizhmobpfthq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9297",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

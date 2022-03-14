@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiet46grylpewc2ljrz3vi3xp3hqv6c6kudmfqbzrey36qpwdxjkwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9396",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

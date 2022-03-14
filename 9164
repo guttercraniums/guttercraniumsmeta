@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddcixfpqwp6tenxogvylwrvztbqys32gi6jc56jemp2fsqgn66qy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9164",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

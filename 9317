@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigas7xrcxcgarltousfgv5x5suv3cre3b53hcdn3tovy6wu6y2fcu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

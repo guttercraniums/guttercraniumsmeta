@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif7uyhdmeh4cp7cnajy7xx5lfsp2xd2uxkx2ghatckj5utpejc7cq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9347",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

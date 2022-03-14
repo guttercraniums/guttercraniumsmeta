@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicalwauz4jckfuszto6gsyzgkrxs7bo6fkbqljiik7bybxu5djtqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9138",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

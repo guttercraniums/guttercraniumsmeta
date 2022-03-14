@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihesnf27g6waskxtyi4etfcvieackhif5vkntxvqnuy67nw4khhbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9474",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

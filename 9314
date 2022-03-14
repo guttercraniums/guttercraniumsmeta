@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifthlyynjr4ydkt3psvkkmlmp4trmmf2wrvfokd6cfkwnkc4v3bsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9314",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

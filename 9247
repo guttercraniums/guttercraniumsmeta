@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbknic6copji4rumeh7sdon3i5aqnbyfk5gmcut76wc765jm6hu4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9247",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

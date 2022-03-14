@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgbx2uhqqf3igt7mbwljt2sqikap7ohlolsaafkmo3g4rjouanzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9372",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

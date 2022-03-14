@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiawcm3m7puaoqhxa6d3ijsfqsrwr2nsialn465hdwmauy4kaqmadi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9253",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

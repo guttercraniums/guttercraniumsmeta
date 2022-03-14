@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibmkab4zhfthh2zn4ehovz4vfzvrnklmjutwmg2cbgzhayebddg5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9231",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

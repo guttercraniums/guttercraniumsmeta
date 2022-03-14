@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjn25gv6llm3enx5xob5csibpifjmmnpo2t56q2hme3lh3ccbhby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9394",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

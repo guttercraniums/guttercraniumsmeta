@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2afqrwmwhg5b7mzmm5gbwh3ro7jjplsacbojqhzuuvnpzu33nni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9390",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

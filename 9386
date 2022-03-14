@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3dh4ti72nyni5jakgqe7thostzgrinqsb3no5rwv7mjlvib6e2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9386",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

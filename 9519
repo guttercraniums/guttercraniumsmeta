@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidnaobf5buu5xkfvxnpnqav5u3egxtygtg7cle6of3lngcrlg25ii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9519",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

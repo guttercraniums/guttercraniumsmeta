@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihksixaqk7w54rm2ch6o62gp7lhk3stjy5dnkhddgij2j5sgicdne",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9364",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

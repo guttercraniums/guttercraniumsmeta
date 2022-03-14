@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidlmisftd4t7yzkemmb73cjvav3hql2wbepnpewlmd5bx7bal72iy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9452",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiejbo36hzgn6qu7tvwjswdcszjc66qzkmeica3l3mira32gm6itg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9163",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic66muxjm22qv6hch4yxf2akr7ksiablgae2tv7k4igquylhkrbqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9481",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

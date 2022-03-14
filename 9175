@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4u4bvlldcoznfvpgoludkftvcjysdlj2rvjxfwjhens3xpletiu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9175",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

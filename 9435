@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibqkgfngt7o2sbxiz6n7xpotvgpva3aoz5ujya33ziptbpoficyuq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9435",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmvqljuureydhcykfte2zzgtm52kysuk7th6kuwym4ttmqgavedy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9251",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

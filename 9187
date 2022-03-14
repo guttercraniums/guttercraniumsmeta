@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxtqm35pc2uluij3g3edk2pf46u6jveyh72yer2gncsxwxvgkp4m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9187",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

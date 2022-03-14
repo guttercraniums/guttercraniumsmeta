@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgkijky5u4camuoia7i375e3pw4beivbrcyhr4mlpqykkrjtehzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9404",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

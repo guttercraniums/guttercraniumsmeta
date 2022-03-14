@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig4o4ga3l75hvfbvdcaaoosfjtubnrf2dlzotiarmim5wwehaybwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9492",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

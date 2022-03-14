@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibrujnpow2wh2s4hcydkomjk66nndy4p6gzjzlon3xouqlhw7dvra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9348",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

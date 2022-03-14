@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhvlsbsz4eicso4vauxo4vallh3edt66xux6q3uk4kz7gdinljwe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9178",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

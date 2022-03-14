@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqpluy2sf7cqa3ahz2jpt3d744gzvc3k2rqyxafgwieuf6brmmlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9153",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

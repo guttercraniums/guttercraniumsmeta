@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtgkgokg7dbk6b2kslczuh2o2z7jzdibjpjp4vc5afaxjthmjpyy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

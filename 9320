@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemtilre73hg7fnjih5i5ha6fz27sxqn2gon4pdzrdihltdrkwxa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9320",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

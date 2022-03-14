@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6g73t535ufajq5pmda3dstfeav26u77awlyhea6qzuy3jgplbxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9185",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidlvywaci235wltra2bqhjb7dgz7wz5ajlt2m6sou67hxh5s23p7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9238",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigrgerhkfmrtb4etie2rrqoyqxhn3tiz7exxenexjsg3dmubgqaia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9442",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

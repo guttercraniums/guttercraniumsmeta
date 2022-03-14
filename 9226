@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxjfgiej726z5a5nvvp5kwcpbtjn3s5npqihnxutcdir447u2nyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

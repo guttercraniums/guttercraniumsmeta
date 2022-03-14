@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidbkt7n7di5wts2ojbnymdpa3gtncirwdwww6bqdn4a3pf5swcxcy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9405",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

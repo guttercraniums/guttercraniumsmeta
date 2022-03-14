@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwn2sh4hbggzmcvfu4lijfc47x2iviiutevfyi4daiahkj6thgya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9144",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

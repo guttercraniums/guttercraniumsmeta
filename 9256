@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaa4dzp2sfgzjsoioqkycp6odvgr62mmtatrnvd6xjtybmw2q35m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9256",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

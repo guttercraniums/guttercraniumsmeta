@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig45wxpztyazyiwj7fz5yyji6opkdzw7fx4m4jlsveguqalxbqufe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9413",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadri5fygctycpjsu4toueivo3g6sm4tt3gyax45t7x5o7etlym4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9402",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

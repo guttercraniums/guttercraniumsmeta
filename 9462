@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihnulzyhraindf4j2aqni7jfnfcvukq7dz5tlzvh5pt6aps4qqrma",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9462",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

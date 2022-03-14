@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6aphhmy7yht4ffay2pbcdasvm3lhg3cl2oj4oojb4ejihqmoope",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9167",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

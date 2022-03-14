@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifw4ycq26z6ungddiqclix7p7t2eul2zyygpcmh3q2bqbh37m3ecq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9500",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

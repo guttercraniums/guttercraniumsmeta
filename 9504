@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigdy5noiav2pzm6sg4epksgmbgboum4xxgdw7epamcvyarxi6lcvi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9504",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxtnh4nnc5u5gzehnnn45ltm4rqjfldwjijoc3inl62meeyrqmz4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9156",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

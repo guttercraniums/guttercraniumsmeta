@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5425cuhydfwxijqcuzhf4qent2m4l2mb37odmhscz7mn7e7oq6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9427",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

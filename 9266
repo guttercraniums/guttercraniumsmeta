@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigs2d7on5y6znq45b2dngep5fbk37brqlgsbfivyxi7jusl3dor3e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9266",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

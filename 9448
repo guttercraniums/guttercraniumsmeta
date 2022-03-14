@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccqq2ffap32teto27tle46b3rfkpu352xk54ztpgwmfvnc46g2tu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9448",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

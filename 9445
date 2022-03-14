@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4cyysyi4cecfamfbuafhlbwf7hs4ydm2vkk3kskka52a3o5vzf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9445",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

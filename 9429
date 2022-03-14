@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlu4qs5ecwyxxsjgbw7lxlq2mvficbg66fv4gfk3uw6yfimrs5he",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9429",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

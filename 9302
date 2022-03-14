@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiblpslpewi263mdh2v3x2tvq3qwsfdyomjn556sm73dfxfabpanpu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
