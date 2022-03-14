@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieksvnuhirissnyjafrozfefa5ibq7ncr35qpg6qzx5usfrdz32aq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8285",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

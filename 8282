@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigktr5y5n5docbetqh42mhqczv32yuj376dxwuj6plusvcnktp5na",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8282",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifrabbvdc6xggfhnkll5v55mdxygyqrphhatpchw5kcpefyokktgu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8106",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

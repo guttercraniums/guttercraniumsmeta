@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihme36o2fo47vmnea2cx27zad6kpbh3gm6ll5catmzopgi63ju4f4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8598",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

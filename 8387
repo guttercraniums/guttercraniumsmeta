@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiabokdm7uzp3zsowxiwoxo7yyuvwos5mlgs7bdshlsd4pi7f3eaqa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8387",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

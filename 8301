@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigg57xwrqwa27cfo73u6gy4b6rmh43hjrihs3u2osigkcjpqypkna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8301",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadvz73wrgulqmyqgpxxu4tmt5vhvwyh4oqvbolm4ggn3v2sructm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8230",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

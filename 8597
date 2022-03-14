@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdyq6biqev7gmy7bvs43viz3spkbe33ez6vrkujujmq67slr63vy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8597",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

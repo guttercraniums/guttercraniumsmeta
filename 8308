@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibpag64eapel4ddx3mmqz2zxwjlpw6vz4mttlhci25wjrcee3lrnu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8308",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

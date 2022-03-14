@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicr2g2qc5xyaqa4g5bvd2nai7agquhsbtvws3yptf6yxqchfv5lte",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8322",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

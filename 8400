@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeielxmi4u7rwufrruvy4fgkwmqjhmokn2wkrlir3hdiolf3itf3lyy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8400",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

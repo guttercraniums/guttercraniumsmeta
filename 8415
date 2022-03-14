@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxxe2qui5aczf3vsstcqmmkcdfk3fxrrnxwoeppto4fka3v7qifm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8415",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibf2se5r4bv2fg6ybo74e7b2ic7wocq2bg6vrjov4bxaeyaguscye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8527",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

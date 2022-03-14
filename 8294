@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidoz4o24o7mrpcoli3l7knqeezxu53g7g3e6iilwm44nbwts4mv6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8294",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

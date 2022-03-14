@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwjjalckum55s3w5pnjo3i55tfqoaahfnmeoxzz4bprt6plzdedm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8193",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

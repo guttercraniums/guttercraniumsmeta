@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieecitbwy3makjsp2qzthkesxv6h7p5jjptivjasbnxfvf53oqx5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

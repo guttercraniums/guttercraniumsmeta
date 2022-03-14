@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicez42ybee4b22t436qyn3wdcfjkyo7vsvlkftt6lfqxvhjfqgype",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8637",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

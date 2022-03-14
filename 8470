@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvymrzcl5d4lxlr6fdingljwkvdlwfp5rihzqqvgwmplzz3wniq4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8470",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

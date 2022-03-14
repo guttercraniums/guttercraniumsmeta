@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7chvo7lrfje6bsifdlhorcyymkbqq3u4xhskbhccajqjzsvmckm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8275",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

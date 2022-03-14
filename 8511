@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibcv2am6ekvzvmupxsw24jitunoas7mwt6l7h3gp2nhjmzn2wlbam",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8511",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

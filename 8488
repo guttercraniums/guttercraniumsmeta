@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifwdmkw6hcuq7fln3hxgzonxqzsyf4lfoeu5u65kknett3s5q346e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8488",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

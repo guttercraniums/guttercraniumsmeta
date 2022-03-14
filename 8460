@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifn54hljhvgbcf2y5bjost6q7s2xu6l4c2k5ncalcxeeedyacvzse",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8460",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifyjpgeg6za4bagityey4gpi2xsxqdd7oj5vre3ew5lepo2axtjzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8168",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

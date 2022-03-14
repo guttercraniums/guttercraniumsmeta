@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifslybnfuhqbstnthbgf4a4see45fkoqdawczbwocvys3baofpasy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8205",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

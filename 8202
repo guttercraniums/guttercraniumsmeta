@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihct6wgo2hs7fh7ntaig6pxbddt5v4ia2kujmwzfdntrgjlxr3i3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8202",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

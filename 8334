@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeietdrnnabzq7quynvtzrrrfij4uap6ndbdgzivszoblbzqtwykcai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8334",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

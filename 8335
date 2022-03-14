@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihedbz5zk5mhptyacoqsi7lwvjnxxeal62on7ciyjncjb4upcfkde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8335",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

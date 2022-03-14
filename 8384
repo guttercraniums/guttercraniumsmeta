@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibekq7wssvjpv6bmdsofja73hz6ror36yu3hzgokpr3bpbbthpara",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8384",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

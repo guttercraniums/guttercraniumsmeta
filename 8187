@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicx73ypzwt5hfw6u4kpkianqlysor2m2typi5swte67jcjdv3l4ki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8187",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

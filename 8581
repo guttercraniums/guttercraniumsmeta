@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibawo5uerkq26kc7jwneuscchgd2y7s7iu467o7nfiikuz7xat3ue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8581",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

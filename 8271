@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2wiqkviwkqch722rbxyay4x5onqytc5cbmsz7h6hdpm5gamj5b4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8271",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

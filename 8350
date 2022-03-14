@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicp5itfxwle5afddqlgnuzkldwi57m2gkauz42onx3zhgkwcw6spa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8350",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifxdvhh2zsvcxfr345k3hxlalpj3srb73zetfheqnenqlhmtpagci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8291",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

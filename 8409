@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsmaopxhzsw4hik7feg3dtlaignzrnyimz6qqalhsh7k2ack7agi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8409",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccyn7tch3xyzuvo2dijscmmjf6mnp2czzlav25o3ary6rypoo2rm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8640",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiengozjc4j64qcq4osy3wn6ezc46scudgoq4iixy4qk2ife33dj7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8183",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

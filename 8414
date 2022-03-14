@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4uacj3gnkihs3llw6djhg2f5dvrxkmyzolrpapen3av46xsdoay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8414",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

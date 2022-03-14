@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicle33wheb42gv7zdsmbjdsjka4x4me66mulfcgfzyp3ll5hnv5oa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8634",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

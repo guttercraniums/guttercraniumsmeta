@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewz5xgkd6loswkosl2qyb7sz3a7yt2jce4targvriu5uro6ghku4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8508",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

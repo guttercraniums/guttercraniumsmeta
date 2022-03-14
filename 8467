@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtfzvokv65gflmwzupu5eldud3q4gj5pdnncifkbagpbrr2ouvfi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8467",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

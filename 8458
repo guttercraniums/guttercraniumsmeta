@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiba22vw4tyr4embyaxhul6fzilyujazyxi6bb63uicvltkhw2flpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8458",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

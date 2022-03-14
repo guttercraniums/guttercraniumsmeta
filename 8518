@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3f6rxb3dzaxdo7pu2ddqf5gzjl32f74uycdlxxbfazh46r4lepu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8518",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

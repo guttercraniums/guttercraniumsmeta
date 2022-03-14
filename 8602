@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrputhsf4v3r2pkedffzegk2q53z4spe53ffenzuvucrvezvabte",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8602",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

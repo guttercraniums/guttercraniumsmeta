@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibghctvywrfvm3cmo5sgkz5y6oeiji6sdi4ielctkdsne6y2qcouy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8633",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

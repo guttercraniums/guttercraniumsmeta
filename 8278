@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigprdvu2bf3xah224vntzam254v3f76fbostbjuu5hgs2o6jcsmci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8278",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

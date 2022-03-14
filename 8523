@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiclbf35xcb5ceg4bjswita5e3xnfvzl2x4bgb2v7woj5u7z54k4vi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8523",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

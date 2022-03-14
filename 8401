@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid3n3bwygck2badckb4nkvxcrqtgtusqt6mwh3shl725ny263l23e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8401",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

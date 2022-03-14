@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeickjwvqbpvp63d6do6vagrg6ty2o4o2u5amkway2o7lmiut74mxua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8372",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

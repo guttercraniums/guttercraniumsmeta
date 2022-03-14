@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibexmihfokecq6gkcvmkhcipzwwoz2vgsz6r2itjh6cmhl7lpej7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8228",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig4xosfvwmq5fte57t2lvosu2mz4xgs3x3oxjjuky7iosm2zdt4ty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

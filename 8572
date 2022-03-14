@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifyszqzfnlmoz3dydeq25mkrxo6yxqugdf26ho65u2s2tzoeu2zgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8572",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcrdsw7nzu63zw5uqpss2xepprhjyakkit4cxj2m6xr54jnizssu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8280",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

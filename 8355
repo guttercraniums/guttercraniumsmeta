@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig5t62flimhyxg7ce3xdarbcguattmrtcpijfbyc26zdkjewr5bqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8355",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

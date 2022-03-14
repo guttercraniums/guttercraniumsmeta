@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaw5q2gd3bfey5ec3khafwxy7pnqpttogoow4nsosxpaq3sbl2q64",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8428",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

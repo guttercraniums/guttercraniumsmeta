@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4vsntuodvpzl7hs5zsqhhjer6kuzq5e6oa22kuy6nceev2gwpwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8330",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

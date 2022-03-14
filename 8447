@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzok6xubq3ldcaj6so4cgjn2gpgi3mdxwumcwpgjco4vmynjubuu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8447",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

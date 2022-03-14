@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibztmtu34cigoqo3uf4jvhacztqco32fcwicedikhtqfkz5mdqwuu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8159",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

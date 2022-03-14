@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibrsbv75inkvrzpaesa5qcvbrpqoeywmsytdi5rxcx4uyli5koq7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8631",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

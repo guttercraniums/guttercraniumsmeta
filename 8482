@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid26slr7fluyczrfoisil3kjgjpquqhoqcjjysp3y7ftme7h2rm3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8482",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

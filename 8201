@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaspf3kzkgqqrzpjmzcg2fl3idvxtg7twwloq6rcg6mskvrrxfhdq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8201",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

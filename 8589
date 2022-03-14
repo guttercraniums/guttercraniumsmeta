@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiatvu3huhbgzvqov57qkenj3m2ftpzpdcl3hj2ugxx2cfjizreamm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8589",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

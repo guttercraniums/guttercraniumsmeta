@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihijs3picyhooiefdajoeimcqi6sfcdv3xfi4wngciv7izycdelzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8214",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

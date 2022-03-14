@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicddmuy5kx7wu2foysxa46r6w74n6or53wedxov4pimldoxsk4lw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8279",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzfhtpo3rcd44z7jobg5bkko4zdhjgucjfypycmak6decsro3tsi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8220",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

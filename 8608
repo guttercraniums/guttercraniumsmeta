@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihmg5figeoxhr36tuyyl5lxevngaauv72qcr4t36hf2rwg3vbfgbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

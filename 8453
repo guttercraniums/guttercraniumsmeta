@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvsh6gxvm725tf36bpp7f72m4veusdf536hj2etykiqhdyzoqqky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8453",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

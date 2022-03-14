@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifqp4ivw2jzerigiat2lhia55wvw62s5zyzdcx7mmhrqmia2crotu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8406",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

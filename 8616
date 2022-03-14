@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazsp5vazxgzhws64t4b5prr3k6zw344yi7qlmlm46xh7k4wexdxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8616",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieatzxscqtzqkr5gsqzg2coblv6kilegq35khfqvhklu7ruizn6xe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8121",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

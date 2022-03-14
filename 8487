@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeictqsmfwreeqgtcgxghetanzc4ew4rchszmggnnvkj6n6fz7nsnv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8487",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

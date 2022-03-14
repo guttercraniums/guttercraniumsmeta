@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib254xdpykgumfpz5kwxt5jdi7elkfrzlvhn7gdb6y5qhhovz7f2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8356",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

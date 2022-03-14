@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihk7jm5zp3h2xpub6bgmoey2yzzfxfwqkjnpbc5pupagirpvur72e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8339",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

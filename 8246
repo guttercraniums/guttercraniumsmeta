@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvvul34q7vxiidyxf3eccltifym3yfa5y3cyecdbp3woztpmzhsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8246",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

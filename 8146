@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieg4nzexeekqmpremfdpfqn6pvt2f7fxxiehnhf2yss4eknlf4pre",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8146",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

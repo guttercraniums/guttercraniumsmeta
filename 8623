@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxt52s7veqrt6hqi7svjufwg37j6qii7ydjhtf4wbkttwndyp7p4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8623",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia574iuuyd5jlav67bjamgihn7oq5kxnvegtul3ue24p4wzx4wjau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8580",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

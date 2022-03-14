@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvuxuekgveqet5gfedmwigmz33poidzrbqipobmygl4g72b5koci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8398",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaj3rnfegn5qazuyoeitbdkijf7kl46savhk6f62boulkz5cxumfa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8170",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

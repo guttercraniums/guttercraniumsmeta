@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif56apnbktwqkv7tg3gx7j5iqjmnyhc3eghbfdbsro7rujrflg2ba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8376",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkwnu27l2a4frsvpzxadyf6owwk2hj3xwjeilgqlizfz3qkn6q34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8122",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

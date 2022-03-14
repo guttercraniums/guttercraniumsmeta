@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidyjw62txnbbc5fe63hvhs76y7b4rblr4j5pnuig7faetj7itvpuq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8464",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

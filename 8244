@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnunaep4fdlbe7tdau7ghjjpdgs4d46ptrdpczo7nerfcg63yozm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8244",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

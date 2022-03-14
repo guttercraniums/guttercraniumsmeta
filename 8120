@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxldw6sh47eqbcndpevz3m6ybdorpoczniaq3pajackjdswiwdha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8120",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

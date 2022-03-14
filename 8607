@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaklrf6hywpctmz33mqqferulwvdskpctiq75dq65tggtsxswycwa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8607",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

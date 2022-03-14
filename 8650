@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidr5syhnfaudko3q3zrcjt75sxvdurq3pvucqbzqqya7y6crsjzla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8650",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic46q4i4spsnttyhbbliso7js6wgmn6soddulrhohbjd6yoy24mku",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8252",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

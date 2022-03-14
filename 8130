@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzlciamssic22jocdad74wxbu3oxfzbitq556ztgqblfywelpz2y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

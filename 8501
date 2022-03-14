@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifydvw7ycl4nbecqhdvluj3igalzcplmbmhe3fshvsyxqjhnbbaay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8501",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

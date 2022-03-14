@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihxawbicygv32poz5ybyudbweex7oopdsehz5f3gie4e4zby6tgh4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8241",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

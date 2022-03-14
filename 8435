@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbtvkfudzlybnseto7nnnkkkreugw3fgbe65xr5hqvjcfcngzc5e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8435",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie4r6tpp4ocw3v26r5tapcpveo3dn2h4kc5p6enrj32wmlszl5z2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8142",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

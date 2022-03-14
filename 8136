@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicddbnmabz5ys22sv4pg7nqpfeyetj7ckmlcksa6ziki4acamqbae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8136",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

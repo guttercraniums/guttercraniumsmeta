@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifr26ydjldb76yvnheq72cyu4zg77p2oppwwcylfb2otvb65zd4xe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8561",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

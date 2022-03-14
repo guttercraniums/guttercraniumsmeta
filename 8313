@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibroakefwylxhxopqbs7m33wrse2je4mvqu3np7yt46kzt7fca5km",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8313",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

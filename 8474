@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihljqrefsun7c77gxrduqf2ta5qll7o6uc363a3jgkk5lhdlputlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8474",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifu3yobl5lcpu6o4ye3iiydnjxgbqdw3y3wcnrrvvgaiogv423uwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8125",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

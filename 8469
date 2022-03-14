@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazzl3um5fgmhaogln7s2654do2yfnqpzrb56b2dpoihapxvydati",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8469",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

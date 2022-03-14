@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeido6ztjbhm7e4jw5sbok5zthf5that6oggjnyi5kamk6hgl3t7vuy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8218",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

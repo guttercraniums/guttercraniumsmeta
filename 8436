@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccavyqfialjvxohbgwerdn3nlw5mjiy6m6ulr5cmase5fpspinzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8436",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

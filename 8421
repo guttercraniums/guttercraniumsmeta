@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqczszggc4twzxfroezp45x6ukczstt2fuhd2ic7lpayf3ifk5y4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8421",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

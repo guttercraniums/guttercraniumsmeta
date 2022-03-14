@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3ugwez7jaw3xnjecbzfnpg2moy7cw7377k6wln7aui5jcrwvpsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8615",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

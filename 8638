@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibmapt4nfsriytraetxb67c2f62sygrnlrnw5kql5p3asueqgadcy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8638",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeick2hf5x2h7flmysrbqusebmd3xmm2i55ceu6dqmc4zriforodsui",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8351",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeienahrs3qgh23mbxs56ypgljrxuq7lmleydethgjykbb4mesq2ktq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8111",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignfc6mhfpfxo6zc47aywutyfl6oo5cy6hcqf57ar7mfvyv363dei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8225",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

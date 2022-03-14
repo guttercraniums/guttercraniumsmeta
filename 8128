@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx23miyh4v2fogas35yqs3kjeqcnirvy5y6y67gp3ruuj7upp5u4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8128",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

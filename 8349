@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibyfsimd2ot6y4lkfkfab7meaghzuqrh2i32yoqng4pw67egvexqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8349",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

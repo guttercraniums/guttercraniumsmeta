@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicca5hwagsaqiwx6pxi3t7dx5hmol6r4rbc2xtmevrd3dif2r35ty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8613",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

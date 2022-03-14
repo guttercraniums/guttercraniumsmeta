@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidysqzh43x4pepwyxl6ke66tmsysmzkrsoswlil5bsiaofym67mhy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8288",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihsyesyhmdehhyz5caujqwwseqpkn7tnaokqu54yxcooq6oct4vue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8410",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7rxmko3gqjjjzvcos4rl6wqkou7ekebthgps56jmzan2crmuguq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8603",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

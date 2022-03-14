@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic56dugf4gftwuvwtga6eachtnzuldkflekgcsub4e5qqtpkzlica",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8325",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

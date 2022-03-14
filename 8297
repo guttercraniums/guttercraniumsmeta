@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeida36olq2tgpd6ccukxhqftrhdp5s7zdt3vrr7bwow3npldnh6er4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8297",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

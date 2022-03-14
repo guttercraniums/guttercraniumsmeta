@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsh6va6xtasyz6m2f66n5r5eongypoul2arnuff2tetrt25k7rzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8605",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

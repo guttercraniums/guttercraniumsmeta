@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiap6y2xunljt5t7fuzgmkgje2wunffm5hxes2fizavzg5su64ln2y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8104",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

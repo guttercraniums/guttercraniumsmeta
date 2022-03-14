@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifylpr6juo3sg5dvrioy4cilgygp57jiimr77ehlnotbbdvvjeggi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8305",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

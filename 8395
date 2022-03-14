@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidf6cwzil5vz77yo3aut3x3nwckxog3i54kkyhgnwi6p6yhcqxvzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8395",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

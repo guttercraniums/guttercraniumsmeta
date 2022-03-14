@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifkj3clkggqe7h6qj4tsfpkr2un3pgc64s4yplni4ywfvfawcvqga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8494",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

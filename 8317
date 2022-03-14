@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxj4w2hus7bpve3k33jdyfsr3s5gqy6ltivh4hh3hgo4unekiite",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

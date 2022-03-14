@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnd3qtpzw3ca5z5etnrfcj633fi5yhzgujj5tbh76tbo7eivvbd4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #8504",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
