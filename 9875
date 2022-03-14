@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihutgait3bkd5d5xfzgjzb3cgz63ai5c6e2s6t676jh6sp7wukiae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9875",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

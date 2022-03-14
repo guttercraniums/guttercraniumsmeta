@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibm72qk5djeyywedcjv5v3uijclmvzfcgvn6yjrf7ra34ssogoq2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9969",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

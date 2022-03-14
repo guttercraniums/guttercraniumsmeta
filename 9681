@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtofslhg7rd5m7y5xlto3km5vgimvrcsm76hzuhkcdlnsl2he4py",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9681",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

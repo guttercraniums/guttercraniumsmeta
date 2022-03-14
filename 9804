@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiev5mo7v7xyws4dyajsgakjm27et34klup5m6oyqz4v74q25aviuq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9804",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

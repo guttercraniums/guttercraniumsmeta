@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihzbdedszt7j5hkpirzqxgvbnwxizqcdf7jaeo6r7onul6dfw7vly",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9666",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

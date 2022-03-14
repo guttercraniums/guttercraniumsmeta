@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7sau3eqceje6uqfbecx5mw4kbqts6dn766762rgrws7y3hullna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9805",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

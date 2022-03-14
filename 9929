@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtnzfs4usig4px32imlp5ss2ttdwqd2t3qqukbxk5aavdl3egvqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9929",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

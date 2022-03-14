@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2m365slmxey6yci2izs6jwxxjkxeq3bmjp6pbt4kahkaazxropy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiexziu3lud7mjduihffhgru6c32upwfpgjktwj7j75lsldry3xroi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

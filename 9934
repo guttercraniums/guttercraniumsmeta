@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieae725ricp6iqpdyrcvfb5zs67ypwv4tmqlrjudzhlzguwv6ixaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9934",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

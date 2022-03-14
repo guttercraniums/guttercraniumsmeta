@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2fq6bcpkhdevwegstpnksozvrzoirrr7s4qrs2tfe6rd2pxdqdq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9798",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

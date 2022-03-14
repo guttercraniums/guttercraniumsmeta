@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifcpa2n32m6ajknluboym4kbkw37yufw7ql5theghcbceeiwqsgaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9685",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

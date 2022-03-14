@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwk2gzlgiea3n7lva4b7ey6zargw3ipljn6p6kdityivvp3jwegu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9881",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

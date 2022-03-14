@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvxx24m7vxpjfppg5hyaenfdhfu6lmxsm4knhu35befduc3uziei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9539",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

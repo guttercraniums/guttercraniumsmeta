@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie22vhbnb5xv32qzulfwisxsdvbpbjxx6nxakp3qb3zq3qnv5cptq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9640",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

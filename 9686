@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwl46hktsucaae6wwgaoes2ryfgwgu64a7eihz73fvbtjf5qaxnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9686",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

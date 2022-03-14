@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaigmwd3t2oiizzyfdbbkerqfk7vzzkfurzze2beaoqh4xekbgicu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9628",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

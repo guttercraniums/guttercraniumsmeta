@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigd4hyiimuiq6bp53q5i6spdh37casttco4eoat35dkur636eskze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9654",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

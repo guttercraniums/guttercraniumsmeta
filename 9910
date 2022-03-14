@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie65uaatz7nrwptofziuaidzkpf3ep7b26765md27uc53qhfq4ime",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9910",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

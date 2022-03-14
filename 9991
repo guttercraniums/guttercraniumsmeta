@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgybsxhgas7nsc4wbeokgunud4nb62dlpkiwyno6fbjjfoagtymm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9991",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

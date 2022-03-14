@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgqhtdekdpjp7hh5ze35rluqegoq3lxvp4s7fqvgledhxlhx7oni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9639",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

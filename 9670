@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbnbgysr4y2wkehnhduxc2bkt6sznagxutytfv2ef3ykuxxrmfhi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9670",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

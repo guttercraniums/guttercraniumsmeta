@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifob5oya4i6gqrmvu4xwmppbsv5f2eobvbrkop4vc5qesgyezla2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9559",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

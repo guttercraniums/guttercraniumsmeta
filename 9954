@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeige37w7yewfi4bhtzo75rpozu66u4td6f74n7g6yuhmxr57ul4jrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9954",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

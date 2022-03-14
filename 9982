@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihyycgyazwvul2hxrxpklcwvbo3fx5bhtpqzxfrre2daeqt5ud2qq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

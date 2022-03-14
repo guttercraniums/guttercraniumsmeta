@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwgyylo7r54zf7eo5pazhtj7i7xsn5qegj4z5vnalcrbdfkedkim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9928",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

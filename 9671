@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaygx7r4wav3g3zqj5gqubngp677dsdimwuisv2myfeil3rkcwu3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

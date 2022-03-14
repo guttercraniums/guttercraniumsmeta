@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibuihli3pwkchgq76wywzn2zoas5hxisp33fod52bv7m5mqc4tgte",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9553",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

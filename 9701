@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibq4hv4nl3pefatpybvytuq7a72gch5o3kgnu2gzktzlietlbivhi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9701",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

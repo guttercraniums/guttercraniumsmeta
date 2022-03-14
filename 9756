@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic66teqqz6we764nuebfgvrj4q7mb3wc3xulzlsql44nwsccq5arm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9756",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

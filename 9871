@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeighwx6msapshytwxlglrnh57xqnwbrlomtgapnqy6umn5n4hpz5jy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9871",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif32kuzkjyb7ohz4etjcb5sanljazvcqx2d377yh6vlfnh5ojn47i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9915",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

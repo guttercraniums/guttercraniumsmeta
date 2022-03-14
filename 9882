@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlbrbcxdk4ylo5dfq5ea45rrcbryycv7plyo5ex4xchzhl5k7h5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9882",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

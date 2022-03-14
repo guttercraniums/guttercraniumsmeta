@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid46avka47crwqekvpbrlmroebgpkqsatefjchcyqfpl5wiadfob4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9680",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

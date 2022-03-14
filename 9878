@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibkkknzuyg5mm7qov3vpd4wwfdcpfthhhpb7fgpb2veyi6r4b62ne",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9878",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

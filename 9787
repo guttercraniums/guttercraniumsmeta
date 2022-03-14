@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidioc6gdtg4ezpftzk622riudr2g53ljuqml6qflzullzzmzztvsi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9787",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

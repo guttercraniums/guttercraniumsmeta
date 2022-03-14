@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih53ej6kb5j3xywcoeqhlxt2dgeytf52ovmznwkla4y4mjrdazwnu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9728",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

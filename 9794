@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihzi3egv3l6va2kna7pxtacdtew65neaumsofcqf5hrltkkg6nm6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9794",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

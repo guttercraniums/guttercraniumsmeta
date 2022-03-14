@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4kme25z37aucuzlebwlitjuufa5lk2cowtys4vh2izulkghkqty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9846",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesil73xzokursjg3bgcyakquq7kqlgvxbcwzf7ndpypsfovxn7w4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9721",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

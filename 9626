@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih5d3wtikfh3wq6s2ag2cv5c7av57ex6zul4sk3xar4kysdb5pddm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9626",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

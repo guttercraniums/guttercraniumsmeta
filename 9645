@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicuyaq67srdsgwhpbk5l6o62mflhfryocbchwxz2og6p3vszi3hzq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9645",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

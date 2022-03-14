@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiegeq5a23pa4rlm4k2vbwliqupkcuiyptc7rdgkmpifcqa6hxsdvu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9795",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

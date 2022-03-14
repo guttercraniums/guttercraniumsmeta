@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicaks223tbog2rbyr25zu675hem5l2hwaepncw2mmsbwdnngg44lu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9563",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

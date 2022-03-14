@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihry2dg3dbvfit5frs5oq6aos3vstyj7iumiibohx6hjrygfxs3ke",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9664",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

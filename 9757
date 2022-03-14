@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicd5hcklsc33dxa5a6y4p7v6m3o5i3ffofmzzmueeoqbqxelmdtom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9757",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

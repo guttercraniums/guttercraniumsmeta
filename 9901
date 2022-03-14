@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibydwci7v5msd3nhwk2bstcrwv7oxoritwxjg3cuo7hxenbhh7qyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9901",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

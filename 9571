@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdfrj4bu6byt47ujymntxbajqnne5pmfffgkongau2dqf5l5ryae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9571",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

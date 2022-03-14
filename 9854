@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7cuo3uduev4ubxq56e6ymcgv7424koix646isdpie24t3vgf5w4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9854",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

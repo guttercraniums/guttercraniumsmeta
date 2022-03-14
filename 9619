@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7nzhkix2cf3j2fz25cvps4zmqcujnbddz6wfyq6oundj7rm5424",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9619",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjdv643nzhgvp44hcxjbntxuilbxrlhbv3cu7busiga6voda3xa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9536",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

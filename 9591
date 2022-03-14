@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiee5rey2scn6p57q3s6jya3syq67lgemm3lpq5iwd36s3eemqt6de",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9591",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

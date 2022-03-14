@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibaimkj2d4bpyteucqttuu5biia3klkgu2vroxhfdk5hgeao7zr4q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9855",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

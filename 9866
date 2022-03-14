@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4dhlsstzfdbapiy5caihggptjoclgdo4adwi4dimqqh6jbkxp5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9866",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

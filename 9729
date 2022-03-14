@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6inae36etojdrtn5ggkmrcafvxaz3nqt23dtx5rxjre3puz5fjy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9729",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

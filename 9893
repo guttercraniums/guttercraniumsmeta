@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicl4u2y5y3of54vl65tx3pw2db5xxi54ah42mxac3rgbhsmcjg6p4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9893",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihr2mq63gurles7azvzu4vyxwqrifcaum5ntopabcr2inruz6nfh4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9830",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

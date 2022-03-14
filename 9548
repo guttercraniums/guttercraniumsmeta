@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbikjidpuzsuksjp5kibjzoxbq3kplejgzebdcrel7cvc4vkfcze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9548",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

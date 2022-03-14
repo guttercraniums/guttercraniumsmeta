@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiheuigo4muqzrbo22vppneeuec4bvlzr3exepuppbphpmjnqmmhry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9904",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

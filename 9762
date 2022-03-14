@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4qbqtokwpzoimdq2ee6ufgzw44ygi6i67yb7cvm4t62wpwteaka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9762",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

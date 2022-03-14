@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidj3pcvrir3tmx3tp7a7flouhq5kimr7sccagcmdxfsyogchjifym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9630",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

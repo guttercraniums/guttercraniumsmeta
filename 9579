@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7ayghnn4ho47ojdlv372hxm67iwmhpc2mlrin72xqgow7hg3o44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9579",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

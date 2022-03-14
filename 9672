@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidn4py6vvhqyvcdriwxtkyj57uk3nvttnvx2kt4qsnpu3znyjmmce",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9672",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

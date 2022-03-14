@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqkov4x53j2o7er5xt3xchpfviwe5uqnqct4j7da6d3unp22trxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9646",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

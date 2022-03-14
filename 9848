@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieq3jvkwk75avued5iwtwt72ppcy2u5v4qjhyrt6pl7izmdyhv4da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9848",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

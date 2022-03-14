@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigs6xyazqx77g65nbktzmvtjcgx6ow7532zcgmsiugrnp6gxdz45a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9547",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

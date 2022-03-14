@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4udbqyrffwh7gspv6vryaheq3rgtyd7p66kr3z6siezfqvii56i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9867",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzbxg44t6pb64gv2qxueuhryqwhfkvmpl2m2apok6ukqso4psfzi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9683",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

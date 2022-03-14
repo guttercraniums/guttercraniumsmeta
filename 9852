@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgry2yrws4yk2wamcefkbn3gk6roundngfglhj6qdncyh2iwzsvu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9852",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

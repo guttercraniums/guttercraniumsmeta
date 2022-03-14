@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidekrm4s5irsemeixtaktdws74fkwklo5lh5fko25yovb34olieri",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9850",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

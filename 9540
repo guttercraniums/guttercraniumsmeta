@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifa7gn623crfvjykjl4nmzcl5xmeh2ayqccm7kgdht4xl5nykdtqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9540",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

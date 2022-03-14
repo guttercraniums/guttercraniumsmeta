@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignh47cbu46cufsnbvyixknibowfarjpiailwchabeye4pyvasvsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9810",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

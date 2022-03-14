@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibtjibl5yxkeeajje5r5rlcvceaaqdvzco72pjs35k4c5j73gqhu4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9583",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

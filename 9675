@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie72yth6j6byvh2oj6v7cklbakl4ffzx3dkv2kuwl7h2vdzedixim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9675",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

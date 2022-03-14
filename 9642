@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiap2vxc3czpf6jutlotgvby2l7zejbabkljk2ebsmuogyuu7hvnqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9642",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

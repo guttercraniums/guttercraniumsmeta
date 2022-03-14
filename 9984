@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie7baxg2t37htxzqf5loacibejdn2a4ww6c2lv7qzyahj6zqape4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

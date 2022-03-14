@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaeo4ghdhbxdr4vpejpjfudv7pywr72y4awbnxqahdkpsyj6b6hjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9596",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

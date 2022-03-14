@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddt6drmriasna4icclbcfcn52htppqppawxw3kcwgoitav7k3vmi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9744",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

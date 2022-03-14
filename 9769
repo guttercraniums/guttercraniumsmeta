@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifi3xba6amgcpi7syjz6xdvzitofe5xvxxltlet3ttpadbagf5dfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9769",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

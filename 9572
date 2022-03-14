@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfdrppsoh5ivh4twurnnhtcymc5thaih7xrhhffy5ahjxdrzkoqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9572",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

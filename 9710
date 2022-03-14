@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigd6kqv5em7t2isct4hobpobbac5lqvtmxmylvnuaupfleezz7lum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9710",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

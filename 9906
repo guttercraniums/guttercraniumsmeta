@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigod5322utaxsjxsmyp75g6it54xu7i4acvd5qu3az3e32pdofgsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9906",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

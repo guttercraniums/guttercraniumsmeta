@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeial5hinhbxyr7iho6m26had3icof6lipj2vd5vt7wn63p6gnlguaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiamspmtzgz3wmtltmrfavvqytfsnsxqqwxvhv5mr2673avriae34a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9980",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

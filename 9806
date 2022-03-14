@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid43si2kodo7hjgo2ooo3vfjeabdw75c2yvnabeqlrgm2xx7gfihq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9806",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

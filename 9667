@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigllwbbtpicojuagzx23zzfg6fuypf6bn5xn2vi7sbgf2ebgk5vji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9667",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicudaefu6zl2o6fgi3kxdfsekw42ncqnxxvsywt3xqazfuug47afu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9941",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

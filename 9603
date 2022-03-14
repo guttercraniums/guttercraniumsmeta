@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidw3njeaim27aezoe4oim475ysampavofs4ft2uixzhg4yfmjefsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9603",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

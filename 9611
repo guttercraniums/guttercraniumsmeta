@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5tccno42szfnwdz3puhsgv4pag7h4ck32tpjhocvgqieyueigje",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9611",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

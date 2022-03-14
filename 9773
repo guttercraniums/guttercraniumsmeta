@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiegrvt623xlnqujpstug2w4yzdnkpse6452dtboamfmuf5md2jzji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9773",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6qkvyviofruzptjrhds2psfkc7merl6xe5vuyiga4rncm7uts44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9898",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicc36j23tgymqjuihfykdb3sj6i4obyslc2qpwislpa6mtnqsosmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9891",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

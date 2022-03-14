@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdwdqjzw5x5hx2wltqsbz53c2wmzq3vsfusupvwvzgoptqsb5vku",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9690",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

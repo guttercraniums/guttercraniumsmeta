@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxg6wvsva27nmh472iahupz2rvwowmcb5ldvxvfwhh4u3eda4xra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9927",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfw4clhrqxgu26lvoveagx6hno5hg5c2tyyhoxxbxb56fq44uq4q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9600",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

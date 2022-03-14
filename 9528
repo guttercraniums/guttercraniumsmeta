@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibt66bza3m3o6mnj6gtveqbwb7g6ownjoobwp7hffy73dbftwkuty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9528",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

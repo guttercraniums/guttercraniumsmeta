@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigw275nsi6onvmztlh2muhm5gedisyybzdz2ozwi34ulcdmmm6azy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9696",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

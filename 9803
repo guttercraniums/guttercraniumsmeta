@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzr3zz2dgo3yejjiadcm4mkuck4pp5ic67lf7m4tecuc4a2hdwge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9803",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

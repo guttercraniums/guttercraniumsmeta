@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3k7pzktzmo6ukng64265g4tkwknxn2jsn7cgdw5tndpywiel6by",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9942",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

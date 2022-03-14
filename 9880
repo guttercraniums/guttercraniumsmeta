@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieeebuzayi6mmmjkdvh2wskfuktz22teb4yld2ntdns6arkjpb6dq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9880",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

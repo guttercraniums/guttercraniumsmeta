@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiep3qg4cazcm4ckiryxajeqlhan4tk53y46ak75hwqioviv2beqvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9586",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

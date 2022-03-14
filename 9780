@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidbuytq6maauato2hagbquyieru6hnp3nljvqyckjq6as5cmq4zsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9780",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

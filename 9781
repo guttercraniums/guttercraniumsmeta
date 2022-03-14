@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib5feoipdgrw5xgfbbthp6kljob26uaoxjmyb2b5hts2jcfzemb2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9781",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

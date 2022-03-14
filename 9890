@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicpenl4ndxfzy3sv4x44pn4vgidgdl3runobl2aqi5rjpfmmiwybm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9890",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

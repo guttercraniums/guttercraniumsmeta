@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianhlmg5kpovuq2rv2rhz67wenun7uw7eiwqo6xseov4j4pvdwvim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9717",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

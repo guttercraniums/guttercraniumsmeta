@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiacc7sbt2hgfm4vrf34iv363rankgnqck76mytse3sioja6auzrxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9808",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

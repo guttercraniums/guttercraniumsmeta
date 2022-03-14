@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifacsmvz6ni4k2vkq5abnr2gmkg7ywkwt64dswgsfk7cnufsvnfmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9593",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

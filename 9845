@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6xpif6a2z3at73b2waorfog42syg2z24gc7fjy3r2tu3sy7qdha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9845",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

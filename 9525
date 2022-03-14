@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidguqmvgfvf56ittplo5cjjluuttun6srrq7pnoe7gsxmr6fepdwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9525",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

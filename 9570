@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicipu5m4znzhu6acvlcsk3ellnr65vxajubietifva3cnkiyfeh6y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9570",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

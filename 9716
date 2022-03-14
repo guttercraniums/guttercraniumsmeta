@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezuzlmmaeman2rpqykmwf64pme4m5kqefbtoxxx4acxr5bfm5mv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9716",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

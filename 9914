@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiejrzp2ktyk5qxgfzinabdmsuilrsz75ipvmfpuwzi53jlg4b7by4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9914",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

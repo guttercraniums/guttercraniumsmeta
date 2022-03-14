@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7vydqegxy7kscmyqkvystrgpwq732xxmiuc34jkhkxbqqiu5a3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9943",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

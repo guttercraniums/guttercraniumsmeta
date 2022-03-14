@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqvcth252lzkh7ofivzc6n2uij7qlnl5e2xlkhlkabjpfu4mfxja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9573",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

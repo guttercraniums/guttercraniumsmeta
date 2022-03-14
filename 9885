@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtjhhv5eui6mss23uapbdkn4rzotxe7hj5wi26dshj2lwixwfqci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9885",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibo7j2d2aq36l7gj4p4gmf7e7xypyig2poqyfnygfsacwz2pfzrua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9712",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

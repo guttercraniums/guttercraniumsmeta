@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigr3pf7fhlqbjl4s2jtesjpbi7ayojs6z6uuqc65j3nd6ibkumwta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9707",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

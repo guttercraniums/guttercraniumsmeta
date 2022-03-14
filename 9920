@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicwzkrc2be5nk55iyoqenx5i5qhqfpccmrg54mkbve6mezxzke4ca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9920",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

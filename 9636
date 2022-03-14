@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebje5bll3p5ezmv7gw7fbk5i2r532sx5t2cpfqh6dfamrn52ocyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9636",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

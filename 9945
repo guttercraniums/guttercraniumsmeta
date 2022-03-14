@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7xuandhxsl5qul5qw6i5nmldqplb3scmncwvj7p4a2nw2wig5iu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9945",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhighshvqpmbtehsd5h3re6liwohkk7ebz23527o6dbzjvr7k2f4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9568",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

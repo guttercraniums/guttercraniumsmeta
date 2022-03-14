@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidy7n6bfuwir4jadd5pq74fojhaailof24ea7g35nmygug2wbv5dy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9813",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbfvz3zavnzg2c6h3fc5zkm7uktx347x2ukwhcrmpyfedst6hdri",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9534",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

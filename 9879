@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigi2pe3d4uiirxikk3ep24yt3rlwqqdj4kiscqh5uxn26l3ti5fji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9879",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

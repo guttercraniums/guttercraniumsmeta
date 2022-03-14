@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfhkyqyvl6a56xt72ksy4ryw7477yicxadjr5s4szro4woywdycy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9897",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

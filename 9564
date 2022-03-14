@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaot2oow5nuokhu64jqd5wef5qygakjrxyvdyyd3ldy4fm4e6nxki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9564",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

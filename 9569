@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwfiff6fyfsbdget4iwsxd53c3xeyp2nbfevdgebuvdigi4bbto4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #9569",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
