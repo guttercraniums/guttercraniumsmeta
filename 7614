@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie2hlujfsl76qkmraplgyhbrmwdzpzyh7z4p52hshrbz27byud6iq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7614",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

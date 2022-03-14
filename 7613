@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig52scf7eul5hlavlbnwmq6nqy6wvskmwuznjjhskmvatrutgykta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7613",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

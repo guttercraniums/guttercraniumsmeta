@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigorudtsqkipep5un4sug6yzynm67ma24xs4ujqa7s5y4b7mb6p7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7354",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

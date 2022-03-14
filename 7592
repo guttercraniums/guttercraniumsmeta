@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibmiigqd7suyfevpymu4hghlnisop6x2j4tho3jlkwuodqxmttxfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7592",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

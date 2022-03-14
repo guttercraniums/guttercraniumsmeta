@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihn3gp7wtf7nzpaglqfbg3bdkxd35tsr3mpa3ypk2l4i2j2ir33gu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7336",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

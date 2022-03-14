@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidicxvrqfxbdhnifn6wram5kjuivfranakg6ps722qu23l6h2cedq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7415",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiga5m7vbupp34xo2wpby2zggyfnmafuast6kf76hdb4lscgkq7sg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7425",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

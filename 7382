@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3ibubvs72f4f276dh2mmolobvcosgwtxutpwpgr35xjhqpgcdu4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7382",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

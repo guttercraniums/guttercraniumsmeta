@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih45vpplcljlpzixg226lilyq5oy6gkwby3ddzfl7iv7bl76e7hza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7617",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

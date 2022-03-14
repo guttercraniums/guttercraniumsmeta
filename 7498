@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedmsj57e7g35iwrdcrnhh2q5mozexbpirfkprntqsc5wclbtbxua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7498",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

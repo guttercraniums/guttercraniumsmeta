@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibrq5qhlsttyooxcvn2txbw3237vsbggu3qspeytedxz2p6bph7vu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7585",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

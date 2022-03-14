@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib3r3nuihcw2kqyghs5adqmhk6jmbkbtfswvxzq6biu6e7trkfkh4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7604",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

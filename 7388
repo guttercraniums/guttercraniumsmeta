@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4ph3eitudo2ne4teehiek64jy6c4liwze7ek3d4z2bpbjo3q7oe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7388",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

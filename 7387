@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiech5cqgd3hbkxqdnt2e4kxq2n4mioa7w2bvg5dtj6424hrwvergq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7387",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

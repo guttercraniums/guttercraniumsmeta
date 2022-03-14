@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapi2psb2qknip3fyer2wgfqqhxmvthjrputsilf52ebh2p25kcxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7371",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

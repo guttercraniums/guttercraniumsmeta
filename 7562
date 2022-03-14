@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibinr3dtzmrccpq3jcamu7e6xqbyjaj4j5vygbfphwqw7z34wps2i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7562",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

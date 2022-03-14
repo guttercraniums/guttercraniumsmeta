@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieqqvxbzd3oeq7ge5qu3jwj6seuf75nyawu5xgusgxacldkgbktmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7337",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

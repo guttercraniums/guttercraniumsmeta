@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpm3uv6dik5w5ittsknzz7dgvj5i32fmoxh5vi7dzoz7djfec4om",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7461",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

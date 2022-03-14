@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidg4hu6dxw2sz5qmbkikseyuw2iqcdzdszlrmjiahnr7kc2cahkom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7524",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

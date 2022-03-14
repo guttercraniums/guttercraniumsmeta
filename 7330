@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4hm6nsz6njamviy5q4ydqanvvlbkmxc6krvc2anilbyesc253sy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7330",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

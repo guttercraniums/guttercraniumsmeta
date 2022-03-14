@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvys3kdnztwa476y4a7xmptr7fprdwer2e2lb2sxy5w5xnhoc7v4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7442",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeica6nm3oxwa7ko5oafjtujykbpts5z7oqffc5yrocipfzhluaifg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7584",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtasiphcqwfjwonq4bgzti6ng3qad57lcpaqe34eeadsuw4v4ctm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7309",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpv7tdpblyrj22v4xmbzvrvyayjpp6enblxwcmfvyerf4qhxndsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7620",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

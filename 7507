@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidr5omliafslesbyq4tqdeudn2v5x4z35cxqpacdpzm2fdtkyd4me",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7507",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

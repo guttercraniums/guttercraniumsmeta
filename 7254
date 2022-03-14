@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidrw2ewxwopvq7immvkxqje63dj2b6mbwsv7lxr43cx3h25vl4fia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7254",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

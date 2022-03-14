@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeielvfay3k4yk4qip4vg5pijstgfie6lefxao6qdr742iwsibaqatq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7322",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeighz2bekhup3tu2fm2jbur6lrmcgxp63xyfq2yzr5w7d233auuy5e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7282",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

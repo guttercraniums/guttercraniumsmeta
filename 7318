@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxkqv4kj2f4rz4jqvz3bt7gmry4dr3dgvs6b7q5b7ty2f6fwklym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7318",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

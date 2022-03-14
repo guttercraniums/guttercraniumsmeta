@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeielt4w2t7abgkxs5acv7hth3cr46bdgow3awjggv6zvogum6nb7gi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7469",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

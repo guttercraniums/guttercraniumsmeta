@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibixwe67altpb2576ycps3dltsxea7xnxgesfegao7s3zm4dx2vua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7488",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

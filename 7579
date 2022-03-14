@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6f4sa6zsbf5s4anfexsvsbjfpwb2j6fcwldtbatre2nxeuilfoy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7579",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

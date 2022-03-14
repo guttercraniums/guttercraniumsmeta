@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafbdwseqzpkbqoer4u5whsaftdsq3v6bagclay2k3acivilqflfi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7438",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

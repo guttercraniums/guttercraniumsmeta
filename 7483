@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibsg6hziumbusp3bp4a3gxo7o5qgcvsqwzndgh2eqnmvg5daruv74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7483",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

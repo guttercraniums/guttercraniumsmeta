@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfh3blqgw6lf7vfo7sshauwn5dtvfrrxe5mlwxjp56rlmfrybz2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7283",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

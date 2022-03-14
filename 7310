@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidoxebeiuzannjhswwth46iswafdg3dk24avfnq5pkpf63vt4g7mu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7310",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

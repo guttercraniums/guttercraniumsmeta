@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbbbrsg3vr5ukdsrswuiqhk3sksy762ucdj6l552uke6vgzosp3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7395",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

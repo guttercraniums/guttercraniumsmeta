@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbiui4meohq3jiim7ehlbd7keiq2kiaiimrzyslwn7kdsp4uzgna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7392",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

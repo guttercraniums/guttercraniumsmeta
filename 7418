@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpjjmusgwqffpcoc5yjplh2gut2dxp2wgklaje6ndluktvgcitji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7418",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

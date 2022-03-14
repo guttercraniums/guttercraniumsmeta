@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibf5jdyctptkkxmnzkluxi6wfkkjfmlzw4nwynk2mnojhcnakrozi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7608",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

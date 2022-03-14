@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvinzih5tc5bcu6wydjqdivhl6rmuyknp44c4trhganbgze3eypa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7307",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

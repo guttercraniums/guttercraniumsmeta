@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvpl2iu5ju5a2etpk4wetq74wvbrp4phdr3w62gnbyttnxsveduu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7358",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

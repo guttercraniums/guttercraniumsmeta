@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibe6dwngedpvxdj6rpmuaimaqi4l67m5iz4mqzdt2i3x4i7zz6ihi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7576",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

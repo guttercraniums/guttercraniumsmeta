@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiagkwgp35pasae3du4xbun7x7p4ffaqgvyj6u4uqdbcevqkluad5e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7389",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

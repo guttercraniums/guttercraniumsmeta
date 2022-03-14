@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiempdcw6uixvnp2mv7wakdovrjdq6o3kv2uej6j5epgrp3hbfgzda",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

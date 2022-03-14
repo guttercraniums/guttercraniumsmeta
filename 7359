@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiersmiosftde7xvakvakiubdfdbrk25qf7oyzugzuflcilogsau7y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7359",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

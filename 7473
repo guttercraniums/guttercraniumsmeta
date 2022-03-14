@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbprgzrda62psjvy4gs6wk4hzxu3pw4wpa5ej5yrly7dcai6uyl4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7473",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqtnx74ihfjolm5gpq2rgszpe6bq6hq7wl3dbvi6nzwej7pkdryq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7484",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

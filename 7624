@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia6t7iemg2ouz5oncx5dfq7c4n4fv3xiqj5fvf5hs7mot3apw5x2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7624",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

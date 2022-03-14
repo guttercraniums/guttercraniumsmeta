@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4aif7suurya5jczvkl2cm4uwyze2vtmrkvspjd7wiflyqwyug4m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7325",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaom4eemhyxg56fmxly746nupveo64logbavpeqtd7j53cfs2bzv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

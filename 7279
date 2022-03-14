@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflqyjsdeokfmtb2qetl6mionipoqkzefc7mtijkkggr5tkl2tn7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7279",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

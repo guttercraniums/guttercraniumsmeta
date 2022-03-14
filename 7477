@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4f26xyio4i7xr4tsyjr72aj33minugqwtu3la2ho2dimvccj64e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7477",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6d5k4nbj2m7inah36b2tj4h4tgwqsuy225ssnqtdoetuarkzowm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7586",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicr57dk3h5423lc62mixfc3w7l6mhmrizvfmidxayyxgp6ilxdxvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7465",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

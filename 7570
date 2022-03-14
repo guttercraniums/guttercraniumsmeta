@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxkdyo67zb5gd3zzk4o4h72nslj7lqk2kwehx57xp4qu4kdgcsay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7570",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafe2vq4wyndxllobkeryn7b2fdkvfk5yk4s7wo2blurkawdvz7lm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7261",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

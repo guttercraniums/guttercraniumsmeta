@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrwve67szri6iy7qcuutg63pghl7mxyfsqauns5jbhsdegyvhlfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7536",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

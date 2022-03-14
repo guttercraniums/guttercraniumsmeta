@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihamxifyoxbwl47bs3f3caxsqbsffnot345py73kegfyb4xdspogy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7380",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

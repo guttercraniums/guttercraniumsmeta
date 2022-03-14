@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmnn25377eumwueeetyp5tsv6stmvqge6fw73v2yahxfqrwxfoyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7357",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

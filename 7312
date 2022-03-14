@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedxdhthw3naokk6df4ozg56jdsq377bngzpekf3owjv5w3oqu5qa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7312",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

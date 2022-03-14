@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfadk7yo6lulnmniora26ffmuba2jx4cizpmimb2byksrxryxuue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpvmimmdnv67ixkcnjvv6x6jjeetob37qpb4pawxtri7lnaj2xbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7514",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

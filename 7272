@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidt75lsyfkxjseols2a6dukntjyro3f32wcriuaq3d2xxyksx6ipe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibp47qnk3hbez4dwxn7wfje5rdsuekxf64vnc4hazty4wt7qsfcqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7297",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

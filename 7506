@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiau6xkgfgyctuig4cb44oxpvumj7vmzlyzcgq4ndvgiqz5mkj3fua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7506",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

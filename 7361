@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiboiaoivcaefjcfpuwvt4dmlk5emvhyqtpr7ttpebig7qz3vavgau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7361",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

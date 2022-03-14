@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiczjhaeygmyrk2gah4deoljtsotosjoqq3d6flazqfvgrxhs6xhw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7593",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihowe7ooehj46apb4smdsx3xjkje5qjxe7p25j7xgvwnwfvt3pi2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7511",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

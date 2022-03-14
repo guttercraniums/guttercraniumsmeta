@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigwipeuarvqh2v5b2wed3bze4wdb74nmbi5sc2kyhw3kt2hdcr7je",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7300",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

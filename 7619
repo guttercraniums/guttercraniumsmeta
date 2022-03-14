@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavww5ajfjjyfoz5meyv6rkvzjrnnx6qf2mpqwdjgnfiuqcivx7aq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7619",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

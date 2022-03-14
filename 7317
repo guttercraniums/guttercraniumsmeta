@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3rluanlli6gbpcveol7ke2zvwtgl7nq6abhwdkn2g7fncfdysv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

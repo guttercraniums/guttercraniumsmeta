@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzeefu2v4njumwlaz56ocl663qrlew35ccuihlbvszpjrlbkzezq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7626",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

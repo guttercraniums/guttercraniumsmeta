@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjtfvmyj2yvpezqylcv5sssimpufxw3cv2czl5357p4fokoflxuy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7273",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

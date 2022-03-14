@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifg7hjij4f7e7vzjcw4zqvtavcxj3l22xhjop4c2aludqfvqpok2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7599",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaz3jx3duakmwfkgmkre3q3pyzz5nt4mkhlfylhqqzlclfdian6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7398",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

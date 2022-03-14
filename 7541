@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieviaylbrixtqh4falivfey3mrxvj77l32ga3wegfdtxfmajsyjzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7541",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

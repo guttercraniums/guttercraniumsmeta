@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidrjfj3djc6lywc2zsuqgferceo7zrcqgyzyv2gmnxrq7xzo3mytu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7535",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

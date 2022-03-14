@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidr3rsdvotfpb5igjql6i4xv4nsd7egazftzulksjfpjvx7dkur6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7275",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

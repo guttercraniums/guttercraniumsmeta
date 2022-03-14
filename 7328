@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibpdw2pq3hxzu2wfttpyu67pq4yo3zuzfyt3ntryugihuxhhcpszy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7328",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

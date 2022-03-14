@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzhcp5uqparf5htqzlaod4hdgf7j6lqua753cl5rb4oy3swvdcna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7449",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

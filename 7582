@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihznjd6u3ycpmvv4mw3rhcpk56zurfgszfd2znvaorqmam6n3x7da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7582",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

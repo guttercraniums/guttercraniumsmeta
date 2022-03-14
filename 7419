@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecr37o2nq3gqvv2wci4vthsjypoq7h4altrxlhdyn6umm6q22t5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7419",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

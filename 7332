@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicd7hhow2b7lsziqlv3spq2umfs3vwkmmddiufyjhohqyswek3qde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7332",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

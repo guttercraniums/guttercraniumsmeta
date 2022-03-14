@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6lmdjbrlswo44nbkiyhaokc5l7liea6mc25kgzeztferrluminm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7416",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

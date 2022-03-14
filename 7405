@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigq7odgdwbtza5t2bbeoa5sipaofowipikntk45b3lrhlcsnuaenq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7405",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

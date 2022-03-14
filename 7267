@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig5gzwhwfj4fu74yp35cm2kln2km7y54sit3alhoiqg5yuhap6sw4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7267",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

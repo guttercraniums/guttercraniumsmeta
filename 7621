@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifujavvvhe7c3eww4swsxlvadp3u6vo7hxxfo6m6pmicqmle35e4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7621",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

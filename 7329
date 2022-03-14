@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia4kc34sro5zsdtmsc3pku54tfu32lp6ou6kgfirfavzjn2t3vbii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7329",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvdx3nlvka3rtltdhmbk375ulb6u3dluuhtz5dolwnwbqyakw34m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7339",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

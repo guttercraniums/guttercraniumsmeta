@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiblmrvwhbvsm437uq4xv7dtogjjjfax3dgtqydbazc2aeifnyredm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7292",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

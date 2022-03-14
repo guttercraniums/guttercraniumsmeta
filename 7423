@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvp2hliuk6vrlhr4xm53gxrhb23vpffezsbn3eoluueqskxvze4m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #7423",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
