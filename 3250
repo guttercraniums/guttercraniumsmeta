@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapbr7dfbcr3aarknr4cwoanhjcyzlsb3m7t4rdsxdkvid3luu6am",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3250",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

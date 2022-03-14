@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiabs7azo4qf3rjs57ekzes2rkz527vbzdzc6b6n4huceh2nvcjimy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2926",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

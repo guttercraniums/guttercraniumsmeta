@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvae2lrynpnnbvxuznj5g2ijtyiuhbanbso5aeuc2oekmtb7cexm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

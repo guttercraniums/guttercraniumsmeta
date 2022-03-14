@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigp2s56gzilgdxt22d3wxe3prxjd32fcn4ze5yx3dxmzf4rhts4qi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3228",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

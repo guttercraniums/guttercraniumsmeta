@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif426lj7uidcjtx4zil6pwluiasvrcol5kovleecj4sljiokkslbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1430",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicxsg4f7ul4wgefpvrrbgsirf5ifr6hcuqonfjmyshuieou67d3ai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1806",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

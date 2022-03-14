@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibvc2jy4qd5vlhqsohuxydt5htaugdf3ulpslxcabnmmmvqt2eyky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1852",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

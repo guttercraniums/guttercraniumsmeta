@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihix3kgsalf66b6ex2ucf2lwxcxdy7uvugjirzdjljz3eop6ydqr4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1504",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiax4nav66ogtcncymkmk24tjjmmoig4whiiwf3my7kocysfd2zoz4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2936",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

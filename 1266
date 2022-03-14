@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpqoa2fbgue43xshrylhqwgfmo2xou6qw53jojx6fdbsw6fse5q4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1266",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

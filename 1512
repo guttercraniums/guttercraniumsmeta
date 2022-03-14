@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibbdclbsomvd44xa6jabhj7yau24qyrgjxizxjvn5ap3qjv23zcx4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1512",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

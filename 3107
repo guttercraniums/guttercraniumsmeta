@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeign76vdbirsv23voy6ngaqx2z3gswu5q6553ttncpcsfp4baajfqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3107",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

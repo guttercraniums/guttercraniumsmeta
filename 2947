@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigncrrmsdlvushtszeyfpmrnzpae535tbpxpl2abpnbslzyxfsoia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2947",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

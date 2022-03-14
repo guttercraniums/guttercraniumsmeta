@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidsobe7wgk5rxi2apvevgj6tbbxopduyqfkiaotoy2lhu7qgk56oy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1511",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

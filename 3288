@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavtqs7oaml3r6tbqrs6hupruqoko23c3dcdv6qvcnqwk36w2ytim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3288",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

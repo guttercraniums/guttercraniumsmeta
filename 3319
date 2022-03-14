@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflhkth6bzxdbtiuew7rf6yc2z2duh4ktoquoyjro7vv6d7znlmgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3319",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

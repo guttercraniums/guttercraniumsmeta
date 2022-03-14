@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia762w4vghkz6yg3ryzufbdhdpk6h3ta57lw3o42cmmg2lip5t7ay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2646",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

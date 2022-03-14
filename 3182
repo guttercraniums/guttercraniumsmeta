@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichu3xf254lcvtw4hzsluihsdighsdgl2hue7dw22tvwjmslgi65a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3182",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

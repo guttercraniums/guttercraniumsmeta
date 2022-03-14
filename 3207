@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmrjz46l4jwsrn2ebeeepd7c5bmjgu4nqwjakx667ps57zwg53zy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3207",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

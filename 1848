@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihk6jlqv3azsgobh6rnizvxkzojarqgn22ncifisjfh62kp3v4c4y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1848",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

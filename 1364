@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxzihgqjjp52bfujlprwd3mkxmzs45acbzo3b4topbcgzrd2puqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1364",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

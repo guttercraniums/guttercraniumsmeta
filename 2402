@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidh7qababtqykedx5mrnnivpxcgch5hhudxricjcurs63ve7ojgrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2402",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

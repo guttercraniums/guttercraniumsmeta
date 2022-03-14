@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbqj3c4nzgvxlkhyljg3eyio4usmfpq6vt2euro7dwbl3qodi7zy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3284",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

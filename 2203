@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaa2azf5edbiopt62mfocuav7orrahulud2hre6w5k6uwoyhwdihm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2203",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

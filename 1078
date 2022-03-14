@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeici45q2fhx3u7t4dssbfbtglfvobwm5xq7xswdeghg4hfdpujsutu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1078",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

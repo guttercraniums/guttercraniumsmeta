@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdrwipv2dkwbwvuvl3z57lqirqt7ezbjmojudhhr7efgiybyfbha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2671",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

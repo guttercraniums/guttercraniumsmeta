@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdxmwvgp3cbrfmtixjvuqoylucqr3zotrj3gnmuy52j32ienpnxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1747",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

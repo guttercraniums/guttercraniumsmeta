@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmsyuxuke7niteoia6v3xqvobragzotvgfqg4axz3fk4njciglrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1019",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

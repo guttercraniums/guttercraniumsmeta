@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7awlajn4atq4immyhkfhilcefyil25y4bmgnr2llmc6fqhendnq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1991",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

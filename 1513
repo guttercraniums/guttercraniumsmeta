@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdkhdaochbqd365766cwm3s5g6mosvab3bibm6ldr6yx2azhnmmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1513",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

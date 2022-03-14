@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifcib6hmm4at3i6q7bpbybf6xpvft7vewnupellw3nlz5atfdneia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1306",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

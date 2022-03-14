@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiestit2xovoesogyqdqfpsroqv6rl6mgap72beifn2q67hkizrp7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2263",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

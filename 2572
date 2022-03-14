@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6ntvmni4ca24hs6ohe7dccix7fsfjzjc7p4ewyjnv2q5py2fkqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2572",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

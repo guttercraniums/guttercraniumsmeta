@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig7krld35fe2jnejstgi3tmvosigpez4lbhfzdpfuog462wa36s5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3027",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

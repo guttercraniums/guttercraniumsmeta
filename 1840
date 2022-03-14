@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaz575wsqssqcsxhs5526ieqrrgkk5qz5ya4pudarbjzg5stys3vi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1840",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

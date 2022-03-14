@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif3gugfyookan22cbwd2vphm3gpmkx7yaevj6lilssulnhpejb53u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2596",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

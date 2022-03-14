@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibg4m2edot4ltfikxnzjcf7adjhjalvwbpyrzvv7vxovg2c2kialq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1164",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

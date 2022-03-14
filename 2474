@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigua4rrr2mbwpyl4s7pnc52aahrk3dhotroccadk6fblnwlz6hrxe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2474",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

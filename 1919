@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifks6pafd6izoabutrgbwhgu3kto6x27kpeptdyeewv6z2vgz4alq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1919",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

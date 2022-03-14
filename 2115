@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif3jobnjgnnndjir5ll735xwuqwya57id7uqsgqd3dsaqqvtcxgxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

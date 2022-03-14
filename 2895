@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibms6xmqi2x6vm5pzh2lmmrtokjx7wsbtjbrid5o2jrhbxmh22pca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2895",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

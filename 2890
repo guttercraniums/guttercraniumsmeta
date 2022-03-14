@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdspbrpkvjuj2orqko2ajwtvioydeobrdf2jz2i76bd2ugxc3iue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2890",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

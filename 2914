@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialj7wqu4glan3yopljxv4gevere27w6crefbv3pmbckqjj4qadim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2914",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

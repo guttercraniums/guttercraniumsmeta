@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifq4nnenees26jls5m2vji4fr4hlq5g2uvgbblsliitauljqnzj74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2892",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigj4tt5msjwpr7qbb5u5zb5ws6dpuhr5pqi2ia2wy5hypdmrrgg5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2246",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

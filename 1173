@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzykcreybn62gpzpbj34yqmr4mw6632wrz2lvtoc3qjsohces35e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1173",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

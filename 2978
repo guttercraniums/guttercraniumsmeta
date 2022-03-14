@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdre2b2mi5hoeixlgkuw7qn6azcbfzutc3yokbzdsdsdm3lndqvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2978",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

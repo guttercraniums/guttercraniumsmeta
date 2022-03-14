@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihx2tqlaw4hwaehlno7hr3f2ohn7as4opq2ff3pfnuevy6k3ggecq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1184",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

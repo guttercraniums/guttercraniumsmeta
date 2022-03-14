@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiciyjyfynglarkixlj4kgwd7apg7qtba3ao7gw4m3nubx57xwk4wq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2759",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

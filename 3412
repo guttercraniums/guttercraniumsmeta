@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifkdro7y6oa3x7kzoehhf25f6noyb24jo3ab74wfz4hvymmijmccu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3412",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

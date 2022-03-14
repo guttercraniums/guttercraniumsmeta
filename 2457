@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiev6gj4ve4zk3evstbbppyh2ywykblpo632wqcl7q343vwfeekmsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2457",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

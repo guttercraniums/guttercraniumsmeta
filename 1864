@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfv7vmyyo2ii2rxurah2y773klkownqoupsol6m4xsdhuhskk6ca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1864",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigky5p3zxdptmf2jmf4nufssp5wsaogyyctdx5bfz2hzzut5srrqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1158",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

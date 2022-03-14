@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiamm6bq7ekieildk7fd4ocauedafh2bpflc23ng5ohjkqdnsioalq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1702",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

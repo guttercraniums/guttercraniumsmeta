@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfwdxc3ctqcsugqghk5sx7xbosl3oiktyxwzie6f3ajdt5xwvcfm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3331",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

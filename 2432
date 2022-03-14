@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwjnywuw5mkxqueb6v7hum5r4r3eqyekexrjsrufyikphny4dtji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2432",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

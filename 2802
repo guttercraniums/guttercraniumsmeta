@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddmzrolm5zwstfbszjptil7qqoakorkx7jnmmswof6bdah4dx4xe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2802",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnob3otohmq7ya36qin4qxcs4au3jbaitctauczj22gt5wnzc4ae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2011",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

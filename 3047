@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihisnj2g54ktsr4rlbnkvrgtpyqudugrbytqdxoco3qimoepibwim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3047",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

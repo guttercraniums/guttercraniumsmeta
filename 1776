@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbs7ljxdgqeyurhd4bdaxmsfd6r2oubjyp6ovvpybuplo47e33h4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1776",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

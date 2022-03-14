@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid3dw7fg2agfrty2mw7vpsga2hyib6rghge25ic4gqykkjrkafyle",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1455",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

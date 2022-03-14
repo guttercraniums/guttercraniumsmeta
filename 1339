@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib244h2ox3xcns2assi2ollbfmugi2egqm7j2wtlbzh6dvfzfigdq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1339",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

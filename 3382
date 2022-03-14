@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihajc5g6e5ldculdjtvidvjbyl5jotzb3mujrj34rypfrfjh2smsm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3382",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

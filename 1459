@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeict6lrcemob3dbizmvyoybwwr44o5cfp5l4oatzxr2giasx2l5ymu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1459",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpagaux2it2q7c626vogvoxjamfpipyo2awfuditvt3ckncm6xni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2120",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

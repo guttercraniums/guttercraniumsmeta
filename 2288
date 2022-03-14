@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiep4uiyncplu4ofolfhwxwkjz7kbeaogulu57zn3w3bfph2omacl4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2288",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

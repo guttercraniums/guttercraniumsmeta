@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeief4pysrkcywtfbmc7sp7uxwzet44kfux3mvqir3uhob2poycez7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1751",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

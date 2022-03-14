@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2p7hpkw6dllry2vglfpizkdzur5zwbnumk77oe3u3do6d2be6iu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2847",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihus7tc7vumip6d6mra37amk2dqneyyp47c2j52rg7dl66j746sqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2764",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

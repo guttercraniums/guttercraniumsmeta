@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzohshb72hxczpbwo6kolhtssgjsf4hue6nnpllz4lhkvy53c4ee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2253",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

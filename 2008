@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihm77yxcvwu4poghql5oukdcxh7lm3vk7gvdhspwradymqpxqefci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2008",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Paragon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

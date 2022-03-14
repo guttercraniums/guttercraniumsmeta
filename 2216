@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicke2tignwi3win3z6c64au3vs3ewcee4so4mgwuhg5its272xepm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2216",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

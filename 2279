@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiah4pebavd7mqw7m5bv2ihgpvbehxnrlwkhbiy3stb44k6nxytmcm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2279",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

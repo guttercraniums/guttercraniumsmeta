@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihphrcy5363n3v4pm5be2vriuwrbmghizsby2gwso6owjcnyrvppu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3093",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

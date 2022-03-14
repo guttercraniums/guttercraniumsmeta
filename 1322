@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwmhmrfzfzric36stotk2kfhcdfvrxzne66cg3wnu6jbhtptjn2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1322",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

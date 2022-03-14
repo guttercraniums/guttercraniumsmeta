@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4d2wmakujw6zcmz2sqgxp7qmk4bhjagsh3ele6pskxnjdmfqu64",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1410",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

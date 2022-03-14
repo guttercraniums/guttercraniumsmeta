@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibszgi6serrzipveetccjnvomoal35nav55cfah3ufixrdk33lcgi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2183",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieju4pkqk5b6xh4f3y7oklj4whp5lidffts5dpyiuidpxnwen7gcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2982",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

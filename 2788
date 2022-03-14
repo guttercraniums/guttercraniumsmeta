@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicunxdd2zusoda76btwwbvmkmjn6w75aasxvajon5yge4ozfbmeci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2788",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

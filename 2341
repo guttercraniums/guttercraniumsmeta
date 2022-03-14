@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtsjrloyuk3rjzybg2zfax2ls5px4ykvftjmr6x67o3sze6otw4m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2341",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

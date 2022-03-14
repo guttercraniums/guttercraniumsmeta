@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidln7vgt2x6dcix65tyka5u6u33uud3h5rd2bxrsp3kawpn23f3su",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3313",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

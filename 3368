@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidvqu6e6yvao4bw4f67mtnba45zn2ewyupg4ltxxeu6k5xdbre6ne",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3368",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

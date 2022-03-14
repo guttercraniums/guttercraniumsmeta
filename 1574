@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsg5cwn47svwvhgqrqh6avdl4y2kyoannqcnvkxdst2rg6qri7ii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1574",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib57t3da3cpjiu2mfphm2txqby6t2ar6cbtl5ou6h4k3hdmemvmc4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2951",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibnvcrufvzzn24naxhk2uaolhcedl7p2n4nqgtnkzliqlgzcpcwd4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2876",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

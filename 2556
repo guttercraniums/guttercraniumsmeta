@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiez4d4tex4qfx44tkxkkl4pmc7ux6fqwi5ligzhupgpi7ot5uf63y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2556",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

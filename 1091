@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapkc2lxdh5blzuqpfpcochytlauizcb2kkkkss4jw5q5lfjj7kx4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1091",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

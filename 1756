@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesvyjgwhrankia7n3xajzj6b5n3dpo6flbfxlhae5m3g3l5fgjwe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1756",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

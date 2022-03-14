@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlbrw7jurz25sxg5suwmcxw33smmh57m22gpvepr3wpi3ldjioyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3084",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

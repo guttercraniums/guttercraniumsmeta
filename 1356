@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiftahimft3f6ae6i5idegwagkk754vwfxmylt7zipdbdmn2pgp354",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1356",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

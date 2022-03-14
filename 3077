@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx5m6qdd4li2budeamoxswxawsrm3hpryriiqbdpqiaqnmsj43bq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3077",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

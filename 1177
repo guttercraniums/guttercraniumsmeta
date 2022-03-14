@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmdijlha4wv7kkz5l5bh7nihbwst3an2yh2rwroxgc6a7bu24p4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1177",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

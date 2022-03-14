@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiahbi2ifgvcmxjf6chtfzdu2bzoqer5xf5djohpn2obtmiqnl7dqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1612",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

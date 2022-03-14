@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianpgdvjhxduhfekew3p3krts25gdyx5yenl45qdf3mcmrkyvwi2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2933",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

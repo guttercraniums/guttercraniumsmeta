@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiay52t3o2xmjepto2rk4ggkwmjqa652br25hb6kskgvq6a6du6cqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2420",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

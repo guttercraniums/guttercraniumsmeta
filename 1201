@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzx2e2bx3domgs5b3fkmw6sezx7lysziqo5agptyg54tejsnxlhq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1201",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

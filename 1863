@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvlcedwr2qtgzyg2fpcqfogy6fqiwmm27bivswjgl2xt5iq7umji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1863",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

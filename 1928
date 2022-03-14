@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichyajs2k7ab6yccbnvfla42x33kpdicn6ynagz62fwn4a5vfi7wi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1928",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibazfoxie6vfwca6v37c72t4mdwalqbnmxdpqnelhttegg7lcvohq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1376",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

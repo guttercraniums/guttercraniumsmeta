@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiet76nlsm2eu5aot2wphqxsm2s7kvwrnndzvywm6jsa2zvlay5wrm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2752",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

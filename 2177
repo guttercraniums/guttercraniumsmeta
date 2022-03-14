@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbsecdzktakloxjxrt66gs6ivnlc7g4q3nkwnyiwq6yzmjzrfshm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2177",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

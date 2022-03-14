@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihautrureo7otr6ils5tgtztiohhqxmnijwsfqkxm6f7fd4koyqrq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2680",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

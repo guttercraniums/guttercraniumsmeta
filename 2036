@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxxubbgkzadrf3d6x5lttrqwlqgoveobtotxqfdsbslzl3totq6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2036",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

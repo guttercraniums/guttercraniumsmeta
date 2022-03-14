@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigc32wzl2nlqytltvtdsymc3te34jgtdmwpixayx4rr7rte62bjxy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3097",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

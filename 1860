@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiffp3x5yqd3vqyizijgukzbv3gpkbazaifvzp4v6humtcoehkxkia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1860",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

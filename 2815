@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazwqbr2mfxo6fhwfzuuiljhzzbyd6ukw2tsxioebq3wa5txbtdza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2815",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

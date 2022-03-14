@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie63ymxdjgk6guf4yjrjpw74egxjhxsfuylcmqmz7zxtrwsm4hqoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1822",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

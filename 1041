@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifypud56vwsx7wbc33k3hjiee5sot56p4i3mvyt5aox3pf45oupve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1041",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

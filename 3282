@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbnrdgc6ju5qlkloluu6eajvipd6txwazyhjof6johnbykw72rcq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3282",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6iw72mrsicyjeif7rjlmpfmy7h6xunn3r5ibqcuj5kyxrrhip5m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1147",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

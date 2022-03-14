@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifazv4du4g47wswt4ljprlgksikx6vv7elwxcniyzwnq3vs52l6vy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3393",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

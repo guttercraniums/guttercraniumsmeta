@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidhln7wlx2f5hermijdpradl6gqkogdmka52ojl42hvo4dztbmk6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1984",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

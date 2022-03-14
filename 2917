@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifit5ybe3aku3g2n5rld6qedqs7nbfxvzf5qqujz267vy2nikqwoq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2917",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

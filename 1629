@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtzeyyi6maz67ajhkr2tm5wbhibzi5ylpibup43t372q2l5tawmy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1629",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

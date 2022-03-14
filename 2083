@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigveuf5jcoi42uh4dnlznx2ubbe4wtfdxa7gbxttdhlo6kzupbyxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2083",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

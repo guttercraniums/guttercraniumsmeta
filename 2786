@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2u3nzltgxqleuxtmbyikru2n7ajvkeoqo6bn4se7gehzd3tp62u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2786",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

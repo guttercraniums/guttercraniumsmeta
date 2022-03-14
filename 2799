@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicyrscwaldftrwxdn25lv7gn2wupioi4jfhirhdxztijac5ef47pm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2799",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

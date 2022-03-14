@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeialx4s42ntv2o6a42kvy4bzv53icvsmedrq4y6ldrqfgzn7b5auj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2908",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

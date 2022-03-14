@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad6vdu3g4hvgbh5lhit4i356ix3zfkb3lbekmrd52xdrgow27jbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1799",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

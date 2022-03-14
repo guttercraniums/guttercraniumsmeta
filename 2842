@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2ycsj5jzhya5pwnn7r27ng6kf75vkbjlmxdvaifem6wx4tqpqlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2842",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

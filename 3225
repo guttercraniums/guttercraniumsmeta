@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpcwxkptv5vujfyvb454lhiu3a5qem6rdqe6log35w3t6va5uhti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3225",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

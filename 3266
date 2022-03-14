@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbjozh3cz3djjx2vegrjga26ri2pbry7jthe4vfdizcxkgyzbq4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3266",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

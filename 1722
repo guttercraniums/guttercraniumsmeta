@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigeg4tydhpiodqbwsv22xwzu5b2urhanzeyx277iod7vztiqxwrha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1722",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

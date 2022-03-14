@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib3lxveo445fhczzdcpt65xlp6sz7q2ktf3wufxfznz3m6cn2crva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1028",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

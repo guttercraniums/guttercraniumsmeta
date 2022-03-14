@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3mhrgatqmzra4klbejfksf7rx2qfdlwypewpqgdlexl7m3ydwpe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2770",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

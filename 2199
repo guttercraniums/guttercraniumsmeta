@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig53aohyvs6vegen5dnh4peknvxvenms3licvqg5mqloxta5drx6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2199",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

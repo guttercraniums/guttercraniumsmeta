@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidrcusedd4rtydfybiy44zijgebsm7yxg56ez4rr2e7x2pcrcpmwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2143",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

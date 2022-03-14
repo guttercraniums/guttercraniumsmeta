@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibgubqugyqkouxh54svqbkiazghre4q7k63vvhxfxttxzui33524u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2662",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

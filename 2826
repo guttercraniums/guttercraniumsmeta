@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrjzr42o5xwvpja4ykykqmmcbl35wctlgyxkxip5f2uhynlzx2ju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2826",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

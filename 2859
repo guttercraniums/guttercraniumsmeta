@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihzzxrvslwtlhzkhejo53aqlcslu7xbmnpxwlx3ae6zqtnadpr22y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2859",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

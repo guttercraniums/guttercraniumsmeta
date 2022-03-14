@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmjkzyaq5ym2vmawtdcjory3hgr23g6irnemhoizzo2rlwgnr5le",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3191",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

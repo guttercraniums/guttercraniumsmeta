@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibyitrmnjhphroxv3d2iz72i5z4y3tsdyv66hlzpby6am4tlgw75u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1396",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

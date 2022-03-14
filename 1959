@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglcelvvb35cs4quumdokrngpyfttnoj4ufov2sgcn6w7sovkwnmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1959",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

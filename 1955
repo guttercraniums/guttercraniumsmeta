@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigzrts7idykqlby2cq25tf3tnyfmamabkdysan23edethivpglgpa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1955",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

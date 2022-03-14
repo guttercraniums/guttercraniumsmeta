@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifixf766armpjmoybjjmb2hahplghyns3nebibaoollf3sc4fxtqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1420",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

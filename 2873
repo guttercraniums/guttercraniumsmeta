@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeich2jkepnr3ivrjfmfgfeoxiyjgrabrf77gdpcloq4fs6i22u2s3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2873",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif32tri6dmk53qo2gwdpqurksvdpwlr7ezwnmbfxcqywahpmnupde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2359",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

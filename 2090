@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewlei3c7hbfzh3vdhx6wksufvsbn2orusnawsacyvgen4tta67sq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2090",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

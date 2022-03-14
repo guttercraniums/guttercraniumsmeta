@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid6xx4htkzhbcv5jgdunp5cbocek3u3r35rkyaamxh6kmwc6yx3ga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3033",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

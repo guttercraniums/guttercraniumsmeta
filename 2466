@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaooz43iwsssvc2updhrc2mj2bkxoeudihs6pae6cubskz2f6i4vu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2466",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4rovpktqwv5n5bcxox47xlli2ur464kq4gcuwjiy4woc2kfgkv4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1989",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

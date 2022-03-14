@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeice3erbtrsh7r62tpcympfumcgxdafjohljl5idpvzgfu2pgszgpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1218",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidcbobpbpmkivu4cn2j2iy2p4b3rto4sers2gpe32wjjacl6jefce",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2194",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

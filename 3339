@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfkcltg4zee3bmvdqtyikmac54l2cgycgpzk42brbiczt5kdg6qi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3339",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

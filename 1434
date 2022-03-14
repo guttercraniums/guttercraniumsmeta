@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigrmsgpgdblvpxatcufc4s763chsdow3tr7dpshjmqpoqbtxsu62u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1434",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

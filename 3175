@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicuxtlnzrutu5nzqrk3mxr4cbpp3cptjcjlp6hioo3mnjsdcph6zq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3175",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

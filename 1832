@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieq2afzejad6hgblgxsrmrycppfpwti3vvdcwlzqjfvoczssfjd6i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1832",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

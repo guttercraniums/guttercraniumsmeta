@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihv7imt7fusstlanbffe5oo3ggdmzjk7l7cp4szdkpqasbxejeuuy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2313",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

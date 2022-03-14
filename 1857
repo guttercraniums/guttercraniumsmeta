@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicwvy6hcbe3mqhfrqgvwwjxiglcuid5s7odvrb3wl5yrl5blkzqye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1857",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

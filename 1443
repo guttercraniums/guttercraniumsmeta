@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihaheahxl7xezmdmsrof47eubq2sxtoyf3ufa4ntkpfuiyeu2itra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1443",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

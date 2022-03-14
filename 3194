@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwiacdnlec77gz2lr3bv4sxilkessnhsw55iu2ofh3hs35ip27ny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3194",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

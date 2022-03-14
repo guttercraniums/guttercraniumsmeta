@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4wdtaae5ktafmzixshj2jvek5yqy273tasfzbld3krz2kg6jram",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2893",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

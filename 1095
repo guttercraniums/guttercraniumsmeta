@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6lw3mi67onnlmi3s6g5qvbftkp7luf6nsfyq2u727fa6nco5jky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1095",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

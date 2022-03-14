@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigos5gnpquzlaedcyuo34otoxabhuiv5gypfp7owmhpka65k4nwym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2761",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

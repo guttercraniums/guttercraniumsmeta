@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigs2sf4c6nwxqjxl2rqdjvt7ztyhngpvq4vvkvsuaju2fnluztbfu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1727",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

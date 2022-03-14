@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeignwaav5bernwvijbuq76lxql7cmvnmxjzoo3yysoxawyzqnm2rgu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3265",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

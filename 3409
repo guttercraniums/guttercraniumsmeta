@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihj7vakgc4bnryhf5ttgi4hvwrgj6uaivj7sda56sxbki5glju7pi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3409",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigdfom4d6jdne3flqx6mfjfbhptinykxulaip4drtpdjpvlgkvhue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1217",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

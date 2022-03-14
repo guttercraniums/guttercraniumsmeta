@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia7d3zq4jbmrtqbjuawfqm27ftab4cl7kvsexm63kiufnvtkjdfsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2611",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

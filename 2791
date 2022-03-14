@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeighvjmazlbano3ez7edns2lemzf353nhkq3htyfuwgqtfrxndyjpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2791",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

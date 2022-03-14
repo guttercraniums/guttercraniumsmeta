@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5ol4so7dcgzhnuqyagl64s4643gpdr5kwkbgphudzt7ddorbxre",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2387",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

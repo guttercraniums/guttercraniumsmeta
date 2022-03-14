@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4flq45nspr2kzunozxlnrjbgwmtlsz7r5dp5juh5slfckdbfej4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1598",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

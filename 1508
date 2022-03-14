@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2ktnzjcpef4ii6gvdkhwryfbhukbfklj6jedrcjzlfo3fmzgh7i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1508",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

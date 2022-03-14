@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihewhqam54i3a6qv7c5dh7p6jwawq7yca6znrdsqnn637ljjk7iku",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1527",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

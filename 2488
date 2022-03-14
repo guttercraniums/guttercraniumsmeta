@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihwuoxzgxm6sz62iwnsv2v2sdjoh52n5a5doxptyfcrpgbzbaqnpu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2488",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

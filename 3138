@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif354hshfuaji3s3payu6zo6mvszk563u2msnfltel5za5nhg2q6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3138",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

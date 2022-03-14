@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihn6m6q4ttzltowa7xwxhux3cuwpji2qoynqfwvgdeiqtuwaowsky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2299",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

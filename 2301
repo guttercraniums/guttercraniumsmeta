@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedolj4zk4tkzesl5a6ravflwrlocnldvbkvdgdlacshnsdmmijgi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2301",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

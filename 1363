@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeich43wvakdc5f7udv32dzype7l2elw2e2eaz2dtjiojyl565gj2iq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1363",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

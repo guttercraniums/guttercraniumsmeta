@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5qxqgoqcsoci2tpdlkngeb4vhhglkw3iihcjramqijwft4dh2le",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1714",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

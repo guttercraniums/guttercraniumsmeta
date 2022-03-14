@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifgqaznb65kia4nofpidk6xbcpgw6i5giizhgeklppqvczjcd5aym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

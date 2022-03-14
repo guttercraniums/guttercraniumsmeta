@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwhtaxohlbvdkpkpq7k2dlcog6khnltif7rj43pc7swrpybtfb6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1831",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

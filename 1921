@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiamx2spvu7loh72cvu7mifkyar4zmh5jr47vsb5jm6n6wpiwucgca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1921",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

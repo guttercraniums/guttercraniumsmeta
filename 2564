@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5dzg5zyimnlrzsv2prjrk4wmcust2adxzuftt54otuidzqlm4fa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2564",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

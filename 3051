@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiej6m55hw4d7tki7j5wjsmpqppxzhqgjaexy4xo63bsqjh5boahf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3051",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

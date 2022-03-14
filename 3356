@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzq2fkfwlw2zsjdcwtmjld6krbscchonhl7seovzx2az5ms5o6gq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3356",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidbdnxeemrgurahzzaecj2gx274dhgqjvl4xgtky4cs33yawurwei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2326",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

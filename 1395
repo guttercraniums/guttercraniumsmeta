@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewmuranl2rautc3fbrvbboxj5h4fxdxatoom3n2xlszcyocbggdu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1395",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie47cz5z7m3mjm7cyamc47clrplrqsou52brxs7gb5ystjhrg7je4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2297",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

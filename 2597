@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid355jw3nzyg3pz54wi63sdzsaeyy6brteqgajjwzpmhb2rz2uoxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2597",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

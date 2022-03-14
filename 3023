@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibtehat6h6y52rvizmwm5cnsnqwjhgydnhhlynkbir374yba33tem",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3023",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

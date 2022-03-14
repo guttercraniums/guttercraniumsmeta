@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefu3ph3cutdujdhjv2tu7ah5hiv7arvh6ddlublbz5gbwvbs5vni",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

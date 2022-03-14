@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiehoxt6hd7mybicjbmhjfv5nwxmmbwezjox32bq5efacaxdmdty3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

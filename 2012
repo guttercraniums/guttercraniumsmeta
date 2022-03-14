@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyo7ohrbjjycpc4qwqni277w6dyutabcgsp5xpz6vq3iufyfiree",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2012",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

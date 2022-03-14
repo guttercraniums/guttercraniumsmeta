@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeign2yw6npw43mwk6d2pqmwia7pxuwouy4z3zufyisfig3d7iy3xcu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2048",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

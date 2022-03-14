@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibr4uh3lmg2nyir4v5zajasypfm7xvrlol323noujvzlif3ww67jy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2511",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibuxcv4gytiaf4dsi7ekjw2jjkm4jefacrcx5jwa2digch32s6icy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2965",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

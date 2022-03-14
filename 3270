@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihti742vd6ggqqm2mrfxsr2raspgyd444eapophpxwbhypcz2nbla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3270",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

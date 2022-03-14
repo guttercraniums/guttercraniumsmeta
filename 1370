@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhvvcxp5zpn5lozenjzgct6arcibtqo7yfpacry3vfscdbiycrbe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1370",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

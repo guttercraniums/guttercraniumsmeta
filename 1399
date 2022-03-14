@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiclv3c3oashzi7vkynl43fwbff43k6x46tu4xbwybpvpczdjee3nq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1399",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

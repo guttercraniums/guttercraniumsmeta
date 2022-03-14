@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7otsshzfgiatg3ufbhdcugtqhn652yhjgrrjh7modbfumumhedy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2632",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

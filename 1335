@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifhmmgxxx6k7hmbor5jqsuxc7o3ceiacl4qsrwaa33lyxas6y2kb4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1335",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

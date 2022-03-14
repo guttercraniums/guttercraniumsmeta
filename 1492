@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif4lq5zydhorjf7ytpfzg5itcjqgrpthpbvgsdgajv442lbzgfqce",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1492",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

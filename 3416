@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgadjjb37njq3czhxm3isqp3gahxvl3gm2kclhr57jkxm7g3b4ve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3416",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

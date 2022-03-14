@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif3pxj5tyusljledpgvu2d4y6x2qtmagyqynux5scorcu4e7hoj34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3061",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

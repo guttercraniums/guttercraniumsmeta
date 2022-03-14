@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlbkxjsvc3ljct6jpgwtmvg6xda4mopn23yfknoru2cemiwkjb5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2871",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

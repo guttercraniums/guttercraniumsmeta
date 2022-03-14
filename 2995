@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihr3xtxxosrhofcjea3s43l323mgec3fyuz63qn35n7hfns23kluy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2995",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

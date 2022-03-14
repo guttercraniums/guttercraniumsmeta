@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig5xpoo6nou2b7jmwzevndompl5pivhbfe7tgtowl6siy5y2b5zju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2570",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

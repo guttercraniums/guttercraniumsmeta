@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiez676qfnxkg3gytf7gmkosizzwc6vetgjan2etitb3ivtmcup3lu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3337",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

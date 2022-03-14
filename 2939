@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifxbzev37ovv4ibq3b4wcsnvkg5goa4xkd6vqeflwmu2x4gxyf4f4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2939",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

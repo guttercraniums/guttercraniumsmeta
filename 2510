@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihregnkgi4n7wqczf2wc6nwjuqpl76ggtg62ivmagltua2fxl3b4e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2510",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

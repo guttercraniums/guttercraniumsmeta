@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibp7mg4d26jmhgzpb3p2ir2nzyecykst7iqt7vygqzxzqdr2sk7fi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3041",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

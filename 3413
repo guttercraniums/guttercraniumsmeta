@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeienchcitc7v4qleduk3yf5eltwaroz4amtijbag5ufodjq6tdijyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3413",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

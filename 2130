@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefj5744iyap6dp4zlq6na4ptfj7l3wdekz6q6dc7q3p7vsnlfbla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

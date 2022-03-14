@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia3icmnr2qkusgnrc3pk7pwsdklx3hc2rep67r54alrs4v4gvhpju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3002",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

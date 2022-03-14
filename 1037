@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiceoz6xf6nbyy5qcqsilswrss7mxjobolcpckr23lagsg5tubdx6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1037",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

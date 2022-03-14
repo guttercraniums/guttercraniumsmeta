@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicveynr3zwuk6m3tmhdhzfwe4anz27adoptn47ebi766i2ngibswy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1974",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

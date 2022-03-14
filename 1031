@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiadyabtbt6i6eql2qct3gywu6tp46qxtddtok5iwepbbe46twluoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1031",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

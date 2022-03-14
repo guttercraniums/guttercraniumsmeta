@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid67cukdnrtlhrojvflo7syw6vf67q3m4viryrkfwjrpvlxg7ggpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1563",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

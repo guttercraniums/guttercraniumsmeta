@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiati7nioa5szgflehlqyu5stq6cnl2f7ygh544vcgyc6oakekwlaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1066",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

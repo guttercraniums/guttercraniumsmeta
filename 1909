@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiblza7l7vbdqh5rgih6z6ojqoil4cgg4mbrzkpmfskbzgyzfi4mju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1909",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

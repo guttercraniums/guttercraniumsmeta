@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifeovq5iiwuahoewqfinhon7crumdzo23kkpohirsffakjtrzmqru",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1288",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuukzxj355xj6csvsxe3lmgai6utmysi44yjliuq2rv2uspmi4ny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1813",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

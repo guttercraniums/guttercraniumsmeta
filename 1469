@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicgslqtwxg7prl7itawl4onndhm337ktcuas4izssxhwm4id3g3wi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1469",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

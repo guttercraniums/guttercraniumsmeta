@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigz4rixfilytz7lbduiiqe6it5py3grhti7a5fwd2bfxqhavitmvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1001",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

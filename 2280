@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidecqtt5zt766jilzzxlgp25fwjnlr3j2zyrfzd2htcey4l4audaa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2280",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia24dts7atn4vqpvmb2hygamvhhjekeoy56hyd3dbuupsl7cvarf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2351",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

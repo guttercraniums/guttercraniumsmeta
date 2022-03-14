@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidf74srce5umel6k2y2omdd6cp7icu7w3ojp3dvrobklhx3nurlti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1810",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

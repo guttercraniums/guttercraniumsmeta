@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieovtzox5zpxml257fkymtghmcnccupsg7xyvlwoqzif4dvzgurjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2526",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsy7mc6cbsvz5ex6f665rbj566acgaeatifenmna3cii2ynzta44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3035",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

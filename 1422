@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxqwbismkigjxvxgyvc2i2uj4frse5ye32rr7qmloqjxyqw2bn6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1422",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

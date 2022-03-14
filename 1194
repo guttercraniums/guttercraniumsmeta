@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiedej46mdamy4akt4fskahktws7q4yp3acx6qbvgvk4z4x4npui3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1194",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

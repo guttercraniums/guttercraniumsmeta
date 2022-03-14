@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidm6xgnrugvksnohm35e65no7xyt5kovdyouoruzx3yao2x2st2uq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2198",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

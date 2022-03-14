@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiek2qbp2jquo2md7c464np7nqqyrs2e22fsg7cgihzi7ce3ape4vu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3334",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

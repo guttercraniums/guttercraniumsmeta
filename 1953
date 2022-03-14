@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiciuha4fdfept6667irbtfvvfvmo2qd4t3axgfughys4ocplrbp5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1953",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

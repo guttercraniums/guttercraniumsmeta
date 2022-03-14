@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibywkay32esizkubveppl6bcenrc26syrr5cf6efkue3azxx7syci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1528",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

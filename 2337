@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeideey3nyigv4hdyt6jrmuahabcvha5xv6irwcsl5wlquldyrwjwtm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2337",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

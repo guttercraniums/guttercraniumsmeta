@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbjpvc2ru3rvqh3ja4qorjk6xsmxmsyqw42gckwufwaj3hcgpjtm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2971",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

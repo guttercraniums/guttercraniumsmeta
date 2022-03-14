@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidz46poscwjqwr5cxhny2nrqb2oi3jkzyjip4xzz526z22t4dvbqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2321",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

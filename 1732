@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihtjuqklv56hh5xte3z4ixx7s6t2hz2vicqw3z4uc6pkkzyjbv7km",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1732",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

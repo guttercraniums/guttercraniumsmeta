@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiakw4udb3bsp6oujhu7af5ynz6n45qy2oeta5zuuhlvsw7a6p3dg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3211",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

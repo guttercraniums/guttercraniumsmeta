@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif37rcwj7vuoeksmlxixayxbiaiyoa23s7bfbx47mlkgxyyk2scbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3134",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

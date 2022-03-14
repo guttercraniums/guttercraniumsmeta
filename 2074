@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeienv6kgivt65pkg2rgl5kwm2nmtgemjcdpu525egvzrqw4v474wna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2074",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

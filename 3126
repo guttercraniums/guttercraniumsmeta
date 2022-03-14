@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiduflyjuqoyvsehm5k4k2rcml2nre5bl4kjewhlt2kwin3gkrzwmm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3126",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

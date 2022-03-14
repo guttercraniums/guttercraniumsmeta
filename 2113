@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjm7f442txoq3y7hvh4fbh5ci2npi3w56zm2oygtkr32gs5mmnha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2113",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

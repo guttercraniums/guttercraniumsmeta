@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2fbx27fcimzf24rrg3wuhugoufjr7e7c7drr35akr3ww7fns63y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2089",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

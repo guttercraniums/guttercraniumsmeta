@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazp43ydb6eps756ikuj3srcaulal7cijr3so7zqbsa6jgvaimyge",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2267",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

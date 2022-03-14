@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4fri26xif3ruu7rc7h2222txdoib76m35xmc6mj7ibivfzzjrjy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3025",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

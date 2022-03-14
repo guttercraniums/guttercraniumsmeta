@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigxm22cbr7lfkh5d7ddl6nktrs3knfnb4w3u5nq6synftlew4lnqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2294",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

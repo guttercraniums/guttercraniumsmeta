@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhyu25omufuohcq3j5q42yox5wacs5uehul4b2pxf2iynicserey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2243",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiebiwbdm564h6xen43nehs3g5x6q3rcoswvew3svid6piwtoipnlu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2458",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

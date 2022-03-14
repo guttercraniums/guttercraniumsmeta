@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidtblhz5qc6h43zypzlrj6thorzym6k6vnf2cevdhpo4geteohbxa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3204",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

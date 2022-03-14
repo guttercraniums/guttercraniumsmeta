@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif54xap37kkbrfpdqohde3en6e7sguhyyewpj46n65m6n7t5ne6ny",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3336",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

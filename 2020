@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglsypqtcnrt3jgw6li4nyxgiqig4zi262e37skf5l6fkiyu2neyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2020",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

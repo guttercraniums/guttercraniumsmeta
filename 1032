@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibvtab227ox63bv4tlifjlcj2cbzn5p74pjbdwqo64ky7yklfecqm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1032",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

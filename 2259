@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigbulmqibqwfyyr7a7bakmunfiaq7svk5lyg3htac2af6pzilv7na",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2259",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

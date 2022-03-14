@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieuolp3g4ny7vk4c56gbt6svatsb6bpcsgozrc2thkk6tqrdwhmzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3193",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeierbvptffuq6prgywkkbj56v662n3h2gyodxemiuc3urfiqewvaeq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1604",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

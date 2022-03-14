@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifp3nzr5webxzuqdu5zbv2jo7midf2s6b7hauslqbl5kkxtmgqibu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3162",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

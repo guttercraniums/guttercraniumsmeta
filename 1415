@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibad3pzm6xcrsvq72vzrx4zvhzb33e5nx2u2svm6dyokhbc4erd6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1415",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

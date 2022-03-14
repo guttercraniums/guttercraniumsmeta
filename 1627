@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4wqj3tevowtbymqoftzdbsc2exqqwvrj4semimw5dg7o4q5b7nm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1627",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

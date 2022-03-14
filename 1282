@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicfsoh5v364cwutrvei4xovbk2nxmm26eg33dcpcnvupx2j3dcdiu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1282",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

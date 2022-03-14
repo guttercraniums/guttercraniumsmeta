@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihv2xlqnzup45qt7tkfd7vwgat6sibb6rtvwygatwkyama3m34wnu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1522",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

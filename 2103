@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiae2lzdvdqexkozfo7b72jd2f2yk6t4uykzwfejfcfbwubs3yttzm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2103",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

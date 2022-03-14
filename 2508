@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5k74ejm6adyvfocttkknxor5iko2im4eyksu7s2chcz4cgwvkd4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2508",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

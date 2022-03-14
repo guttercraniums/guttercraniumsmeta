@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifska74tbg26fbesg77wkmdiuulfjvoeetd6mmnjlisycyg3wn4hy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2861",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

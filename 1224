@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvn2jvxae4sy4mnvss7s7cthzdjbjgjzeanpn2tib65j5eicyqai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1224",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

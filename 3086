@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajul2uy2vhrd6b5v4roizphhind7jx55crax62d567jb3tikbbf4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3086",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

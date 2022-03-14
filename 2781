@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2wybm5rphtpdf332fufpb3rfvqvqg2b5yzyflkvifvocmn3ab7a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2781",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

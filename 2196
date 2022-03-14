@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbqzazpwnlkosfigiyfqyvfmzs3tr2mjlzibchexflsy74ivnvxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2196",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

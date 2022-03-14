@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicotlvaywzowc2bknpmkspzz7fqfqg4tlaijxm7w3suy3rkpnlxey",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1380",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

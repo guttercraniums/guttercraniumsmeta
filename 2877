@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaiwbsuwo67bopopkf4b43lag3fakcvisx6fhokizvlpstwplgba4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2877",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

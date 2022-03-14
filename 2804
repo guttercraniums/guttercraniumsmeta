@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7bub6ntkvxjj5sarqierttdq2kdnt5qelfw3mii5e6fo7yt76uq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2804",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

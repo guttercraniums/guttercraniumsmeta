@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3hinxzlfdja5cztan7r6ngfs2kfdds4tthsepmftcdeafcqdokq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3354",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

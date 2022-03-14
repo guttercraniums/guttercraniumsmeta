@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmhg65uonvujrqft4so6f6oevvq22ktq4f7ovmbakrwcjaz7fc3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

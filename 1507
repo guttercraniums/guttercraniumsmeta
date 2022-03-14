@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7kh776lbw7m2lh7ghd273dvvjeiwisonqjeuzrovu2xrwafzbva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1507",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

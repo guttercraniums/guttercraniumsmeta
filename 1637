@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeien7wdn4e2jonp44knrjiwwbvbubbm4ee5b7zcrs7j5iajqopzjze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1637",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

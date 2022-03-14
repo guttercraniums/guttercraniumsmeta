@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiarhgd2gedjwedm6m5ihzqe2gkznobnnbw7y5vgpjybxr4bjc6iqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2251",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

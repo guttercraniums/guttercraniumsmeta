@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaj5jgf6a6lrjoctwhmegmz6sg3qeyfibdvlssodpnb3yup7carae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1103",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

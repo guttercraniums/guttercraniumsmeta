@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihmcpe65pcvxawyehoxv43dcis6fn7fiw4xdip7ew3wt2yqz3nbbu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3145",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

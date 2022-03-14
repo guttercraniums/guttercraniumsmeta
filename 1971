@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpjg2d52roj6s5dh7nonmh7pnskvqmkjbngchggfeczwa5uzmmmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1971",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

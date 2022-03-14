@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibm4ishawq36ack55tokmh65dgmtzjl7bz6bptusq4zd7e3q3krzi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

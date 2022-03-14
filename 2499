@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibpbonfa46qb3h4svg5pseiskzre7sll2kb7epe7igcudtbatee7u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2499",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

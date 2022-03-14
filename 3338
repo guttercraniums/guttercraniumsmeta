@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidih2hxzrqknvv3sfmphrm5ject7bj3hfc3szl5xcsw4mmjbvcqwq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3338",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

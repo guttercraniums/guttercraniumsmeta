@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifw6xyruoje3ezj7pvqsncscgtskxksmyrhdbwrqqjqkkj3ydb6wq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1234",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

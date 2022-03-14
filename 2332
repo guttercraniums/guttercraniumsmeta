@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6fqu2lq4mqak6mhsfs6r4ji7wqbdhrj4hc5xid225nxhld263vi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2332",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

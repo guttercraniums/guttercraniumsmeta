@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieb7veda4lhn56kfj5fd53cng5o4brxrwxzqjpfd5ivj2pvfqhfea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3100",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

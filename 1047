@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidw5ff5q4vp34jcizvrak4cccgtwjba3n2z65re6tyj2gtkjnuu5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1047",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

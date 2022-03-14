@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifynbbtoorzjuod5ptn54pldfzfrgoarsdweh4c53khib4ecveq2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1349",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

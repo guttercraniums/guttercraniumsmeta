@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqcwmjwmc3unaxy6xtde2imth2y5zcodhowklbssf432cu2puspa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1152",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

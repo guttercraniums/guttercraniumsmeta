@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibicok23ufsel3y6epjh6rsyqq5npsgomaf5kw5i2w77dvqihx3aa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1901",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

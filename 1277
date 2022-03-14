@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihll6nybgkphp2zmshlgpxjcwqjh6dckjybmupo7jzpesbmbtfjve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1277",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibnkmsprrxi57vp5k56vrmq63x7ulk7ankvgjx6ht65646glyiaiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1596",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

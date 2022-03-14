@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigsxrz7szobds7v7adxqsx5xxynum6bx6ttsiqp7a4a5wmvsdpfqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3262",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

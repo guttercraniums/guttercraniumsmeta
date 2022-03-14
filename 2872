@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiexfw7der2iyn5lj5sq23mv52jxxqb3wuacetgeq4i6vehynn3gwq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2872",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

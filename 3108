@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjtxt2w37zwqppgoiinigccgehqcv6m7lqk6qptbd2avox3w3dwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3108",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifb646vyugrkqk3embyobu677kpfc5qccsxsmi74sghv5xsn3wv5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1338",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

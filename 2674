@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifrrwv2c3dem7mlgzmnjor2vl3kfpm7wnpombf23zj63kgotgztgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2674",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

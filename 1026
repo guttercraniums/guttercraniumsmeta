@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeida6ast7sihy7dfhir5whtiwxzcon3jve7o4k627v3ukcjsam4nbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1026",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

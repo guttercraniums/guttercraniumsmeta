@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxhbl7zdi2t6cl72ui4jpctdhndajsid2vr7tuvlbmckql6lorva",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1961",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

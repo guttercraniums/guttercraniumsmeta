@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwui5j2ufl7srubu4eqxzdvsvgsvyz6kuwk3yblpj4vgwtzbkf44",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1842",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

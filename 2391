@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4va2kdnoxvcx3yeuixgwljnsnujpeiajpqe3os4zcytfis2lscy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2391",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

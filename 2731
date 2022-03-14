@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifjmn5owpbfcbondmw5m4eb7l7oalu4abh3jghhkq6x2saq5chl6a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2731",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

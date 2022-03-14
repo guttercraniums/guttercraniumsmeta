@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihossrx44ijo6644aehb3rmi5vs4oy2oh75rmr22c6znp6ehw2mxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2807",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

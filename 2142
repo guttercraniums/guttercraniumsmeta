@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif5ilvmfruyzz4bhhv56e3qqtfuyhfe2esezj75dfoep3t27xgv3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2142",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfbervu7rmvmtsp3ihcxbekbzxkccboq2dwjem5qy4ghqtm44qom",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1543",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

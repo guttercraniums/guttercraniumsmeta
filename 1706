@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibue22s6xv2m7dsfzpbbwhbym4amdildvlg4g3cc3z67w57vox3ta",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1706",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigttbz7is634542nsafggoppn34qggl5zpw43o3k7ag6nywvau4yq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1599",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

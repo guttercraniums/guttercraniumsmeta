@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyvm2nbnmwm2aqqtl73abn6frkdn5d7t7p226secm537gqg5i2jq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2762",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

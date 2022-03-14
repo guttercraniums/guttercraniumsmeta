@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigltvbawxj5vvyscgmsvwlt45272v3w6j2gopsk46uu5e72xwpnia",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1633",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

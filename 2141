@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicnmzdkudhdhiruhtysbs4ldqy5ghlfznrafni5temvrs7k5k5ohe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2141",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

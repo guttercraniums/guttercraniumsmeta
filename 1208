@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtlye5iribbii4aiqme2nh6a2gexzm42bkhr3725y2n7qxhv2uzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1208",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

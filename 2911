@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglw3za5gfi33wq2zyxq5zqga3w57fkgdvj2mfkelsrirmy4dnjtq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2911",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

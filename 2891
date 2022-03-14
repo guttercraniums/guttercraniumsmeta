@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihw5fs2pzpco6h7sivix4ccwtltmg7ceex5x7peidpyrpevgrwtgi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2891",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

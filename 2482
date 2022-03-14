@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibxjagbfyc6tsvoadrpexsge3dku4vw3r3ksg6ebo7veeiy6shi5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2482",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

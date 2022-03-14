@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhnh6r5oxtvf4dbl76g3ockhrqz6pr3z7tzju52u7kd2ynwub2ui",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3095",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibnpmnuuzcjlatktehxi6dfwljdpmniksuj2df5tq363wwi2crhja",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3088",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

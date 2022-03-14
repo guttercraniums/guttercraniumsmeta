@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifzngf3xtxdre33ndsatlqdfhjod3ajsyyyov34nsqt3s7cr4iyu4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3135",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

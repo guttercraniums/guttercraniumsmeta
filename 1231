@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihqbctaa34zwufbuvpqvceibuz7eftt6v6hwczzybfodchhjccy7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1231",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

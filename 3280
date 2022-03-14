@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidjaseoaihsa5qhsvmicfj64gyj5rutbomk2tjv6bydsycdqc62la",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3280",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

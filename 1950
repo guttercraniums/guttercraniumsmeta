@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiddd2uogn2xokwky7zmajdble2mscg3mnt4ej2t7fs3brzt33wnym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1950",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

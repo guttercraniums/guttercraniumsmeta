@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidaqxmer7eciyu3kqayrxewdtrpe3a3ef37sadmimnlrw3jgre5ki",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2931",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

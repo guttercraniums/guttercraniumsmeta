@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiee7ofrdtkik4pmytx526247jiwh6jjnijw642hybjmkngtkuugna",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1962",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidi3mirwlavd27f7o2jpdavewhmf4zfs3qpciqy5twbmpgjbtmioe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1993",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

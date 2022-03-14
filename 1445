@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuie2ag2f224wrkcyrgz2ksc5pbbo2pd2g6mxk263irk5xkrodme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1445",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

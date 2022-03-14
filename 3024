@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifhly32zso6xqtbx3vyymdlvab6ruygt5tyj5ejwlh3xeewdfnmzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3024",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

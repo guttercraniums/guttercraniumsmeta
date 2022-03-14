@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiek2jpppg2lenu676qxzjya4ailvsaby4zbrucajvrgvjnogayjiu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1000",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

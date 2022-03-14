@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih4ps4mkdblcmq7ntkx3gdrgn5qvhgjrxdh5ut7latt2sfxls2efa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2805",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

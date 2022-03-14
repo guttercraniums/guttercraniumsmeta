@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibpu53lawygedxk4d6n6r2qdavh7mf3kt6or6bn4suptclg4vv7ya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2232",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifhsnilbl3flga5jgnoahp5mbpgpe7nodohisrq6fmmaalglarpsi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2938",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

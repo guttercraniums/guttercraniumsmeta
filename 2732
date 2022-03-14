@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicldj4z3fd3t4tfba6czgrneloekq4wedkwpuwm2qkhbc5sjzq5dq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2732",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

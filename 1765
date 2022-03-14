@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiefjsc2qfobkxt2cwbdpnqwzpys57bv5jqi23s7tp5ho5ntb22mgq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1765",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

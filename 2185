@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiersrepnv77skg6vsclff2dhls55oidotinkhk7asqkupoqqgt2j4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2185",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

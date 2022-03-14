@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigy5plg6yqyino67z3ttxdans5em3vtmlpqtlixgzos5fvfunqtke",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3017",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

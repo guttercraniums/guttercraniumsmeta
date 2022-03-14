@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidde6lmj4nhucrn7c5jaz54q6gms3o3vbwhkt3z22ba7e4urobtce",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2734",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

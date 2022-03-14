@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifx6q3qtx57mp7bjnql6bh24ub6jrr5qfdyu6qcnzac2dgs6fyvsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1811",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

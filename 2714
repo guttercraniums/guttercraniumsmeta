@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic6nmf72orjm2bj4ocafupjcibtggp4if4czsogrd4drof37ctx6e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2714",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

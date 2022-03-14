@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajphtzaziosippoqxxqy25f7sox3hsgsgpvvjaa2yvepicy7wcti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3098",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibtbajfesxtomgsuqw7d7qcr7mb4t63esbzme73loop7hc6u3yk2m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2688",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

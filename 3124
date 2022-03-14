@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihfaykb43lizhzosufh2wd52s2bofiz7bmk4bthmnsvbhot5nr53a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3124",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiay4wdkz7asfsh4gwcl2pv2gtiv7x55jvo5rdayuk6rschtp6pi5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1611",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

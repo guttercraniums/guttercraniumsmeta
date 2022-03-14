@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifydrp3ygdejiq5as5aaivifqvf3iyeck6udselezmn3juuakyq24",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2758",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

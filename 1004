@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2ypwjcvvhzdvdeyvzr3udqx4gf6grg2nbzsszf5hpvv4w34bwme",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1004",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

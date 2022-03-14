@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihpnnuqrsb6g2hhtvfh2b2ygwqlj6vyepu6bgrmct7ppm4udldqfy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

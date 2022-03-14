@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiayqarrga4fysrtcoo2xyxgdktiiicom2ynf4rfw5j5fyut2drqd4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2863",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

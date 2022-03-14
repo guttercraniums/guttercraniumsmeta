@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihbrirhzd3neajbho4o2bkzksdum6gnlfzq5tpjkb4gqe24fmbtjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1505",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

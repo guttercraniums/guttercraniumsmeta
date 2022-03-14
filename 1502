@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeias4u3rlr2fpfji4ybtjktudfln3a2nlqcgmogpcll5ozm7guxbxi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1502",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

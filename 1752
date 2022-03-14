@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekfjxygpjcfgw45xijfviaqh6rqfpqvi6gfsx3ilevtb2wgc3kmq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1752",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

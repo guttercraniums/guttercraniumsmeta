@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmeygte7z64rlkxbi73t363simyzx2ebdtoobxgou5jj2hubiwry",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3357",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

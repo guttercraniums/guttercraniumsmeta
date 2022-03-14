@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad5altfiodg3f2odsn6mjjnl6n5xsxv3zzta76cs6okxwbts2mrq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1922",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

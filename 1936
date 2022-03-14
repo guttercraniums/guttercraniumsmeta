@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqcqfjqydv4hd55suuxtsbn5ve4vy5f7t5kkq7m5pgqvovnsmcwq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1936",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

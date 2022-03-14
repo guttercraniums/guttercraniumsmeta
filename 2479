@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqj434zu3c3my7hmwn33wj4qnlcnppcedajrwl4k34qfpc4ghtpy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2479",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4omk3vq2u7oxvlm3vwabxfvl7d2dmro2dq6o5ax6wq4vymvtgk4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2540",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

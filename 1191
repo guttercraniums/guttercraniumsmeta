@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie62iz4cmhu7pkxcfy4srhl2th6pycehqqtjeo3olrdxma63qs2kq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1191",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

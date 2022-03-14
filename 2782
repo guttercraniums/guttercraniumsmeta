@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiccuudf3uijsx2jribnfkrtnfgxki36te3d426fp7aacfxyk4sowu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2782",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

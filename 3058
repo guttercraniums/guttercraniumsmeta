@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeides3bvahfcivmunyuzk2gnjg34i7veb7ybzarsghclr4kxmtv7xa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3058",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

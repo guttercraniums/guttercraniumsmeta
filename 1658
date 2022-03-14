@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlp6ytvolylxfsmz4dfgqq3z67o66ucjiw6zrgzbiwh5hg42w5ci",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1658",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

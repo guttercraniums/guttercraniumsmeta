@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidd2v32middff57aafwhv6c4jshvhaanxt6gm6twt4mt6moyhhegy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1262",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

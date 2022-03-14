@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3hxgxacnb3f43ggvnemznevvgw7exsf7tbfqonsii2h6we676xe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2430",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

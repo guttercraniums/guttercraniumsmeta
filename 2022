@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie5zu2nrrt6ysth2k3bc6fbpuulcy74ix735afphde5f3u7yhj5ii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2022",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

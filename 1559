@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifkywajhc4jecj53thewailrj7527ye2eachnnsghg2vpnpyf6eae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1559",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

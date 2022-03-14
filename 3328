@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih3nn5qm3djyzsay4u65ruujapspxjxxkhi6wxfighdnlvg5ywzsi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3328",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

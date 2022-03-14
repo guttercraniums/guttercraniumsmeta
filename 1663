@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidckzm2ujgeerglj5wfwdu5qpjmihm6s7iubylnyqmtwboitjtrqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1663",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

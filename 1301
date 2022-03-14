@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihagz5cz3p7jtjcnyohxsiotgwaf62a4cux66s4lcpbhc6r2unlkq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1301",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

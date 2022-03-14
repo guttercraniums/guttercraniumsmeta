@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkxoc5544qiy4nlofxchhgmj4d6ootrorqdxkl4xvg2zh2j5rmcu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3110",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

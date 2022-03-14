@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemxxjpvyqggcmkgs57tewn6l47qa4j5a3ikgdr3ibyd5cmin7yvy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3312",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

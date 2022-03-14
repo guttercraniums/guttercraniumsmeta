@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieogtzj3ks6qk2aj72cahccbzdmy2veopj23pddbptevhgwi66xza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2903",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

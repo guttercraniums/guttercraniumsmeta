@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigetqkleohgup3bhamx7z3miqok6piqa6synxyxuzxlbw5uxpbgca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1460",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifowmn2ahkpsp2pqh2jmohywvkdjqqookacsldqjgsyhqnuali6ve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2244",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia52vdugrxnouoeshikp4pzwcuc76jabrtniheoqtdcc3d6u5fxpm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2140",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

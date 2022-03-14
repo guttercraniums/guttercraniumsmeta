@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2k45jjr6bydyg64h3u5udlzfw6ybzwzeadxb3ar6zbn6epescxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1075",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfa4r5hiv3zhvbijsuukbjzk2osa6rorp4krn4rtvszzyi5t57yy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3054",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

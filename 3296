@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3ll4hfc723n3tzxurlchmzqppi3wi2oo6itolsvonumrz7ty5ai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3296",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

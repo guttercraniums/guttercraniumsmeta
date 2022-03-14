@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidogr4sttvavdamj7l4uq2fsyg52tr5r5efwiic46hcertb76rtjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3139",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

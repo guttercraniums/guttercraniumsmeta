@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2myh3z3pocju4atvapgdgr5xlktglijhtsn6kojyom3xlzanmiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

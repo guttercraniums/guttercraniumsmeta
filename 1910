@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihrnzgurw67zv2b4rksxtqypn6o3duct63hnrjnwsclnt2vrdgrdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1910",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

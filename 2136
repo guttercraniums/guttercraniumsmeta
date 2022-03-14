@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvsuc7bu6ttgnltauec7dcnwqludlmxhrj33nuubh5byk2daheru",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2136",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DreadsDos"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

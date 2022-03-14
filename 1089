@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihczlaeetx4zewmeh6leitaombkzmcps7bu27zm3kp7oev5wac4sm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1089",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

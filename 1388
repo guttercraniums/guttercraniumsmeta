@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieql7pt3k52iiizmyzazsulznionbccszhlglbc6iqhrovfljjzlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1388",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

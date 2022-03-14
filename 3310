@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid7w3ey26fdsf3db62qmukhneifdkw5izb5nyfwyftxppb5lhrl4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3310",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

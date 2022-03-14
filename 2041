@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicn3toq6azvgxqsneqmhshdh6oqvgjuvgbcnlfa4hivrq5bys3fs4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2041",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

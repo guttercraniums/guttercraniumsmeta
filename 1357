@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidgmog5rbgjpxwx7bdxjoosbh25j5q7aqhtmfdoo5wrh2pgl6ie7e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1357",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

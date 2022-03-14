@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicbmsy4eaf7wtdmk3j7wippykscqd2fzfkag6dxu5a72of7byguie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1162",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

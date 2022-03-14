@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidg3kfor5w6525aybhgaqg2exzzcoxjyzrx3qgbvbzmmesnktmxxa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3075",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

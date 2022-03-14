@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaw77uam56n67y6w75szbjomhqgygzydep64ghdwcl4wolyv5ydpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1015",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

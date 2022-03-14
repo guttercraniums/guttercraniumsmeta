@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidsylytyyeuf6foa5aiyjgtetu2xfjnse6seox4ugamnymamgwvqe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1411",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

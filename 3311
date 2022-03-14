@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic543oo6jltk3x32vl7hvj22mkqnmc2aqvlfsb7gknvy6xev3ouoy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3311",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

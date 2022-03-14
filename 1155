@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibmjxe655pgfjp346w5fbpfk2mybystc2bw6igfk2hhyym7l4aqnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1155",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

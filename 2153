@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifthlen4pwh7wllpvumazf74uj4vpm5hgi47d6cf4p2usb2ilrrgu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2153",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

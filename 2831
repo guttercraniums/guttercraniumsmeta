@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifpywdcrz53avay3z6igjwe24ezv6ohvzt4fo2mkhjw2a2cok22gy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2831",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

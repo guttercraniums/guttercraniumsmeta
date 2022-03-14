@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihukxrhovl46autiu33a2ep7kxumv6hvzdnwszhqkang7vp4f4rum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2164",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

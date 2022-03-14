@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6xnfetlcyjxtyjqy7iqyzhejxcbxfp7tj5sa4vmt7rpfdrnmndi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1005",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

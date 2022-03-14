@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqxh2cvyyepoit7xgodefy5tf4d4nsk77vo5xirplk65fqjuo7gq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2308",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

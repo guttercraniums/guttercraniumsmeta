@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid2r3geram5nfpvmnezitdkevbg7ata2jzlxo22gt2tabqxtz7si4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2668",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

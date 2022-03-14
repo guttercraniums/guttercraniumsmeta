@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkryqhsrpi2bsd34hcjcvsngm5wwzjhkkr7vw4rn65d6kvw7b3ga",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1081",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

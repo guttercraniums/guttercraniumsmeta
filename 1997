@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiep7yrepiglkhiqtkxggu5r4fuwqpp45362ifxlemsdhuk7rwxbaq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1997",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

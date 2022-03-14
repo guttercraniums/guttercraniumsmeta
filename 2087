@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibo7xslxodo3dn27rsbq3dmhdr46doen3utvzyefetxk6v6v44bka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2087",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid6cqg4tccbn6no5dwxqjmaplptrnmosghkxh4zmuxewawkcmctqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2101",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

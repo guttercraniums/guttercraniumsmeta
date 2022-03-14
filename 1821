@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia2jirjsuetoduyvfjj4ucg5rk3zpakjhrjiqxds4o73biugi37y4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1821",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

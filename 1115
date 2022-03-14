@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiad6xkfnksch7aoa4ljuetqndayet6har76wavsioi2rntiber5na",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

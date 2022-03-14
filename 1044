@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazxvkcgo343ktw3z6fq2z634y6qbklfk2sp4yishg2f5t6qe32da",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1044",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

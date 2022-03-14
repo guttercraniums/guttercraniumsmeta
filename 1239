@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib54ggfpsejwedbyyzrorbenp3lfiruq52vaq4swc4kyesaxuuemi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1239",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib6t5ejy7woubajmx4czifir42zn4cgue3uyht7wxgctai3u4i5yu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2922",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

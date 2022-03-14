@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifod44qeq2r2a5okppyg3rtckdxxki4kcn7hgopgoncjf7d5r4qjq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1715",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

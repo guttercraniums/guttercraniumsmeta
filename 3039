@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifse5hjpt3isdcgsrkziwq5vgtixahntugeec52ry62yaiqzdhve4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3039",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

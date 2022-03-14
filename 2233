@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieunz5d4fevyton5gtwpp2s4ji7hlha3k3nh4qe5gim6zw5yinclm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2233",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

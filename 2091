@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiajjm3smjxb2obc4kxcak2ybzren222nkreu3rp7stjf2x4eroquy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2091",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

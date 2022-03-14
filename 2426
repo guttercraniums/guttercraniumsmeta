@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewkc6ufe2kr7ph6bbw2z2cjzmg2ux4x6jkuwfwitddzs5x5wihti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2426",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

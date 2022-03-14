@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic4zdejed4af5ei3ohzqad4de6xknuix233wb2gumrp4owmtjouee",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1900",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiae2ltrjupk7wn6keqemndz6j32d3fbizh5orxbxxtnyvxc3bqemm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3022",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

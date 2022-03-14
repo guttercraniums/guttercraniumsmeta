@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6kpbsuysvdqtn6tt5wsu47pwjwv2o3bddapn425ewj2qj3w7jxa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1409",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

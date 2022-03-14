@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibamhley2mnlfvvppwpxa56knfmvcmd4thdpjwvswf2adpadfgepe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3149",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

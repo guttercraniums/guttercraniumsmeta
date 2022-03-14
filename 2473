@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7rg5x7gqbrubc3yvretth23l3ubxqun7a77iiw3q235kr3fx6ha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2473",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

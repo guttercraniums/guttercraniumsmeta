@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidccioya5njbohtb47xtwueizzjk52gkzlne56ievhg2iihx4o2j4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2679",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

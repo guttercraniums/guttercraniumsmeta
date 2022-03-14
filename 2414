@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic642wrepnjaqfs7d4jwrlhnhbeon3xssvyuew5l3jixsa3g3be2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2414",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

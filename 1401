@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidlprz53pzjpb3ke2e4fbdil7wnwhttmkgq74iuaxuwe334rk2mhm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1401",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

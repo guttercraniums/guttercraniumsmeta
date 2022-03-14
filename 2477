@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicdhojc5h2r523o5mh5rvdoeuvfi4tq72pwvggkscab5kyx72w5ye",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2477",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

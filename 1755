@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqa4y4lyv6rdsbb6optek6ecuyhddaqxjkf5skf2authzvg7ogbq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1755",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

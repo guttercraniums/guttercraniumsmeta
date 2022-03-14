@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic3hpxmndsguddmz6ytigu2ep753li5iqt6xbdkxvawyqzwto3dwy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3121",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

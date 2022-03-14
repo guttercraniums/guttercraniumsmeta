@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdfpcfdpc46xzkyewcplbouummgsyx5wub55gddfalpggopamy3m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2980",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

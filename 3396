@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieoxepikl7j6en5xt5ehenrrwxcg5px5towjqsrgkdlhak7ve7vde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3396",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

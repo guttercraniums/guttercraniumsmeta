@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifnzrr7mbsc3j7itx3iymy7jptzjqup2b5s7tbepfh4pvcevulsha",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1820",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig74yxe5qknwkwr7h2kxr6dw7irsh3fmbadjtlvtm3taaowdibspa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

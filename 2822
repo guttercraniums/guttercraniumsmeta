@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigyylx7m3fccene2jrftmhvp3f7gj6u32ytzt3ndb3fr6knhm47wq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2822",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

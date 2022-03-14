@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieharxjse4ak3vkqelkeiitu6eswi5qkpztf6wf4hhs6dawr5ixgy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1872",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

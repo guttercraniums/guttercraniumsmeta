@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigw3azs5fryzv6bw6yu4nnsr64agzqocepjz6a3siw6ifhyoororu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2748",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

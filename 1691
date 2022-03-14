@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvh3hpinri5nnvtbpvgdc5huiual3sgpapjamafj2fyw2yyr5uoa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1691",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiakjvlkfksigso3f34uhpz7kzgmg4pdxex5fap6wypdaxuse46nfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2825",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wired"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

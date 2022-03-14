@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibwrnwchgvq45w4eoregjh3rxrdpssu62a3gwm6jauwpmhjaezqei",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3161",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

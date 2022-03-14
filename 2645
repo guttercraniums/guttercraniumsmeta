@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic2xvlxfl4qtc2uwtmyhqtlkliwmdalfugbkqe75kqwctolwyzokm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2645",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

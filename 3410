@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihhr64a5ozhtcled7ya7mm7hpe2fvn56m4jl7qngxpyt6237wsu4q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3410",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

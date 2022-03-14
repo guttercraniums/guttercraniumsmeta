@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicj757ab4unwpo4spsfghegrigw2p76h3dbtgv2vxnyissbn2dlfq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3069",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

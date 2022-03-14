@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicq4vbmlzzglco6ormxlwularl5hunwd2vjlnw7z47rypi7p5nude",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2023",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihinycrkq7nhj5u25mrb7zezjo7qq2f5ztbxvxpwe6jybt7szhzp4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3057",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

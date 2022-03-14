@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihywfqlz2krvxsrg6pinldl3ahod77vjpfwaucapwylywgvucp2ky",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3106",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5mv3tyh6wnojzepsdph66657lsumozjex2noyb7ah7fkv4635gu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1835",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

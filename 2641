@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihvxyvlsrurgerk25qmnhon6fozn6fc7w3lyth2o4lbezwbmi2bhe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2641",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

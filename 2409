@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifoile32qzzqk5o2iacemdhonoo6b2lk4fcd7uoobqamkz4tmwanu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2409",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

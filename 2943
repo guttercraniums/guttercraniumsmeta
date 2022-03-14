@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif45flkusbz25w4sncwalldtp7eg5sjw72u46dii5kgdmv4hvnfzu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2943",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

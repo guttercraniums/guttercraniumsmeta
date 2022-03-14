@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid24nhzpk4yjjlb3j6cljhvlx5qpip3spc5orencjjxzyffwjobvm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1232",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

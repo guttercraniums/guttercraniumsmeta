@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiagf7ial5e7e42b3qgngoaholdvsuy7eumqgmj5bupplcmyc6uqg4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1561",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

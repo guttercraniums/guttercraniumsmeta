@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazhy4n755q22rbcmriusjvm6mj2pdfsgnvt7wplbl7c462agqccu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1265",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

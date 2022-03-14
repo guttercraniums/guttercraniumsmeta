@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaxrcwmnf3on24c5ozws7ss6elybpuar7vtoko7zpeqm5tq7qeuka",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2494",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

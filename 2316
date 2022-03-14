@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicv636xp3jlzzuorwt22pbfuchqc6fjgddgjcslybnpl5n7mwmt64",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2316",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

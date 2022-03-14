@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifvv322rfpjlqorwd5d2o6bsecsjqvlpwr5hccduxybrs2mz3blum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1082",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmzjka2a3scgi6mia7bo7trivymhhffyb4hoh3c4ghx6bd3p7txy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3316",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

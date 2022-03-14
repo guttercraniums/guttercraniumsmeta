@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib4z3c4eudxktr3t62anvkqs2xcfypekvy4v6thfg3cd75iea6kde",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2738",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

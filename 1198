@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqugnmtoh35otg4dwy4gdlpyehs7wvyyrh3lpst5x3bs43wckahq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1198",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

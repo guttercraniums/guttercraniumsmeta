@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiazotmy6eflauvdgdi27wnz2q5vgpaaa5owc5ze3eykt5t3hmgclm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2107",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

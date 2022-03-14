@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcz3rfwsz4apsigyi4wadyipg5zoouigpm4vivzzkbxfwfjtgbze",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1846",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

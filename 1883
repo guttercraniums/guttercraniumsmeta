@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihsjuh26ze5qw6tvx2hu6zr2srz6p43xvrni2lndjumadvsqnwuea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1883",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

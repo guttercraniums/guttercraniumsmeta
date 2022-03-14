@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecw6n4jafjaoayltvr4lavxs7qcrby665le4vdhmgazy7upataca",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3180",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

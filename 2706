@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibs2uvbmw62i5sqpfwra3dm36zkrbw4ymyhkjf5pq2gcliu2c55se",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2706",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

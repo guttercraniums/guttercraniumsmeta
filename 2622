@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicjlha3i4hjx53s4ycnnvp7z4hy65wa63d6yrqlbcf3dj72uqg47e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2622",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

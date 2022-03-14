@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihcdefxo4zcy2fodtunoo2w7i445q65htkjfd45edbhddktcjbzty",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2242",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

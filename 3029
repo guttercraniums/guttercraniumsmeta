@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigon3txu3q3r46nvxbbkzo2e2fj2djx76kw65ic2w5zlcnuu2v56a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3029",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiglniiiciokd3xht4uqwgthpu4g4h7sa7s3gcjibvgrklbrgftrie",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1595",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

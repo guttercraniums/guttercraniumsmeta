@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2hwaambjlhwx5k2zhl4qw2uhlxvis3ou5agx5wepywcajhgn3bu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2529",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

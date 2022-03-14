@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgpkwzrtrove6xpbzstkwy6hc5x6dw5asmnv44uw7mxojlvastiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3322",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

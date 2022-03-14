@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibjaazcano4qqb3phcwx7z7kcqybrepk7342v3qbo7iuj7bcszzti",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2063",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiahhtzjyge4dtidk6nws42kn3lye436rwvhs2hdcw6pwby4snk5uq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1905",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

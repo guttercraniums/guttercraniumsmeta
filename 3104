@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihgkf5lkcbrnlx523xfos5rj4yeez2o2kuror4ardjlcrptdcrmmm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3104",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

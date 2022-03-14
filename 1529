@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibdrf5qxdhslvgbphlv4z6oibw3rjsk5znjx7gfv6iif6zbaezyou",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1529",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

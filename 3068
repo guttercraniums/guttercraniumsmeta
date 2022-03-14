@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihncrppj3et4njqplxk3cv2df4li74ccsy3dec3ifb3gcice2hb5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3068",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

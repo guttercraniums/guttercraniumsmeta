@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiflmild5uoqjplo3ub2ugo5qn7snzodlh5uxqex7ymahcz2o2nsq4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2728",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

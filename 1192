@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifichvoxvdh3fr5xmrqtzm4evyv5bbidmxvaxfhnk6f4r4vupqubu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1192",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BulletBelt"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

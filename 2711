@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiesp47nmuin3s2gi7eew6nvuk5yi4c3dun2cmwf3ugqp2y7vyya5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2711",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

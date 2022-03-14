@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidqfr5tuadkdfw3iwnc6ptylfj2o3vfgnmcfvo5uh4re53ek2ubjy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1726",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

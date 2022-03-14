@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeideidkg6nm4e6pwo56vmnky4kaw5wuzjnizsyw2rmttkkgs2s6lsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2427",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

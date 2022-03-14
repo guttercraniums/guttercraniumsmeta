@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihtsq6mckrqkwmrgfjfcrfstzpcuj244iwofncuulqawfivxgw2nq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1417",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

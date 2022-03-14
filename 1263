@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihajcapw3qlf6s2tvxgyxu4wkbm2w4jmjtqmiunktam3ebowcy2qu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1263",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

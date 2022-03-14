@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie4u3rr47dc3gla6ccoxmrp3ka7dzj7vlmcvzpjctolnrt2zlcbqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1681",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

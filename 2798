@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidlnkh7nksx2rc5r2z77wbgyceq4hhfevm6cavciwlhtcx6efjd4u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2798",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackTurtle"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

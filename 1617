@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2dvp7j55bmyic36rdqt4q2mhofndnrpuc7ygtiyyh2ewuumcqru",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1617",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

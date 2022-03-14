@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicvkrvuskqsljfijjzbiv2ahvpeljlla5npcd7yfolcacrtn3uupy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1034",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

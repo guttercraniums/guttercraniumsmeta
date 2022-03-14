@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2qvp6ympjcvqj3hsulhuigwjbx3if66mumccfxpwypqx2gncl2e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2161",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

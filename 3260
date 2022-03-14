@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7mrc76pwhqkvam4qeiuykt2zhk3uqp2v7nt4zbpzk5cxrr3mzau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3260",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

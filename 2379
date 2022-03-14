@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieo4quiump3nv5kze7jgjqpxwux5qoec5wn32ktczkau5zajnk7si",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2379",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

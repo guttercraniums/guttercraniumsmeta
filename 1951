@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicmgdnmxpv27itudvlpfy3lltodk4dmn67wyvx6rixo3dj7snuvi4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1951",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

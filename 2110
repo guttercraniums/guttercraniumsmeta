@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif2so7l4zua7qyt5fl2hnofarvgcgihra7ueqev4ej5orcnfmflba",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2110",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

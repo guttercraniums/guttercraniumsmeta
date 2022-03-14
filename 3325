@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmm4icb2ydyc7w3h2p5a3ei54lhcqh7iag6tztx6tefcnronrfbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3325",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

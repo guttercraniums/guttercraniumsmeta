@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichpmrve324urgml4tnww544pgvtzlxypjg7el47xedmi3fzq674u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2839",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "GoldTeeth"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

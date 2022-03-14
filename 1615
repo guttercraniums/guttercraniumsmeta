@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid5ecfhbkfjhiphywkmuyp6dypqxfrdku3cewzqpvqcyectkz5iza",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1615",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Trackies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlsgta43dtrfln34s7y6wo57ktjjjnyyxhbcomoi6xmjqf2njdqu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2796",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

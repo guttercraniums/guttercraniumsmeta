@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiffpmsvnxc3z6sj4bcpoekhxep64lfmhrnxcnt7ykkiipln4tkc6u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1565",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

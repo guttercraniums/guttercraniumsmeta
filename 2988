@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib62nz4gbbjt6lmzibryfpb6ygc3keig6h5o6jiwdbd2cgnjolzai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2988",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

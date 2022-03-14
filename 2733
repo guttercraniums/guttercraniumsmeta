@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieouqu6vdr24nhsm5lziilu4omxw5obtwav5fy4oo2h26vrmqck34",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2733",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihkw5a7c6r5g5qatqjfrdkc77yrsxk2gp73yqq6lkpzrgfsahvsnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1222",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Loonie"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

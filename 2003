@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapgenyqmh5mqmimrypyhblk4pwdknz7xog2gjk3a3dwbpak6enyy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2003",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RedBeam"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

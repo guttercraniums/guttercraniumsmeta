@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihlualx4ieqbrxrom5l2ifu5emrjjyzconl72zqqfpbdr27u5q72m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2024",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

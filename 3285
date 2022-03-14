@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaf4ns4btvfu2lod4ptejqbtpycucxnjirm2cad4xwrfiu43lb7q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3285",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

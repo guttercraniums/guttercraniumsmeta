@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicqo7pdf5tneiw2uppjfly4zc6paj4hl6oe7hrevnb2bc2x4srjxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2002",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

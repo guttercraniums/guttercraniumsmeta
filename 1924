@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibiyex7dykrl7zqmfdy254xmwbszy6cnmfpe6uwt746rqtnd5p4tq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1924",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Vape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

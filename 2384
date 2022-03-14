@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuvvrlx4xbasfxvv5cwddbvkjr3gmwh5zc3xblemjpl6akfixvju",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2384",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

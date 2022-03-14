@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcnftkeajpdh7ay6f7wgw4zfyyma7iwqokzs3ur26i7zvgkddaii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1710",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

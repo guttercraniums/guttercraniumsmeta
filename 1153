@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih2nuagi2rmdghkbit3bnav7m56lg5kabzdtvypwlp7lecqnvzavm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1153",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

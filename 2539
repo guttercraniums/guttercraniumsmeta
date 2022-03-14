@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigqjqa2mjlh5hhduzmsqf4ec4fj5utyu3eimp4ioikfzmqpmak3r4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2539",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

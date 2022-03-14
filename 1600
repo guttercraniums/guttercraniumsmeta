@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid4rbjif7npfi5fbydibiatnbkcbsdfi5jxtyjlkaaxcjqoz7guay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1600",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

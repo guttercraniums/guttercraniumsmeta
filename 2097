@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig3p6fmsyjfz4t5pg7owcrh3wo5o7q7yeohrjn73lcyqufxed4uae",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2097",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

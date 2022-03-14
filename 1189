@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiettcjig46wiwmh4rmcd2fuwwx2jby226lo6awkv576ag6bhq24mq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1189",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

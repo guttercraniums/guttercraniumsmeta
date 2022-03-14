@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsjna75slqc3c4qmzf77ax3hgxvcejaok7rb3u7zm4gt4kpwtmra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2343",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

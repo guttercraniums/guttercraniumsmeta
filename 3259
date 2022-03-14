@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicsofe53qrypsuj4wzotx2qhbp6qc4ojjnyx4hh6dgcxv7n55szyu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3259",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicrtdzteedp264ozmqgyzloyvwssb7zwauvpe75bs5ro2lelynpzi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1782",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

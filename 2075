@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigcv7xh7yg52zwpzknxcr3ig73yyohpz44gh7tgenodob7275mf2q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2075",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MambaJersey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

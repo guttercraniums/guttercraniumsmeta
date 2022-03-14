@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibc2afwkht4n4y7nl6ytqki6wg7g2eapk6i7ho6fxdrlvda7gvdlm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1105",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

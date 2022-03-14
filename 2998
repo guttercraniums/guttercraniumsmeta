@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidw37lnnaqe5id2pio2w3wiwbpqxn43mj3cb4xoowx6bhxrbmwagy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2998",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HawaiianTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

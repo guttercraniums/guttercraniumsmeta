@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigc5itqtthvpf3e3llw2v5z2yopilpemuz6c3pspndhe37wvkhbiy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1606",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

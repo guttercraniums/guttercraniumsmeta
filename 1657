@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibvx3cegfqbpsg4zrcxe6no56s43qsdhpn4rph6363u746o733ziq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1657",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

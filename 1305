@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidxpfwtt6l5e3hsvjopcuwyuo2efzyf3p43viajsaaib72tbzez5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1305",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spotty"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

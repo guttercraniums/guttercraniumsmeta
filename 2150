@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih5xoxuzpdolid3egek622gob2eop2nwxbnwmztlkrsmnqo42iaqq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2150",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig6znh2me45kwuedj4ue24qpvcd3a4pu2hmkin7n3h4qh34jjrxmy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3178",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

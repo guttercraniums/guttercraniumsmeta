@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiemezcqg4q3ztsnaiv2dhykdw7z4yuzezwhi4ltue2vblet7usp5u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1975",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

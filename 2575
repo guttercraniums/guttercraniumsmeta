@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigza7twfdimtvuh7adj6lfi4fpc4oepozfgd3renzrx2amjben6va",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2575",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

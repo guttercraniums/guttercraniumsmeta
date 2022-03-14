@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeievcq6y5yer5h6c3jheva7wmjuk6ijz7k3nd6ereceslflrkytvym",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicj7v372tjlacc22wqhcchyqq7klqvw4azqffxk26zlygenwzrrea",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2691",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PoliceHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

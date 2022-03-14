@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifonzstfg46tzauhih6ml6au2jynjshcnpi2glglqv425jfrch76u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2455",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

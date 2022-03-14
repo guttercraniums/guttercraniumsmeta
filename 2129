@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifaxb6offs4gqxcqkrrrdxeqrt62fy7b6hueluzn4phknhuik2b5a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2129",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidkaev6a4xokn4tgl2yx67cwickmr6ctcg4cxvsipryjnlwdr652i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2797",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

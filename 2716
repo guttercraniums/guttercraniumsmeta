@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigaqeehn47cueb4dlrdpm5rfqlutstngssm4skvfjqhkkq2z3lcvi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2716",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

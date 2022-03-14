@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiggosget6b2crnehk3yer7n2q4k2fy6tjga3htixfg66x4uokrcgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2013",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif6uf5yeir5ix5qzjhj2j2ajrjkktetb4dvokgteozblaikcph55e",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3009",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

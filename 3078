@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibcgmdmrfngkcs3lrskm3zsbipxznrudfmihblwy3hbkm2xyxp24y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3078",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

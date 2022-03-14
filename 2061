@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdhlmet3mtcllrm766yry6tpjvo5thyhfl2n7rjrruwlge6y7gjm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2061",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

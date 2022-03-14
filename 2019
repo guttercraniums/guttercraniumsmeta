@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiblvjk7qw4qyex4ut5ejkl46eri7ftvncyg5tptu3fv2k6rvcbmvq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2019",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

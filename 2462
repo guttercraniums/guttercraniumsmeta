@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2mamz6sav5pialndb33v7vs4tivnfan7qdak35z47xl3ohw4hgm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2462",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

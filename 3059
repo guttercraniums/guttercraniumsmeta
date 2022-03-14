@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihuxqwww6fkgeiv6kajkbdmweshlvot2bhv6kzq2ol5msr2wn2gfm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3059",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

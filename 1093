@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiayjufa4t5ukaz5c734fxp7jchd2nzawhah7z4fgqglb7pqwz3myi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1093",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

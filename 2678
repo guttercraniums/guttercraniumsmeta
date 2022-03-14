@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7jxzck5ryyqup6rrjqedar3svwr6iyfkg3v7wwpmzfoljvjbnnm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2678",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

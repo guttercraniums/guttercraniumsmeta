@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeids57j46ckox36xumgizikywhqkdado5gm7xmafugrwcmjlwxlyim",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WhiteHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihu7symbupzfd6h6mgnyx2hitzndbesfc6q3ljz4birlnj2qw7vve",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2531",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BikerJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigoppuzvyluugry77bes6yua5db4uadxpghxng6fokjq5iotjquua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1801",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Robotic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

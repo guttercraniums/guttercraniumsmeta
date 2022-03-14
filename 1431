@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeierkzzeboxl6z4hiwbfsmzzjasxshzatsrxh7ovk2e6axuenbga2a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1431",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

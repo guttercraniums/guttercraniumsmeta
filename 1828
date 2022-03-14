@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidwrulqv2csjp6k6za4qjamapsahriz4sukjcyjya6dpy55jwz37y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1828",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "OrangeYellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

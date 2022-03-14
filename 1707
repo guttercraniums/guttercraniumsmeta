@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid2tjvmrueprzyruyqgemkcefv2qiqth2awzlbuk6w6o3tjfsn6we",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1707",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiee4asccuv4ul4ug6loq6eyifz6jixcrglzf23uvtuhii2j5dpwra",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2713",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig44nciyyxc5pgasyclvnqkdq3aslbs74q2ceapjdoggkl6vkoyzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1397",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

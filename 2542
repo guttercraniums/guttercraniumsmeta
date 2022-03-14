@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidyajpzhocup6t5zl3u3xrm2vhgiodsbqxeiyejhyuoff6xwcrwqi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2542",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichfjwrwv7ge6odkzqpscx4xeosufrqwm2hcdknb6covnkl4rmdiu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2383",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

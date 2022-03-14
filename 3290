@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifmir7sd3o4e53fj3tl7ju4ixzktcuwmb4cgt2ynahzvygxburqxq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3290",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

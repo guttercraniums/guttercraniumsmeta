@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidzc4hfkajwruoe6gvsmotxden2y3mde534u732vkyuddejcylaqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2774",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

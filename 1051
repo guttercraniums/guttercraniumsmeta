@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiapgi36fcoj6fk45lwxjaqfim6kg4y7yo4ikypypq44eb2gwsfuqy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1051",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SoccerStar"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

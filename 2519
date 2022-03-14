@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiathp3gdzf23rj6jx3jutims5cpi4cnijqk4riglfdpp6ifxjc3m4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2519",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Suave"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiezasxmg7rsjmlkkuvbufollzipwl3s3565xyybf4phq4y3nk7dwu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1753",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeig2yh3ge4emw2nctcne2k5q3yxq5xpabf6c63pfvozffxhs7kchsa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1131",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

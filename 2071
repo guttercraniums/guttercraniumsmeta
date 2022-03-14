@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeianu7wmvmgopmoggubgvueqwjcq5l7xhnrdypxuphijmrn3y46vfa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2071",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "WinterHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfv64u4few6k4pnfqsec4gcs223sjrdz45kuslic3uhghuj4idbm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2828",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MilitaryCoat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Insane"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

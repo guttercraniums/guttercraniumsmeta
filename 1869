@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihd73jpctfxasez2nueeguzbzgocqyhauelk3kfc2jovk3hlqilhm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1869",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

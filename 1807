@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihq3wrwlqyobl7oi3p7t2u4mjcr27hjbqhf4iuhapvlsaeeqj4gtu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1807",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

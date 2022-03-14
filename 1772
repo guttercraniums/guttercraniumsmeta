@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihjxz3g34kf3uc5a76ammlvjnojio6yzlr2ewqqdukvlezawzlw3u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1772",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

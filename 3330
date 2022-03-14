@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiee52tffptqivhsvs4vm5nur3yptjunhavawo5ewaqku3umcwnfpi",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3330",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

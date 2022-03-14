@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifdwxmysveyf32f4chlydpl2rtlw4uglaxuspd2anl5ll44wf534a",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2182",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

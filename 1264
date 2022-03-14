@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifyrjkcrbsqsn4u37djfdde77fxsbtxazzybdhhch34bg745x7b3q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1264",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

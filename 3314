@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigtcqgnmptsujhiq3fyyo7l46dcrlbmrefjryxuxjzus64ifwbc4i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3314",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "NeonJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "MetalJaw"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

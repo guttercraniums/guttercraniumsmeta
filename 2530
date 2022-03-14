@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiby4jr4ijfrthtpiq33yjrmwajmsfguvyd75z3zgtlujvezmxxr6m",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2530",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

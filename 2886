@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidcqydatzdl6aymguz6xm7ztsuvy47qtn5tudkukksmjecw25mcai",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2886",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

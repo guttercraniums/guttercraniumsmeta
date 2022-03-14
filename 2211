@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2a3ilpq6uvfvattw3cadvqsioute55jegfdfyu6tmsilyqy7hxu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2211",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CountryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

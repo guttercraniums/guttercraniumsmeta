@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiex6std4uf6buaoebovbfql2flqnny26eybukssci2gv7uo5e7cay",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1995",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

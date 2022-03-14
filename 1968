@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiavtompqttq5mbe4cyqx54skifce44f6bdy334wlowjw6nowppwpq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1968",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

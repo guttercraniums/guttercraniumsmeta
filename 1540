@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibybqmc5cxfiay6fv6ythp34qjrkqjsp4fyluh5gkroc45owjiebq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1540",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Puffy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

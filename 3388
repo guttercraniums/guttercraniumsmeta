@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigelyrmq6ucm54bycwfc3s5tfu2p4tm3c2klnrr63tvo5c4odvw5i",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3388",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

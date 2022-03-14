@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidljf6wmr542ipjwd4vqtnnzd7nnioc4lxmxpzzy23y2ox67vauii",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1669",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

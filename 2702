@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiafyu3yo4wwwrwzcmgphdgai6egssp5njhqbcif26v72xw5f6hgsq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2702",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

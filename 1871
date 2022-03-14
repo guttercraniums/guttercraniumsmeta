@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie4v6cvtayf45m65iaa3v5pbcw4n7j6mfx3mxt33rpydzlromchzy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1871",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiewlqhozmqteyvwate26ccq4lgqbab3tixntepmqahh2fyprshzum",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2862",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Deems"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

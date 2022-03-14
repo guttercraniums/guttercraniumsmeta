@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigp77e7ehbfywl6xvfbcwjgkgi65v6fxr4o6rirb5xn7aawt6gadq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2051",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "TrumpetHair"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

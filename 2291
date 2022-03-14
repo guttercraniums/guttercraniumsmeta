@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifbgnak2wm64k6cb2qgt4qqf4ifprppxqryvf3xae4xbi6f7lyoji",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2291",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Graduation"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

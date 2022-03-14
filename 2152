@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidikb6nynsox6f6mmrqspmguwhcrst7hn57w2vznh4nyshbhwu5me",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2152",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

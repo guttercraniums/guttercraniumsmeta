@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3ax2luzcdyieb4252ku56o4ue7xrjkpl55zzjz3w5m6bu72mtdy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1805",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "HODLTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

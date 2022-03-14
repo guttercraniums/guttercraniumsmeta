@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibkodz4bvgqzsihxrj5dpcyyg2q77trlzjllob6zmehentvhr5j6q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1661",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

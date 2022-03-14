@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiez7nsqwwga3hvyt3bm3nwhciqt3hoqt6geyq2osyoytkikynq7ui",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1161",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Frat"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

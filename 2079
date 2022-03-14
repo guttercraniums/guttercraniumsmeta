@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif64hkrrlsbffqbky5trmi2nzzibx53zkcrva7bgutrob6hx4alsy",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2079",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DeadMonk"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "CrossGold"
+        }
+    ]
+}

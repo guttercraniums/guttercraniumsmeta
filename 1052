@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifa2dhhzqjkuhwmni6rz62gvw5p2s5zlz2tzrbiztzf2n7devunya",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1052",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Ramze"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

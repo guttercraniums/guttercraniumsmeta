@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfc7t44uyyo47mxp5x7jpgkoiu2dled4zbvj7hiu4verw2khoxua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3020",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Jumpsuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

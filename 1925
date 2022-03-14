@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeif5nf666km4oeiqqduxqwvxusspq2jmocrgdwlvkp6urc7wj4mbua",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1925",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gory"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiaaewuw4jsejb7gw4p5c5sw4r2jamfv5kenul64gl723gt2dxzhhu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2147",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Scottie"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

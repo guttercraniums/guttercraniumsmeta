@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekc35z4qlvxby43kup44c7btbivyhafennl7amabolfyiz6ekk5q",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2887",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Togaa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

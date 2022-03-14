@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieio2ljyhdo5pbmylwamyfwyczchpqu7tsdhvvfyiszmm6jvydnla",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2704",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Spa"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibaigifcy3rrzzwobh3d7oy5fp753fb4w43rxswhyshpijw47uvkq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1391",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Shine"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

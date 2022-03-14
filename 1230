@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigmv25c24a225c7xh2swnf6hmiwmj63upmezyt55b5rzfehz4tjwe",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1230",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopSilver"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib2h6vcsw5krb242lgs2mksmouj6opbsn4uvulvfut4aqxlmewimu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1721",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "CountryMan"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

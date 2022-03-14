@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid3mzujpfw2xgbgd25z6x2exilfcwy6w3ftj5xuommnrac2et3hxm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3053",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Denim"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tripping"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

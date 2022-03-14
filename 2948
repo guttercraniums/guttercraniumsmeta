@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie3y6q2e5a7mya2ie3kzb5s637zq2gen3w4kpd2pawkflj5bjwyyq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2948",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "SkeletonTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

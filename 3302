@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibtrr3es2huan5eqjtqji4ahrlwt7pq3bv323slidpq3m3jr3s2qu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ciggy"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glimmer"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Wreath"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

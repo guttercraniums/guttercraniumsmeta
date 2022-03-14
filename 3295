@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhzcqnjldfvnolhm2jjorjynkaekw6qbcxf5ssmkxumq6hqlfaou",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3295",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

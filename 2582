@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeige22fgq3sfrjzuvlgylvk3hapiy3tle7yd2xz3kv7kgparot32wa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2582",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snoopy"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

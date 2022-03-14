@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigfmx73jyjq65dduj45bfxvb64lpiteq4lmd5zr53rjdvvzljbslm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1967",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Teary"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

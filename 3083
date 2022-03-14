@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieyg6uxfsc4u5b5gqyzd5yvy2s3cloywylpqoniudmxyoz3rogk3y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3083",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Surgeon"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "RoundGlasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

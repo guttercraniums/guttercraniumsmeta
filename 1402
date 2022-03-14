@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeie6wb5ofeu6j32mtosdbtspw3tpzw3znk2hiopahybrfrosjpgxiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1402",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Heaven"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

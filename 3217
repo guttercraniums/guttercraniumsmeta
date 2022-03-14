@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigv2r3slecjgz6bcy5z775sowzacjd7cojto3mkch2vopiigeloa4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3217",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FurJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "AmericaHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

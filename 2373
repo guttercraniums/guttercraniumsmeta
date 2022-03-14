@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiecoztcpt2itiuhfqx6lmconxvpzzw76wflujvysqjf2tixd6smte",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2373",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Hybrid"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FirstClass"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

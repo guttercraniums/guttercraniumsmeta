@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibzgpcp52dhxbr3c5niwzpe2ud5gposo5xbfqe44vtxij5ixeiv5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2314",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MediumSlateBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

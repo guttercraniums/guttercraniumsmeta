@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigb36siugioniusplaev3usjzww5wmhuhxasrupogsml6qcqnoh64",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2412",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IrresistiblePink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "SmokePipe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Scanner"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

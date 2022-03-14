@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib3zo36tjt5xdbnreqoca32hterg3pwesfoc5n5imei7z7uh4cfpq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1958",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "ArmyTee"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

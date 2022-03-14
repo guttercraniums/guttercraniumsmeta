@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeib7r7d6ulbs5fhxulwtcdw5nwrd4hivggh3ojysjnh4rekb4jyzxa",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mandarin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Inked"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

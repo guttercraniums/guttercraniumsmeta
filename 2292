@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigvh7aessvy62jx5brrvhi6tku5pcvymot3edrbfqo4ao2dfjk4ke",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2292",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

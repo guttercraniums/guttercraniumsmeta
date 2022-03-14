@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeifezs26axm7ekzdawpkyfbbvrajxuo4uhio4w2jojam2tp6k4pciu",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1003",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBase"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "GlaringShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "EthereumHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

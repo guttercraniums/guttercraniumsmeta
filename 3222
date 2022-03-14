@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih7yw46e4pjje5qqxfrol4hicjcyw4ezco5adc5q3kjendke7llj4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3222",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Sherwani"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "CoolShades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

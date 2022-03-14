@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeidfms4cnjyxsm4gr5cddephbau4nln3cspum4ed35rknq5k6aef5y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1130",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Patchy"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "SkiGoggles"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

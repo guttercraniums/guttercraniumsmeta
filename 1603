@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeieenu7vgnu75n745wq3txwuchplxzy736davvevj3dpd4db57liby",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1603",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bohemian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "BirthdayHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

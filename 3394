@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeichojgedgifor4uiognkyuhfemo2cwrmddj75bwez7mlm6pq6c2i4",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3394",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "BlackCrew"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pirate"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

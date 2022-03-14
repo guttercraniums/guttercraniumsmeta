@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeibhoti75p3q3ewg5owtrj66fufn2igodfozunamtq3vgk3irg2f74",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2355",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Muzak"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

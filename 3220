@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeiekmcuumv6dxfbi7pfubvs35xmgmy4o65irhburjn7exdvr6aco24",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3220",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Camouflage"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sly"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PropellerHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeic7ahipkdg4awbqhsdhv6cccxewfnlhgwfce2yx4xt7fudsnqlpuq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2654",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "MJ"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Spoon"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

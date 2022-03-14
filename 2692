@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeih6wzacytbk22leszksu4siofs5hkef5l6rmdbvrujrjfvjutexiq",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2692",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "RoyalTiger"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "AstronautSuit"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "WheatStrand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "CaptainHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "HoopGold"
+        }
+    ]
+}

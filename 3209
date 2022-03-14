@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigber64w3oi5bbgqin7jfdgkksj2df6y7xdvomgzaonfu6xfh7qdm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #3209",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "DarkViolet"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ArmyPrint"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Robe"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "YellowHardHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

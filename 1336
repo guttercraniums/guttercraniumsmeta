@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeia32agaf46j3qrerbcomvygwvke4vzuofgx7o6czr7xiofzeqm67y",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1336",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "IndianRed"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "PawBandana"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

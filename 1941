@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeicb2upzz5rmk2ytms5pk7uybxtnog6cpb76msdbjs7bgtumlc3iwm",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1941",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "UNBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Ramen"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "None"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeigpkrzmktfu2zrbgd3wel7w7pmavaektduhvcb4fdv46c3x3k5sue",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2513",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "PersianGreen"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tatted"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "FireJacket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stunned"
+        },
+        {
+            "trait_type": "Head",
+            "value": "HangryHat"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

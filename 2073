@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeid562kn4pvuygicrb7uuws2oj2ebw5minq2uj7o7acqp76xdjrc2u",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #2073",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "MorningBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "RoyalPrince"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pizza"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bloody"
+        },
+        {
+            "trait_type": "Head",
+            "value": "RedHeadband"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}

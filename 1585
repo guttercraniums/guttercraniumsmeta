@@ -1,0 +1,35 @@
+{
+    "image": "ipfs://bafybeihdlbbyhdmhwrajsnpr4amerdlpknd6z2btafmxykd7ypp7lqecau",
+    "external_link": "https://www.guttercraniums.com/",
+    "name": "Gutter Cranium #1585",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "SapphireBlue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "OGBlue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Shades"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "None"
+        }
+    ]
+}
